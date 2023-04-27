@@ -132,12 +132,10 @@ function Treemap(data, { // data is either tabular (array of objects) or hierarc
 const start_time = window.performance.now();
 
 document.addEventListener("DOMContentLoaded", async function() {
-    // Load the data
-    response = await fetch("./data/adl_word_count_FINAL.json");
-    //flare = FileAttachment("hate_count_ADL_NEW.json").json()
-
-    // Parse the data
-    hateData = await response.json();
+    const es = new ElasticSearchAPI();
+    const response = await es.getData(DATA_TYPES.HATE);
+    const hateData = es.parseObjResponse(response);
+//    hateData = await response.json();
 
 
 

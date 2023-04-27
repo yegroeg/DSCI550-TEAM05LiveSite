@@ -1,3 +1,5 @@
+// This file is needed for the language charts.
+
 var count = 0;
 
 function uid(name) {

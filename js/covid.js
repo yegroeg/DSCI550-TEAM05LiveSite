@@ -160,10 +160,12 @@ const start_time = window.performance.now();
 
 document.addEventListener("DOMContentLoaded", async function() {
     // Load the data
-    response = await fetch("./data/covid_data.json");
+    const es = new ElasticSearchAPI();
+    const response = await es.getData(DATA_TYPES.COVID);
+    const covidData = es.parseResponse(response);
 
     // Parse the data
-    covidData = await response.json();
+//    covidData = await response.json();
 
     // Create the chart, have to add 0.1 because this chart will not take any 0 values
     chart  = IndexChart(covidData, {
@@ -185,10 +187,3 @@ document.addEventListener("DOMContentLoaded", async function() {
     console.log("Chart completed", time)
 });
 
-fetch("./data/covid_data.json")
-    .then(response => response.json())
-    .then(alphabet => {
-        console.log("Fetch loaded", window.performance.now() - start_time)
-    })
-
-console.log("Script loaded", window.performance.now() - start_time)

@@ -93,10 +93,12 @@ const start_time = window.performance.now();
 
 document.addEventListener("DOMContentLoaded", async function() {
     // Load the data
-    response = await fetch("./data/detoxify_count.json");
+    const es = new ElasticSearchAPI();
+    const response = await es.getData(DATA_TYPES.DETOXIFY);
+    const detoxifyData = es.parseResponse(response);
 
     // Parse the data
-    detoxifyData = await response.json();
+//    detoxifyData = await response.json();
 
     // Create the chart
     chart = PieChart(detoxifyData, {
@@ -115,11 +117,3 @@ document.addEventListener("DOMContentLoaded", async function() {
     const time = window.performance.now();
     console.log("Chart completed", time)
 });
-
-fetch("./data/detoxify_count.json")
-    .then(response => response.json())
-    .then(alphabet => {
-        console.log("Fetch loaded", window.performance.now() - start_time)
-    })
-
-console.log("Script loaded", window.performance.now() - start_time)

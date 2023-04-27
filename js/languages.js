@@ -197,16 +197,15 @@ function generateChart(data, height, width, margin) {
 
 document.addEventListener("DOMContentLoaded", async function() {
     // Load the data
-    response = await fetch("./data/languages_data.json");
-
-    // Parse the data
-    data = await response.json();
+    const es = new ElasticSearchAPI();
+    const response = await es.getData(DATA_TYPES.LANGUAGE);
+    const data = es.parseResponse(response);
 
     // Define layout dimensions
     const width = 1200;
     const height = 500
     const margin = ({top: 24, right: 10, bottom: 34, left: 40})
-    
+
     console.log(data);
     // Create SVG chart with the dataset
     const svgChart = generateChart(data, height, width, margin);
