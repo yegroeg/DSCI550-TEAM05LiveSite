@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/html">
+<head>
+    <meta charset="utf-8">
+    <title>DSCI 550 - Team 5 Metrics - Sp2023</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/dashboard.css">
+</head>
+<body>
+<header class="navbar navbar-dark sticky-top bg-dark flex-md-nowrap p-0 shadow">
+    <a class="navbar-brand col-md-3 col-lg-2 me-0 px-3" href="#">DSCI 550 - Pixstory Metrics - Team 5</a>
+    <button class="navbar-toggler position-absolute d-md-none collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#sidebarMenu" aria-controls="sidebarMenu" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+</header>
+
+<div class="container-fluid">
+    <div class="row">
+        <nav id="sidebarMenu" class="col-md-3 col-lg-2 d-md-block bg-light sidebar collapse">
+            <div class="position-sticky pt-3">
+                <ul class="nav flex-column">
+                    <li class="nav-item">
+                        <a class="nav-link" aria-current="page" href="./">
+                            <span data-feather="home"></span>
+                            Home
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="./language.html">
+                            <span data-feather="globe"></span>
+                            Language
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" href="./word_cloud.html">
+                            <span data-feather="cloud"></span>
+                            Word Cloud
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="./hate_speech.html">
+                            <span data-feather="octagon"></span>
+                            Hate Speech
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="./detoxify.html">
+                            <span data-feather="star"></span>
+                            Toxicity Speech
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="./covid.html">
+                            <span data-feather="shield"></span>
+                            Covid-19
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="./interests.html">
+                            <span data-feather="smile"></span>
+                            Interests
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+
+        <main class="col-md-9 ms-sm-auto col-lg-10 px-md-4">
+            <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-12">
+                            <!-- Main Content for the webpage goes here -->
+                            <h1>Languages in the United States</h1>
+                            <hr>
+                            <p>This visual represents the most active languages in the United States. The languages that are most stand-alone reflect those languages with the greatest count in the first year and in totality. Lines with greater arcs represents the greatest growth or change overall.</p>
+                            <p> The chart is on a logaritmic scale, the help reduce the magnitude of the most active language (english) on the chart. The x-axis represents the number of languages by date: comparing the first year's count to the total count. The y-axis is contextualized by specific language.</p>
+                            <p>The top and right most line represents English (en), followed by Itlaian (it) as the most active languages in the United States. We see that Italian (it) has a steeper growth curve, indicative that it gained more Italian-posts faster (relative to its intitial count) than any other language measured in the Pixstory data.</p>
+                            <p>In other words, it had the greatest percent increase of all languages, however not the greatest count, overall.</p>
+                            <div>
+                            <figure class="figure" style="position: relative; height:35vh; width:65vw">
+                                    <div id="lanaguages line chart" class="language change in US"></div>
+                                    <figcaption class="figure-caption text-end">United States</figcaption>
+                                </figure>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.min.js" integrity="sha384-cuYeSxntonz0PPNlHhBs68uyIAVpIIOZZ5JqeqvYYIcEL727kskC66kF92t6Xl2V" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.4/d3.min.js" integrity="sha512-nfUlp2ZWPKWlnAH/OsMeAqRSYBxOdPYeBXwceyw6QqqZ7uTT/s5/eS1hMKphjVBouk0jf/JQ8ULVJRnEqSHkXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3-cloud/1.2.5/d3.layout.cloud.min.js" integrity="sha512-HjKxWye8lJGPu5q1u/ZYkHlJrJdm6KGr89E6tOrXeKm1mItb1xusPU8QPcKVhP8F9LjpZT7vsu1Fa+dQywP4eg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<!-- <script src="https://unpkg.com/feather-icons"></script> -->
+<script src="https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js"></script>
+<script src="js/languages.js"></script>
+<script src="js/uid.js"></script>
+<script src="js/main.js"></script>
+</body>
+</html>

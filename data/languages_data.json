@@ -1,0 +1,303 @@
+[
+    {
+        "begin_count_gln": 3.4554539687786283,
+        "country_count_begin": 3.40705081480425,
+        "country_count_end": 3.8788089323592057,
+        "end_count_gln": 4.305480348653205,
+        "google_lang_narrative": "en"
+    },
+    {
+        "begin_count_gln": 2.66838591669,
+        "country_count_begin": 2.4216039268698313,
+        "country_count_end": 3.0576661039098294,
+        "end_count_gln": 3.662001879389917,
+        "google_lang_narrative": "it"
+    },
+    {
+        "begin_count_gln": 1.0,
+        "country_count_begin": 1.0,
+        "country_count_end": 1.0791812460476249,
+        "end_count_gln": 1.146128035678238,
+        "google_lang_narrative": "sl"
+    },
+    {
+        "begin_count_gln": 1.1760912590556813,
+        "country_count_begin": 1.0413926851582251,
+        "country_count_end": 1.8750612633917,
+        "end_count_gln": 2.143014800254095,
+        "google_lang_narrative": "fr"
+    },
+    {
+        "begin_count_gln": 1.4471580313422192,
+        "country_count_begin": 1.380211241711606,
+        "country_count_end": 1.7558748556724915,
+        "end_count_gln": 2.1271047983648077,
+        "google_lang_narrative": "id"
+    },
+    {
+        "begin_count_gln": 1.0413926851582251,
+        "country_count_begin": 1.0413926851582251,
+        "country_count_end": 1.3424226808222062,
+        "end_count_gln": 1.4913616938342726,
+        "google_lang_narrative": "nl"
+    },
+    {
+        "begin_count_gln": 1.1139433523068367,
+        "country_count_begin": 1.0791812460476249,
+        "country_count_end": 1.1760912590556813,
+        "end_count_gln": 1.414973347970818,
+        "google_lang_narrative": "hi"
+    },
+    {
+        "begin_count_gln": 1.4471580313422192,
+        "country_count_begin": 1.4471580313422192,
+        "country_count_end": 1.5185139398778875,
+        "end_count_gln": 1.7403626894942439,
+        "google_lang_narrative": "bn"
+    },
+    {
+        "begin_count_gln": 1.0,
+        "country_count_begin": 1.0,
+        "country_count_end": 1.2304489213782739,
+        "end_count_gln": 1.2304489213782739,
+        "google_lang_narrative": "cy"
+    },
+    {
+        "begin_count_gln": 1.0,
+        "country_count_begin": 1.0791812460476249,
+        "country_count_end": 1.9242792860618816,
+        "end_count_gln": 2.0086001717619175,
+        "google_lang_narrative": "af"
+    },
+    {
+        "begin_count_gln": 1.0,
+        "country_count_begin": 1.0,
+        "country_count_end": 1.3222192947339193,
+        "end_count_gln": 1.792391689498254,
+        "google_lang_narrative": "ro"
+    },
+    {
+        "begin_count_gln": 1.0,
+        "country_count_begin": 1.0,
+        "country_count_end": 1.0413926851582251,
+        "end_count_gln": 1.0413926851582251,
+        "google_lang_narrative": "da"
+    },
+    {
+        "begin_count_gln": 1.0,
+        "country_count_begin": 1.1139433523068367,
+        "country_count_end": 1.5563025007672873,
+        "end_count_gln": 1.6127838567197355,
+        "google_lang_narrative": "no"
+    },
+    {
+        "begin_count_gln": 1.0,
+        "country_count_begin": 1.0,
+        "country_count_end": 1.1139433523068367,
+        "end_count_gln": 1.3424226808222062,
+        "google_lang_narrative": "tl"
+    },
+    {
+        "begin_count_gln": 1.0,
+        "country_count_begin": 1.0,
+        "country_count_end": 1.0413926851582251,
+        "end_count_gln": 1.0791812460476249,
+        "google_lang_narrative": "es"
+    },
+    {
+        "begin_count_gln": 1.1139433523068367,
+        "country_count_begin": 1.0,
+        "country_count_end": 1.2304489213782739,
+        "end_count_gln": 1.724275869600789,
+        "google_lang_narrative": "de"
+    },
+    {
+        "begin_count_gln": 1.0,
+        "country_count_begin": 1.0,
+        "country_count_end": 1.0413926851582251,
+        "end_count_gln": 1.0413926851582251,
+        "google_lang_narrative": "hr"
+    },
+    {
+        "begin_count_gln": 1.0,
+        "country_count_begin": 1.0,
+        "country_count_end": 1.0,
+        "end_count_gln": 1.2041199826559248,
+        "google_lang_narrative": "so"
+    },
+    {
+        "begin_count_gln": 1.0,
+        "country_count_begin": 1.0,
+        "country_count_end": 1.0413926851582251,
+        "end_count_gln": 1.146128035678238,
+        "google_lang_narrative": "sv"
+    },
+    {
+        "begin_count_gln": 1.0,
+        "country_count_begin": 1.0,
+        "country_count_end": 1.0,
+        "end_count_gln": 1.0,
+        "google_lang_narrative": "ne"
+    },
+    {
+        "begin_count_gln": 1.0413926851582251,
+        "country_count_begin": 1.0413926851582251,
+        "country_count_end": 1.1139433523068367,
+        "end_count_gln": 1.1760912590556813,
+        "google_lang_narrative": "et"
+    },
+    {
+        "begin_count_gln": 1.0,
+        "country_count_begin": 1.0,
+        "country_count_end": 1.0791812460476249,
+        "end_count_gln": 1.146128035678238,
+        "google_lang_narrative": "tr"
+    },
+    {
+        "begin_count_gln": 1.0,
+        "country_count_begin": 1.0,
+        "country_count_end": 1.0,
+        "end_count_gln": 1.1139433523068367,
+        "google_lang_narrative": "pl"
+    },
+    {
+        "begin_count_gln": 1.0,
+        "country_count_begin": 1.0,
+        "country_count_end": 1.0,
+        "end_count_gln": 1.0,
+        "google_lang_narrative": "mr"
+    },
+    {
+        "begin_count_gln": 1.0,
+        "country_count_begin": 1.0,
+        "country_count_end": 1.0413926851582251,
+        "end_count_gln": 1.1139433523068367,
+        "google_lang_narrative": "pt"
+    },
+    {
+        "begin_count_gln": 1.146128035678238,
+        "country_count_begin": 1.1760912590556813,
+        "country_count_end": 1.724275869600789,
+        "end_count_gln": 1.9344984512435677,
+        "google_lang_narrative": "ca"
+    },
+    {
+        "begin_count_gln": 1.0,
+        "country_count_begin": 1.0,
+        "country_count_end": 1.0,
+        "end_count_gln": 1.0,
+        "google_lang_narrative": "ru"
+    },
+    {
+        "begin_count_gln": 1.0,
+        "country_count_begin": 1.0,
+        "country_count_end": 1.0,
+        "end_count_gln": 1.0,
+        "google_lang_narrative": "vi"
+    },
+    {
+        "begin_count_gln": 1.0,
+        "country_count_begin": 1.0,
+        "country_count_end": 1.0,
+        "end_count_gln": 1.0,
+        "google_lang_narrative": "fa"
+    },
+    {
+        "begin_count_gln": 1.0,
+        "country_count_begin": 1.0,
+        "country_count_end": 1.0,
+        "end_count_gln": 1.146128035678238,
+        "google_lang_narrative": "sw"
+    },
+    {
+        "begin_count_gln": 1.0,
+        "country_count_begin": 1.0,
+        "country_count_end": 1.0,
+        "end_count_gln": 1.0413926851582251,
+        "google_lang_narrative": "lv"
+    },
+    {
+        "begin_count_gln": 1.0,
+        "country_count_begin": 1.0,
+        "country_count_end": 1.0,
+        "end_count_gln": 1.1139433523068367,
+        "google_lang_narrative": "sq"
+    },
+    {
+        "begin_count_gln": 1.0,
+        "country_count_begin": 1.0,
+        "country_count_end": 1.0,
+        "end_count_gln": 1.0,
+        "google_lang_narrative": "hu"
+    },
+    {
+        "begin_count_gln": 1.0,
+        "country_count_begin": 1.0,
+        "country_count_end": 1.0,
+        "end_count_gln": 1.0,
+        "google_lang_narrative": "te"
+    },
+    {
+        "begin_count_gln": 1.0,
+        "country_count_begin": 1.0,
+        "country_count_end": 1.0413926851582251,
+        "end_count_gln": 1.0791812460476249,
+        "google_lang_narrative": "lt"
+    },
+    {
+        "begin_count_gln": 1.0,
+        "country_count_begin": 1.0,
+        "country_count_end": 1.0,
+        "end_count_gln": 1.1139433523068367,
+        "google_lang_narrative": "fi"
+    },
+    {
+        "begin_count_gln": 1.0,
+        "country_count_begin": 1.0,
+        "country_count_end": 1.0,
+        "end_count_gln": 1.0,
+        "google_lang_narrative": "sk"
+    },
+    {
+        "begin_count_gln": 1.0,
+        "country_count_begin": 1.0,
+        "country_count_end": 1.0413926851582251,
+        "end_count_gln": 1.1760912590556813,
+        "google_lang_narrative": "ml"
+    },
+    {
+        "begin_count_gln": 1.0,
+        "country_count_begin": 1.0,
+        "country_count_end": 1.0,
+        "end_count_gln": 1.0,
+        "google_lang_narrative": "cs"
+    },
+    {
+        "begin_count_gln": 1.0,
+        "country_count_begin": 1.0,
+        "country_count_end": 1.0,
+        "end_count_gln": 1.0,
+        "google_lang_narrative": "ja"
+    },
+    {
+        "begin_count_gln": 1.0,
+        "country_count_begin": 1.0,
+        "country_count_end": 1.0,
+        "end_count_gln": 1.0,
+        "google_lang_narrative": "ta"
+    },
+    {
+        "begin_count_gln": 1.0,
+        "country_count_begin": 1.0,
+        "country_count_end": 1.0,
+        "end_count_gln": 1.0,
+        "google_lang_narrative": "zh-cn"
+    },
+    {
+        "begin_count_gln": 1.0,
+        "country_count_begin": 1.0,
+        "country_count_end": 1.0,
+        "end_count_gln": 1.0,
+        "google_lang_narrative": "pa"
+    }
+]

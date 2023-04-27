@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/html">
+    <head>
+        <meta charset="utf-8">
+        <title>DSCI 550 - Team 5 Metrics - Sp2023</title>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+        <link rel="stylesheet" href="css/main.css">
+        <link rel="stylesheet" href="css/dashboard.css">
+    </head>
+    <body>
+        <header class="navbar navbar-dark sticky-top bg-dark flex-md-nowrap p-0 shadow">
+            <a class="navbar-brand col-md-3 col-lg-2 me-0 px-3" href="#">DSCI 550 - Pixstory Metrics - Team 5</a>
+            <button class="navbar-toggler position-absolute d-md-none collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#sidebarMenu" aria-controls="sidebarMenu" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+        </header>
+
+        <div class="container-fluid">
+            <div class="row">
+                <nav id="sidebarMenu" class="col-md-3 col-lg-2 d-md-block bg-light sidebar collapse">
+                    <div class="position-sticky pt-3">
+                        <ul class="nav flex-column">
+                            <li class="nav-item">
+                                <a class="nav-link active" aria-current="page" href="./">
+                                    <span data-feather="home"></span>
+                                    Home
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="./language.html">
+                                    <span data-feather="globe"></span>
+                                    Language
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="./word_cloud.html">
+                                    <span data-feather="cloud"></span>
+                                    Word Cloud
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="./hate_speech.html">
+                                    <span data-feather="octagon"></span>
+                                    Hate Speech
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="./detoxify.html">
+                                    <span data-feather="star"></span>
+                                    Toxicity Speech
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="./covid.html">
+                                    <span data-feather="shield"></span>
+                                    Covid-19
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="./interests.html">
+                                    <span data-feather="smile"></span>
+                                    Interests
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>
+
+                <main class="col-md-9 ms-sm-auto col-lg-10 px-md-4">
+                    <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-12">
+                                    <!-- Main Content for the webpage goes here -->
+                                    <h1>Pixstory Charts</h1>
+                                    <p>This page contains documentation for the charts that we have created for Pixstory. The charts are designed to help tell a story behind Pixstory's dataset. It can allow us to examine the interests and priorities of Pixstory users, identify trends in posts' languages, and determine whether the platform is truly "clean".</p>
+                                    <p class="sub-header">DSCI 550 (Spring 2023) - Team 5</p>
+                                    <hr>
+                                    <h2>Language</h2>
+                                    <p>Language is an important metric for social media platforms like Pixstory as it helps to understand the diversity of the user base and the popularity of the platform in different regions. To analyze language on Pixstory, we collected data on the number of foreign languages used in posts over a period of time. This chart can help identify trends in language diversity on the platform and its popularity in non-English speaking countries.</p>
+                                    <a href="./language.html" class="btn btn-primary btn-sm" tabindex="-1" role="button">Language Metrics</a>
+                                    <hr>
+                                    <h2>Word Cloud</h2>
+                                    <p>A word cloud is a graphical representation of the most commonly used words in a corpus of text, where the size of each word represents the use frequency in the dataset. To create a word cloud chart for Pixstory, we collected data on all words used in the Pixstory dataset, and identified the most commonly used words.</p>
+                                    <p>This word cloud shows the top 500 most commonly used words. Wth this chart, we can glean insights into the concerns and interest of users. </p>
+                                    <p>With word cloud analysis, we can identify trends in specific keywords and hashtags. Pixstory themselves can use information from word cloud charts to tailor its features and content accordingly to their users' interests. </p>
+                                    <p>Additionally, a word cloud can be used to detect spam and other unwanted content.</p>
+                                    <a href="./word_cloud.html" class="btn btn-primary btn-sm" tabindex="-1" role="button">Word Cloud Metrics</a>
+                                    <hr>
+                                    <h2>Hate Words</h2>
+                                    <p>A bar chart that displays a count of all words associated with hate words defined in GLAAD and ADL. Using this chart, oen can determine the prevalence of hate speech on the Pixstory platform. The chart was created by analyzing the text content of each post on the platform and counting the occurrences of specific words associated with hate speech.</p>
+                                    <p>The hate words bar chart is useful to understand what hate speech is actually spoken on their platform.</p>
+                                    <p>This chart will help us determine whether Pixstory truly promotes a safe and clean community. </p>
+                                    <a href="./hate_speech.html" class="btn btn-primary btn-sm" tabindex="-1" role="button">Hate Words Metrics</a>
+                                    <hr>
+                                    <h2>Toxicity Speech</h2>
+                                    <p>A pie chart displaying a count of Detoxify's toxicity scores from 0.1-1.0 in each narrative within the Pixstory posts. The majority of Pixstory's narratives received a toxicity score of <0.1 (97.8%).</p>
+                                    <p>It is important to use Detoxify scores, created from a machine learning model, to determine whether Pixstory is a clean social media platform. Combined with the Hate Words Bar Chart, these visualizations show whether Pixstory is truly a positive environment.</p>
+                                    <a href="./detoxify.html" class="btn btn-primary btn-sm" tabindex="-1" role="button">Toxicity Speech Metrics</a>
+                                    <hr>
+                                    <h2>Covid19</h2>
+                                    <p>A line and index chart that examines Covid-19 trends for Pixstory's users and their engagement with the topic through their posts. The chart was generated by analyzing the text of each post to identify keywords related to Covid19 vaccination.</p>
+                                    <p>The chart can show the frequency of posts related to Covid19 and vaccination over a certain period of time, allowing Pixstory to identify trends in user engagement. Additionally, the chart can help Pixstory identify the communities or user groups that are more likely to be discussing Covid19 and vaccination, allowing them to target their efforts to those groups specifically.</p>
+                                    <p>The Covid19 chart provides insight about the public health efforts during this timeframe of 2020-2022 and whether any correlations exist between Pixstory mentions of COVID and the number of COVID cases/vaccinations.</p>
+                                    <a href="./covid.html" class="btn btn-primary btn-sm" tabindex="-1" role="button">Covid19 Metrics</a>
+                                    <hr>
+                                    <h2>Interests</h2>
+                                    <p>An aggregation and grouping of the interests defined by users that will help analyze the most common interests across a period of time. The chart was generated by analyzing the interests defined by users in their profiles within the interest column.</p>
+                                    <p>The chart can show the frequency of different interests over a certain period of time, allowing us to understand the preferences and behaviors of Pixstory users. </p>
+                                    <a href="./interests.html" class="btn btn-primary btn-sm" tabindex="-1" role="button">Interests Metrics</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </main>
+            </div>
+        </div>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.min.js" integrity="sha384-cuYeSxntonz0PPNlHhBs68uyIAVpIIOZZ5JqeqvYYIcEL727kskC66kF92t6Xl2V" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.4/d3.min.js" integrity="sha512-nfUlp2ZWPKWlnAH/OsMeAqRSYBxOdPYeBXwceyw6QqqZ7uTT/s5/eS1hMKphjVBouk0jf/JQ8ULVJRnEqSHkXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-cloud/1.2.5/d3.layout.cloud.min.js" integrity="sha512-HjKxWye8lJGPu5q1u/ZYkHlJrJdm6KGr89E6tOrXeKm1mItb1xusPU8QPcKVhP8F9LjpZT7vsu1Fa+dQywP4eg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+        <script src="https://unpkg.com/feather-icons"></script>
+        <script src="https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js"></script>
+        <script src="js/main.js"></script>
+    </body>
+</html>

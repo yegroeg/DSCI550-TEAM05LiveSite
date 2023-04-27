@@ -1,0 +1,23 @@
+h1 {
+    padding-top:20px;
+}
+
+h2 {
+    margin-top: 30px;
+    padding-bottom: 5px;
+}
+
+.sub-header {
+    color:rgba(0,0,0,0.5);
+    font-size: 0.8rem;
+}
+
+.word-count-chart {
+    background-color: #f6f6f6;
+    border: #f6f6f6;
+    box-shadow: #f6f6f6;
+    border-radius: 15px;
+    padding: 20px;
+}
+
+/* Path: dashboar */

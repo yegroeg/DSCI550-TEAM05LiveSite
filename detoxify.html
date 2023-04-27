@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/html">
+<head>
+    <meta charset="utf-8">
+    <title>DSCI 550 - Team 5 Metrics - Sp2023</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/dashboard.css">
+</head>
+<body>
+<header class="navbar navbar-dark sticky-top bg-dark flex-md-nowrap p-0 shadow">
+    <a class="navbar-brand col-md-3 col-lg-2 me-0 px-3" href="#">DSCI 550 - Pixstory Metrics - Team 5</a>
+    <button class="navbar-toggler position-absolute d-md-none collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#sidebarMenu" aria-controls="sidebarMenu" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+</header>
+
+<div class="container-fluid">
+    <div class="row">
+        <nav id="sidebarMenu" class="col-md-3 col-lg-2 d-md-block bg-light sidebar collapse">
+            <div class="position-sticky pt-3">
+                <ul class="nav flex-column">
+                    <li class="nav-item">
+                        <a class="nav-link" aria-current="page" href="./">
+                            <span data-feather="home"></span>
+                            Home
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="./language.html">
+                            <span data-feather="globe"></span>
+                            Language
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="./word_cloud.html">
+                            <span data-feather="cloud"></span>
+                            Word Cloud
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="./hate_speech.html">
+                            <span data-feather="octagon"></span>
+                            Hate Speech
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" href="./detoxify.html">
+                            <span data-feather="star"></span>
+                            Toxicity Speech
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="./covid.html">
+                            <span data-feather="shield"></span>
+                            Covid-19
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <!-- Add active class -->
+                        <a class="nav-link" href="./interests.html">
+                            <span data-feather="smile"></span>
+                            Interests
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+
+        <main class="col-md-9 ms-sm-auto col-lg-10 px-md-4">
+            <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-12">
+                            <!-- Main Content for the webpage goes here -->
+                            <h1>Detoxify Count Visualization Chart</h1>
+                            <hr>
+                            <h2>Toxicity Pixstory Pie Chart - Examining Detoxify's Toxicity Score Distributions in the Narrative of Pixstory Posts </h2>
+                            <p>This chart shows a <strong>subset of the Pixstory narratives by toxicity score range (from 0.1-1.0)</strong>.</h3>
+                            <p>Each Pixstory post has a narrative. Although 97.8% of posts have a narrative with toxicity scores of < 0.1, We take a deeper dive into the subset of posts (the other 2.2%) that have a score of >= 0.1 here. </p>
+                            <div>
+                                <figure class="figure">
+                                    <div id="pie-chart-all" class="pie-count-chart"></div>
+                                    <figcaption class="figure-caption text-end"> Four different types of COVID data shown over the Pixstory data timeframe </figcaption>
+                                </figure>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.min.js" integrity="sha384-cuYeSxntonz0PPNlHhBs68uyIAVpIIOZZ5JqeqvYYIcEL727kskC66kF92t6Xl2V" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.4/d3.min.js" integrity="sha512-nfUlp2ZWPKWlnAH/OsMeAqRSYBxOdPYeBXwceyw6QqqZ7uTT/s5/eS1hMKphjVBouk0jf/JQ8ULVJRnEqSHkXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3-cloud/1.2.5/d3.layout.cloud.min.js" integrity="sha512-HjKxWye8lJGPu5q1u/ZYkHlJrJdm6KGr89E6tOrXeKm1mItb1xusPU8QPcKVhP8F9LjpZT7vsu1Fa+dQywP4eg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="https://unpkg.com/feather-icons"></script>
+<script src="https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js"></script>
+<script src="js/detoxify.js"></script>
+<script src="js/main.js"></script>
+</body>
+</html>
