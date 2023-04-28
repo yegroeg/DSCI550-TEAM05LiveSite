@@ -1,0 +1,519 @@
+{
+    "took": 3,
+    "timed_out": false,
+    "_shards": {
+        "total": 1,
+        "successful": 1,
+        "skipped": 0,
+        "failed": 0
+    },
+    "hits": {
+        "total": {
+            "value": 50,
+            "relation": "eq"
+        },
+        "max_score": 1.0,
+        "hits": [
+            {
+                "_index": "interest_index",
+                "_id": "SZ3cxIcBRlEMH4oPzS85",
+                "_score": 1.0,
+                "_source": {
+                    "count": "24539",
+                    "interest": "sports",
+                    "maininterest": "sports"
+                }
+            },
+            {
+                "_index": "interest_index",
+                "_id": "Sp3cxIcBRlEMH4oPzS90",
+                "_score": 1.0,
+                "_source": {
+                    "count": "22946",
+                    "interest": "entertainment",
+                    "maininterest": "entertainment"
+                }
+            },
+            {
+                "_index": "interest_index",
+                "_id": "S53cxIcBRlEMH4oPzS-B",
+                "_score": 1.0,
+                "_source": {
+                    "count": "22055",
+                    "interest": "health",
+                    "maininterest": "health"
+                }
+            },
+            {
+                "_index": "interest_index",
+                "_id": "TJ3cxIcBRlEMH4oPzS-N",
+                "_score": 1.0,
+                "_source": {
+                    "count": "21883",
+                    "interest": "politics",
+                    "maininterest": "politics"
+                }
+            },
+            {
+                "_index": "interest_index",
+                "_id": "TZ3cxIcBRlEMH4oPzS-Y",
+                "_score": 1.0,
+                "_source": {
+                    "count": "21560",
+                    "interest": "food",
+                    "maininterest": "food"
+                }
+            },
+            {
+                "_index": "interest_index",
+                "_id": "Tp3cxIcBRlEMH4oPzS-j",
+                "_score": 1.0,
+                "_source": {
+                    "count": "20994",
+                    "interest": "history",
+                    "maininterest": "history"
+                }
+            },
+            {
+                "_index": "interest_index",
+                "_id": "T53cxIcBRlEMH4oPzS-w",
+                "_score": 1.0,
+                "_source": {
+                    "count": "20964",
+                    "interest": "environment",
+                    "maininterest": "environment"
+                }
+            },
+            {
+                "_index": "interest_index",
+                "_id": "UJ3cxIcBRlEMH4oPzS--",
+                "_score": 1.0,
+                "_source": {
+                    "count": "20947",
+                    "interest": "education",
+                    "maininterest": "education"
+                }
+            },
+            {
+                "_index": "interest_index",
+                "_id": "UZ3cxIcBRlEMH4oPzS_K",
+                "_score": 1.0,
+                "_source": {
+                    "count": "20700",
+                    "interest": "science",
+                    "maininterest": "science"
+                }
+            },
+            {
+                "_index": "interest_index",
+                "_id": "Up3cxIcBRlEMH4oPzS_X",
+                "_score": 1.0,
+                "_source": {
+                    "count": "20667",
+                    "interest": "inequality",
+                    "maininterest": "inequality"
+                }
+            },
+            {
+                "_index": "interest_index",
+                "_id": "U53cxIcBRlEMH4oPzS_j",
+                "_score": 1.0,
+                "_source": {
+                    "count": "20605",
+                    "interest": "technology",
+                    "maininterest": "technology"
+                }
+            },
+            {
+                "_index": "interest_index",
+                "_id": "VJ3cxIcBRlEMH4oPzS_z",
+                "_score": 1.0,
+                "_source": {
+                    "count": "20579",
+                    "interest": "climate change",
+                    "maininterest": "climate change"
+                }
+            },
+            {
+                "_index": "interest_index",
+                "_id": "VZ3cxIcBRlEMH4oPzi8A",
+                "_score": 1.0,
+                "_source": {
+                    "count": "20538",
+                    "interest": "economy",
+                    "maininterest": "economy"
+                }
+            },
+            {
+                "_index": "interest_index",
+                "_id": "Vp3cxIcBRlEMH4oPzi8L",
+                "_score": 1.0,
+                "_source": {
+                    "count": "5592",
+                    "interest": "football",
+                    "maininterest": "football"
+                }
+            },
+            {
+                "_index": "interest_index",
+                "_id": "V53cxIcBRlEMH4oPzi8X",
+                "_score": 1.0,
+                "_source": {
+                    "count": "1570",
+                    "interest": "bollywood",
+                    "maininterest": "bollywood"
+                }
+            },
+            {
+                "_index": "interest_index",
+                "_id": "WJ3cxIcBRlEMH4oPzi8l",
+                "_score": 1.0,
+                "_source": {
+                    "count": "1559",
+                    "interest": "college life",
+                    "maininterest": "college life"
+                }
+            },
+            {
+                "_index": "interest_index",
+                "_id": "WZ3cxIcBRlEMH4oPzi8x",
+                "_score": 1.0,
+                "_source": {
+                    "count": "1544",
+                    "interest": "sport",
+                    "maininterest": "sport"
+                }
+            },
+            {
+                "_index": "interest_index",
+                "_id": "Wp3cxIcBRlEMH4oPzi8-",
+                "_score": 1.0,
+                "_source": {
+                    "count": "1432",
+                    "interest": "calcio",
+                    "maininterest": "calcio"
+                }
+            },
+            {
+                "_index": "interest_index",
+                "_id": "W53cxIcBRlEMH4oPzi9K",
+                "_score": 1.0,
+                "_source": {
+                    "count": "1391",
+                    "interest": "india",
+                    "maininterest": "india"
+                }
+            },
+            {
+                "_index": "interest_index",
+                "_id": "XJ3cxIcBRlEMH4oPzi9Y",
+                "_score": 1.0,
+                "_source": {
+                    "count": "1260",
+                    "interest": "news",
+                    "maininterest": "news"
+                }
+            },
+            {
+                "_index": "interest_index",
+                "_id": "XZ3cxIcBRlEMH4oPzi9j",
+                "_score": 1.0,
+                "_source": {
+                    "count": "1234",
+                    "interest": "the conversation",
+                    "maininterest": "the conversation"
+                }
+            },
+            {
+                "_index": "interest_index",
+                "_id": "Xp3cxIcBRlEMH4oPzi9w",
+                "_score": 1.0,
+                "_source": {
+                    "count": "1205",
+                    "interest": "nature",
+                    "maininterest": "nature"
+                }
+            },
+            {
+                "_index": "interest_index",
+                "_id": "X53cxIcBRlEMH4oPzi98",
+                "_score": 1.0,
+                "_source": {
+                    "count": "1177",
+                    "interest": "books",
+                    "maininterest": "books"
+                }
+            },
+            {
+                "_index": "interest_index",
+                "_id": "YJ3cxIcBRlEMH4oPzi-K",
+                "_score": 1.0,
+                "_source": {
+                    "count": "1123",
+                    "interest": "hollywood",
+                    "maininterest": "hollywood"
+                }
+            },
+            {
+                "_index": "interest_index",
+                "_id": "YZ3cxIcBRlEMH4oPzi-Z",
+                "_score": 1.0,
+                "_source": {
+                    "count": "1066",
+                    "interest": "sfsarsd",
+                    "maininterest": "sfsarsd"
+                }
+            },
+            {
+                "_index": "interest_index",
+                "_id": "Yp3cxIcBRlEMH4oPzi-m",
+                "_score": 1.0,
+                "_source": {
+                    "count": "1027",
+                    "interest": "serie a",
+                    "maininterest": "serie a"
+                }
+            },
+            {
+                "_index": "interest_index",
+                "_id": "Y53cxIcBRlEMH4oPzi-z",
+                "_score": 1.0,
+                "_source": {
+                    "count": "1008",
+                    "interest": "pixstory",
+                    "maininterest": "pixstory"
+                }
+            },
+            {
+                "_index": "interest_index",
+                "_id": "ZJ3cxIcBRlEMH4oPzi-_",
+                "_score": 1.0,
+                "_source": {
+                    "count": "820",
+                    "interest": "chintan",
+                    "maininterest": "chintan"
+                }
+            },
+            {
+                "_index": "interest_index",
+                "_id": "ZZ3cxIcBRlEMH4oPzi_Q",
+                "_score": 1.0,
+                "_source": {
+                    "count": "768",
+                    "interest": "photography",
+                    "maininterest": "photography"
+                }
+            },
+            {
+                "_index": "interest_index",
+                "_id": "Zp3cxIcBRlEMH4oPzi_d",
+                "_score": 1.0,
+                "_source": {
+                    "count": "740",
+                    "interest": "music",
+                    "maininterest": "music"
+                }
+            },
+            {
+                "_index": "interest_index",
+                "_id": "Z53cxIcBRlEMH4oPzi_p",
+                "_score": 1.0,
+                "_source": {
+                    "count": "719",
+                    "interest": "bollywood movie",
+                    "maininterest": "bollywood movie"
+                }
+            },
+            {
+                "_index": "interest_index",
+                "_id": "aJ3cxIcBRlEMH4oPzi_3",
+                "_score": 1.0,
+                "_source": {
+                    "count": "658",
+                    "interest": "juventus",
+                    "maininterest": "juventus"
+                }
+            },
+            {
+                "_index": "interest_index",
+                "_id": "aZ3cxIcBRlEMH4oPzy8F",
+                "_score": 1.0,
+                "_source": {
+                    "count": "648",
+                    "interest": "cricket",
+                    "maininterest": "cricket"
+                }
+            },
+            {
+                "_index": "interest_index",
+                "_id": "ap3cxIcBRlEMH4oPzy8T",
+                "_score": 1.0,
+                "_source": {
+                    "count": "633",
+                    "interest": "arsenal",
+                    "maininterest": "arsenal"
+                }
+            },
+            {
+                "_index": "interest_index",
+                "_id": "a53cxIcBRlEMH4oPzy8h",
+                "_score": 1.0,
+                "_source": {
+                    "count": "626",
+                    "interest": "nba",
+                    "maininterest": "nba"
+                }
+            },
+            {
+                "_index": "interest_index",
+                "_id": "bJ3cxIcBRlEMH4oPzy8v",
+                "_score": 1.0,
+                "_source": {
+                    "count": "623",
+                    "interest": "italy",
+                    "maininterest": "italy"
+                }
+            },
+            {
+                "_index": "interest_index",
+                "_id": "bZ3cxIcBRlEMH4oPzy8-",
+                "_score": 1.0,
+                "_source": {
+                    "count": "618",
+                    "interest": "premier league",
+                    "maininterest": "premier league"
+                }
+            },
+            {
+                "_index": "interest_index",
+                "_id": "bp3cxIcBRlEMH4oPzy9O",
+                "_score": 1.0,
+                "_source": {
+                    "count": "613",
+                    "interest": "manchester united",
+                    "maininterest": "manchester united"
+                }
+            },
+            {
+                "_index": "interest_index",
+                "_id": "b53cxIcBRlEMH4oPzy9b",
+                "_score": 1.0,
+                "_source": {
+                    "count": "597",
+                    "interest": "mental health",
+                    "maininterest": "mental health"
+                }
+            },
+            {
+                "_index": "interest_index",
+                "_id": "cJ3cxIcBRlEMH4oPzy9s",
+                "_score": 1.0,
+                "_source": {
+                    "count": "589",
+                    "interest": "bollywood news",
+                    "maininterest": "bollywood news"
+                }
+            },
+            {
+                "_index": "interest_index",
+                "_id": "cZ3cxIcBRlEMH4oPzy97",
+                "_score": 1.0,
+                "_source": {
+                    "count": "554",
+                    "interest": "usa",
+                    "maininterest": "usa"
+                }
+            },
+            {
+                "_index": "interest_index",
+                "_id": "cp3cxIcBRlEMH4oPzy-I",
+                "_score": 1.0,
+                "_source": {
+                    "count": "546",
+                    "interest": "tennis",
+                    "maininterest": "tennis"
+                }
+            },
+            {
+                "_index": "interest_index",
+                "_id": "c53cxIcBRlEMH4oPzy-U",
+                "_score": 1.0,
+                "_source": {
+                    "count": "537",
+                    "interest": "kashmir",
+                    "maininterest": "kashmir"
+                }
+            },
+            {
+                "_index": "interest_index",
+                "_id": "dJ3cxIcBRlEMH4oPzy-g",
+                "_score": 1.0,
+                "_source": {
+                    "count": "531",
+                    "interest": "love",
+                    "maininterest": "love"
+                }
+            },
+            {
+                "_index": "interest_index",
+                "_id": "dZ3cxIcBRlEMH4oPzy-t",
+                "_score": 1.0,
+                "_source": {
+                    "count": "530",
+                    "interest": "bollywood gossip",
+                    "maininterest": "bollywood gossip"
+                }
+            },
+            {
+                "_index": "interest_index",
+                "_id": "dp3cxIcBRlEMH4oPzy-5",
+                "_score": 1.0,
+                "_source": {
+                    "count": "530",
+                    "interest": "australia",
+                    "maininterest": "australia"
+                }
+            },
+            {
+                "_index": "interest_index",
+                "_id": "d53cxIcBRlEMH4oPzy_D",
+                "_score": 1.0,
+                "_source": {
+                    "count": "529",
+                    "interest": "soccer",
+                    "maininterest": "soccer"
+                }
+            },
+            {
+                "_index": "interest_index",
+                "_id": "eJ3cxIcBRlEMH4oPzy_N",
+                "_score": 1.0,
+                "_source": {
+                    "count": "527",
+                    "interest": "bollywood life",
+                    "maininterest": "bollywood life"
+                }
+            },
+            {
+                "_index": "interest_index",
+                "_id": "eZ3cxIcBRlEMH4oPzy_d",
+                "_score": 1.0,
+                "_source": {
+                    "count": "521",
+                    "interest": "bollywood movies",
+                    "maininterest": "bollywood movies"
+                }
+            },
+            {
+                "_index": "interest_index",
+                "_id": "ep3cxIcBRlEMH4oPzy_s",
+                "_score": 1.0,
+                "_source": {
+                    "count": "514",
+                    "interest": "bollywood music",
+                    "maininterest": "bollywood music"
+                }
+            }
+        ]
+    }
+}

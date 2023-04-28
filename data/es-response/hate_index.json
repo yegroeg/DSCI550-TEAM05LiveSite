@@ -1,0 +1,885 @@
+{
+    "took": 1,
+    "timed_out": false,
+    "_shards": {
+        "total": 1,
+        "successful": 1,
+        "skipped": 0,
+        "failed": 0
+    },
+    "hits": {
+        "total": {
+            "value": 1,
+            "relation": "eq"
+        },
+        "max_score": 1.0,
+        "hits": [
+            {
+                "_index": "hate_index",
+                "_id": "Y53bxIcBRlEMH4oPYC4v",
+                "_score": 1.0,
+                "_source": {
+                    "name": "hatewords",
+                    "children": [
+                        {
+                            "name": "100%",
+                            "size": 196
+                        },
+                        {
+                            "name": "109/110",
+                            "size": 0
+                        },
+                        {
+                            "name": "1-11",
+                            "size": 0
+                        },
+                        {
+                            "name": "12",
+                            "size": 1665
+                        },
+                        {
+                            "name": "13",
+                            "size": 1144
+                        },
+                        {
+                            "name": "13/52 &amp; 13/90",
+                            "size": 0
+                        },
+                        {
+                            "name": "14",
+                            "size": 1153
+                        },
+                        {
+                            "name": "14 Words",
+                            "size": 0
+                        },
+                        {
+                            "name": "1423",
+                            "size": 0
+                        },
+                        {
+                            "name": "1488",
+                            "size": 0
+                        },
+                        {
+                            "name": "18",
+                            "size": 1236
+                        },
+                        {
+                            "name": "211 Crew",
+                            "size": 0
+                        },
+                        {
+                            "name": "21-2-12",
+                            "size": 0
+                        },
+                        {
+                            "name": "23/16",
+                            "size": 0
+                        },
+                        {
+                            "name": "23 (hand sign)",
+                            "size": 0
+                        },
+                        {
+                            "name": "28",
+                            "size": 560
+                        },
+                        {
+                            "name": "311",
+                            "size": 3
+                        },
+                        {
+                            "name": "318",
+                            "size": 4
+                        },
+                        {
+                            "name": "33/6",
+                            "size": 0
+                        },
+                        {
+                            "name": "38",
+                            "size": 220
+                        },
+                        {
+                            "name": "43",
+                            "size": 134
+                        },
+                        {
+                            "name": "5 Words",
+                            "size": 0
+                        },
+                        {
+                            "name": "511",
+                            "size": 1
+                        },
+                        {
+                            "name": "737",
+                            "size": 8
+                        },
+                        {
+                            "name": "83",
+                            "size": 70
+                        },
+                        {
+                            "name": "88",
+                            "size": 82
+                        },
+                        {
+                            "name": "88 (hand sign)",
+                            "size": 0
+                        },
+                        {
+                            "name": "9%",
+                            "size": 33
+                        },
+                        {
+                            "name": "ACAB",
+                            "size": 6
+                        },
+                        {
+                            "name": "Advanced White Society",
+                            "size": 0
+                        },
+                        {
+                            "name": "AKIA",
+                            "size": 0
+                        },
+                        {
+                            "name": "Alabama Aryan Brotherhood",
+                            "size": 0
+                        },
+                        {
+                            "name": "American Front",
+                            "size": 0
+                        },
+                        {
+                            "name": "American Identity Movement (AIM)",
+                            "size": 0
+                        },
+                        {
+                            "name": "Anti-Antifa Images",
+                            "size": 0
+                        },
+                        {
+                            "name": "Anti-Racist Is a Code for Anti-White",
+                            "size": 0
+                        },
+                        {
+                            "name": "Anti-SHARP Imagery",
+                            "size": 0
+                        },
+                        {
+                            "name": "Anudda Shoah",
+                            "size": 0
+                        },
+                        {
+                            "name": "Arrow Cross",
+                            "size": 0
+                        },
+                        {
+                            "name": "Aryan Brotherhood",
+                            "size": 0
+                        },
+                        {
+                            "name": "Aryan Brotherhood of Texas",
+                            "size": 0
+                        },
+                        {
+                            "name": "Aryan Brotherhood of Texas (hand sign)",
+                            "size": 0
+                        },
+                        {
+                            "name": "Aryan Circle",
+                            "size": 0
+                        },
+                        {
+                            "name": "Aryan Circle (hand sign)",
+                            "size": 0
+                        },
+                        {
+                            "name": "Aryan Cowboy Brotherhood",
+                            "size": 0
+                        },
+                        {
+                            "name": "Aryan Fist",
+                            "size": 0
+                        },
+                        {
+                            "name": "Aryan Knights",
+                            "size": 0
+                        },
+                        {
+                            "name": "Aryan Nations",
+                            "size": 0
+                        },
+                        {
+                            "name": "Aryan Nations (hand sign - Tennessee prison gang)",
+                            "size": 0
+                        },
+                        {
+                            "name": "Aryan Nations (Tennessee prison gang)",
+                            "size": 0
+                        },
+                        {
+                            "name": "Aryan Renaissance Society",
+                            "size": 0
+                        },
+                        {
+                            "name": "Aryan Terror Brigade",
+                            "size": 0
+                        },
+                        {
+                            "name": "Aryan Warriors",
+                            "size": 0
+                        },
+                        {
+                            "name": "Atlantic City Skins",
+                            "size": 0
+                        },
+                        {
+                            "name": "Atomwaffen Division",
+                            "size": 0
+                        },
+                        {
+                            "name": "AYAK",
+                            "size": 0
+                        },
+                        {
+                            "name": "Blood &amp; Honour",
+                            "size": 0
+                        },
+                        {
+                            "name": "Blood Drop Cross",
+                            "size": 0
+                        },
+                        {
+                            "name": "Blue Eyed Devils",
+                            "size": 0
+                        },
+                        {
+                            "name": "Blut und Ehre",
+                            "size": 0
+                        },
+                        {
+                            "name": "Boots and Laces",
+                            "size": 0
+                        },
+                        {
+                            "name": "Bound for Glory",
+                            "size": 0
+                        },
+                        {
+                            "name": "Bowlcut/Dylann Roof",
+                            "size": 0
+                        },
+                        {
+                            "name": "Brotherhood Forever",
+                            "size": 0
+                        },
+                        {
+                            "name": "Brothers of White Warriors",
+                            "size": 0
+                        },
+                        {
+                            "name": "Burning Cross",
+                            "size": 0
+                        },
+                        {
+                            "name": "Burning Neo-Nazi Symbols",
+                            "size": 0
+                        },
+                        {
+                            "name": "Celtic Cross",
+                            "size": 0
+                        },
+                        {
+                            "name": "Confederate Flag",
+                            "size": 0
+                        },
+                        {
+                            "name": "COORS Family Skins",
+                            "size": 0
+                        },
+                        {
+                            "name": "Crazy White Boy",
+                            "size": 0
+                        },
+                        {
+                            "name": "Creativity Movement",
+                            "size": 0
+                        },
+                        {
+                            "name": "Crew 1488",
+                            "size": 0
+                        },
+                        {
+                            "name": "Crossed Grenades",
+                            "size": 0
+                        },
+                        {
+                            "name": "Crucified Skinhead",
+                            "size": 0
+                        },
+                        {
+                            "name": "Daily Stormer Book Club",
+                            "size": 0
+                        },
+                        {
+                            "name": "Day of the Rope",
+                            "size": 0
+                        },
+                        {
+                            "name": "Diversity = White Genocide",
+                            "size": 0
+                        },
+                        {
+                            "name": "Echo",
+                            "size": 6
+                        },
+                        {
+                            "name": "European Kindred",
+                            "size": 0
+                        },
+                        {
+                            "name": "European Kindred (hand sign)",
+                            "size": 0
+                        },
+                        {
+                            "name": "Fasces",
+                            "size": 0
+                        },
+                        {
+                            "name": "Featherwood",
+                            "size": 0
+                        },
+                        {
+                            "name": "FGRN",
+                            "size": 0
+                        },
+                        {
+                            "name": "Firm 22",
+                            "size": 0
+                        },
+                        {
+                            "name": "Free America Rally",
+                            "size": 0
+                        },
+                        {
+                            "name": "Georgia Aryan Brotherhood",
+                            "size": 0
+                        },
+                        {
+                            "name": "German Phrases",
+                            "size": 0
+                        },
+                        {
+                            "name": "German Soldier",
+                            "size": 0
+                        },
+                        {
+                            "name": "Golden State Solidarity",
+                            "size": 0
+                        },
+                        {
+                            "name": "GTKRWN",
+                            "size": 0
+                        },
+                        {
+                            "name": "H8",
+                            "size": 0
+                        },
+                        {
+                            "name": "Hammerskin (hand sign)",
+                            "size": 0
+                        },
+                        {
+                            "name": "Hammerskins",
+                            "size": 0
+                        },
+                        {
+                            "name": "Hate",
+                            "size": 35
+                        },
+                        {
+                            "name": "Hate Edge",
+                            "size": 0
+                        },
+                        {
+                            "name": "Hated, The",
+                            "size": 0
+                        },
+                        {
+                            "name": "HFFH",
+                            "size": 0
+                        },
+                        {
+                            "name": "Hitler Salute (hand sign)",
+                            "size": 0
+                        },
+                        {
+                            "name": "HSN",
+                            "size": 0
+                        },
+                        {
+                            "name": "Identitarian Lambda",
+                            "size": 0
+                        },
+                        {
+                            "name": "Identity Evropa",
+                            "size": 0
+                        },
+                        {
+                            "name": "Imperial German Flag",
+                            "size": 0
+                        },
+                        {
+                            "name": "Indiana Aryan Brotherhood",
+                            "size": 0
+                        },
+                        {
+                            "name": "Inland Empire Skinheads",
+                            "size": 0
+                        },
+                        {
+                            "name": "Iron Cross",
+                            "size": 0
+                        },
+                        {
+                            "name": "It&#039;s Okay To Be White",
+                            "size": 0
+                        },
+                        {
+                            "name": "ITSUB",
+                            "size": 0
+                        },
+                        {
+                            "name": "Jera Rune",
+                            "size": 0
+                        },
+                        {
+                            "name": "KABARK",
+                            "size": 0
+                        },
+                        {
+                            "name": "Keystone State Skinheads",
+                            "size": 0
+                        },
+                        {
+                            "name": "KIGY",
+                            "size": 0
+                        },
+                        {
+                            "name": "KLASP",
+                            "size": 0
+                        },
+                        {
+                            "name": "Ku Klux Klan (hand sign)",
+                            "size": 0
+                        },
+                        {
+                            "name": "Ku Klux Klan Robes",
+                            "size": 0
+                        },
+                        {
+                            "name": "League of the South",
+                            "size": 0
+                        },
+                        {
+                            "name": "Life Rune",
+                            "size": 0
+                        },
+                        {
+                            "name": "LOTIE",
+                            "size": 0
+                        },
+                        {
+                            "name": "Love Your Race",
+                            "size": 0
+                        },
+                        {
+                            "name": "Meine Ehre Heisst Treue",
+                            "size": 0
+                        },
+                        {
+                            "name": "Mississippi Aryan Brotherhood",
+                            "size": 0
+                        },
+                        {
+                            "name": "Moon Man",
+                            "size": 0
+                        },
+                        {
+                            "name": "Muh Holocaust",
+                            "size": 0
+                        },
+                        {
+                            "name": "National Alliance",
+                            "size": 0
+                        },
+                        {
+                            "name": "National Rebirth of Poland",
+                            "size": 0
+                        },
+                        {
+                            "name": "National Socialist Legion",
+                            "size": 0
+                        },
+                        {
+                            "name": "National Socialist Movement",
+                            "size": 0
+                        },
+                        {
+                            "name": "Nazi Eagle",
+                            "size": 0
+                        },
+                        {
+                            "name": "Nazi Low Riders",
+                            "size": 0
+                        },
+                        {
+                            "name": "Nazi Party Flag",
+                            "size": 0
+                        },
+                        {
+                            "name": "New Aryan Empire",
+                            "size": 0
+                        },
+                        {
+                            "name": "New Black Panther Party",
+                            "size": 0
+                        },
+                        {
+                            "name": "No Race Mixing",
+                            "size": 0
+                        },
+                        {
+                            "name": "Non Silba Sed Anthar",
+                            "size": 0
+                        },
+                        {
+                            "name": "Noose",
+                            "size": 0
+                        },
+                        {
+                            "name": "Northwest American Republic",
+                            "size": 0
+                        },
+                        {
+                            "name": "Not Equal",
+                            "size": 0
+                        },
+                        {
+                            "name": "NSM Legacy Logos",
+                            "size": 0
+                        },
+                        {
+                            "name": "OFOF",
+                            "size": 0
+                        },
+                        {
+                            "name": "Ohio Aryan Brotherhood",
+                            "size": 0
+                        },
+                        {
+                            "name": "Okay Hand Gesture",
+                            "size": 0
+                        },
+                        {
+                            "name": "Oklahoma Aryan Brotherhood",
+                            "size": 0
+                        },
+                        {
+                            "name": "ORION",
+                            "size": 0
+                        },
+                        {
+                            "name": "Othala Rune",
+                            "size": 0
+                        },
+                        {
+                            "name": "Patriot Front",
+                            "size": 0
+                        },
+                        {
+                            "name": "Peckerwood",
+                            "size": 0
+                        },
+                        {
+                            "name": "Peckerwood (hand sign)",
+                            "size": 0
+                        },
+                        {
+                            "name": "Peckerwood Midwest",
+                            "size": 0
+                        },
+                        {
+                            "name": "PENI",
+                            "size": 0
+                        },
+                        {
+                            "name": "Pepe the Frog",
+                            "size": 0
+                        },
+                        {
+                            "name": "Phineas Priesthood",
+                            "size": 0
+                        },
+                        {
+                            "name": "Pit Bull",
+                            "size": 0
+                        },
+                        {
+                            "name": "RAHOWA",
+                            "size": 0
+                        },
+                        {
+                            "name": "Rise Above Movement",
+                            "size": 0
+                        },
+                        {
+                            "name": "ROA",
+                            "size": 1
+                        },
+                        {
+                            "name": "Rock Against Communism",
+                            "size": 0
+                        },
+                        {
+                            "name": "Runic Writing (racist)",
+                            "size": 0
+                        },
+                        {
+                            "name": "Sacred Separatist Group",
+                            "size": 0
+                        },
+                        {
+                            "name": "Sadistic Souls",
+                            "size": 0
+                        },
+                        {
+                            "name": "Saxon Knights",
+                            "size": 0
+                        },
+                        {
+                            "name": "Shield Wall Network",
+                            "size": 0
+                        },
+                        {
+                            "name": "Sieg Heil",
+                            "size": 0
+                        },
+                        {
+                            "name": "Silent Aryan Warriors",
+                            "size": 0
+                        },
+                        {
+                            "name": "Six Gorillion",
+                            "size": 0
+                        },
+                        {
+                            "name": "Skrewdriver",
+                            "size": 0
+                        },
+                        {
+                            "name": "Soldiers of Aryan Culture",
+                            "size": 0
+                        },
+                        {
+                            "name": "Solid Wood Soldiers",
+                            "size": 0
+                        },
+                        {
+                            "name": "Sonnenrad",
+                            "size": 0
+                        },
+                        {
+                            "name": "South African Flag (Apartheid Era)",
+                            "size": 0
+                        },
+                        {
+                            "name": "Southern Brotherhood",
+                            "size": 0
+                        },
+                        {
+                            "name": "SS Bolts",
+                            "size": 0
+                        },
+                        {
+                            "name": "SS Divisional Insignia",
+                            "size": 0
+                        },
+                        {
+                            "name": "SS (hand sign)",
+                            "size": 0
+                        },
+                        {
+                            "name": "St. Michael\u2019s Cross",
+                            "size": 0
+                        },
+                        {
+                            "name": "Stormfront",
+                            "size": 0
+                        },
+                        {
+                            "name": "Sturmabteilung",
+                            "size": 0
+                        },
+                        {
+                            "name": "Supreme White Alliance",
+                            "size": 0
+                        },
+                        {
+                            "name": "Supreme White Alliance (hand sign)",
+                            "size": 0
+                        },
+                        {
+                            "name": "Swastika",
+                            "size": 8
+                        },
+                        {
+                            "name": "SWP",
+                            "size": 0
+                        },
+                        {
+                            "name": "The Goyim Know/Shut It Down",
+                            "size": 0
+                        },
+                        {
+                            "name": "The Happy Merchant",
+                            "size": 0
+                        },
+                        {
+                            "name": "The Order",
+                            "size": 0
+                        },
+                        {
+                            "name": "Thor&#039;s Hammer",
+                            "size": 0
+                        },
+                        {
+                            "name": "Totenkopf",
+                            "size": 0
+                        },
+                        {
+                            "name": "Traditionalist Youth Network",
+                            "size": 0
+                        },
+                        {
+                            "name": "Triangular Klan Symbol",
+                            "size": 0
+                        },
+                        {
+                            "name": "Triskele",
+                            "size": 0
+                        },
+                        {
+                            "name": "Trollface (Racist Versions)",
+                            "size": 0
+                        },
+                        {
+                            "name": "Tyr Rune",
+                            "size": 0
+                        },
+                        {
+                            "name": "Unforgiven",
+                            "size": 0
+                        },
+                        {
+                            "name": "Universal Aryan Brotherhood",
+                            "size": 0
+                        },
+                        {
+                            "name": "USAS",
+                            "size": 0
+                        },
+                        {
+                            "name": "Valknot",
+                            "size": 0
+                        },
+                        {
+                            "name": "Vanguard America",
+                            "size": 0
+                        },
+                        {
+                            "name": "Vinland Flag",
+                            "size": 0
+                        },
+                        {
+                            "name": "Vinlanders Social Club",
+                            "size": 0
+                        },
+                        {
+                            "name": "Vinlanders Social Club (hand sign)",
+                            "size": 0
+                        },
+                        {
+                            "name": "Volksfront",
+                            "size": 0
+                        },
+                        {
+                            "name": "Volksfront Flag",
+                            "size": 0
+                        },
+                        {
+                            "name": "Volksfront (hand sign)",
+                            "size": 0
+                        },
+                        {
+                            "name": "WAR (Arkansas prison gang)",
+                            "size": 0
+                        },
+                        {
+                            "name": "We Wuz Kangs",
+                            "size": 0
+                        },
+                        {
+                            "name": "White Aryan Resistance",
+                            "size": 0
+                        },
+                        {
+                            "name": "White Knights",
+                            "size": 0
+                        },
+                        {
+                            "name": "White Lives Matter",
+                            "size": 0
+                        },
+                        {
+                            "name": "White Power (hand sign)",
+                            "size": 0
+                        },
+                        {
+                            "name": "Wolfsangel",
+                            "size": 0
+                        },
+                        {
+                            "name": "Women for Aryan Unity",
+                            "size": 0
+                        },
+                        {
+                            "name": "WP",
+                            "size": 0
+                        },
+                        {
+                            "name": "WPWW",
+                            "size": 0
+                        },
+                        {
+                            "name": "You Will Not Replace Us",
+                            "size": 0
+                        },
+                        {
+                            "name": "ZOG",
+                            "size": 0
+                        },
+                        {
+                            "name": "Zyklon B",
+                            "size": 0
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

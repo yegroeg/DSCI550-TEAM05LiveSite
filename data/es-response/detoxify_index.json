@@ -1,0 +1,100 @@
+{
+    "took": 2,
+    "timed_out": false,
+    "_shards": {
+        "total": 1,
+        "successful": 1,
+        "skipped": 0,
+        "failed": 0
+    },
+    "hits": {
+        "total": {
+            "value": 9,
+            "relation": "eq"
+        },
+        "max_score": 1.0,
+        "hits": [
+            {
+                "_index": "detoxify_index",
+                "_id": "ZJ3bxIcBRlEMH4oP1i4b",
+                "_score": 1.0,
+                "_source": {
+                    "counts": 924,
+                    "detoxify_score_range": "0.1-0.19"
+                }
+            },
+            {
+                "_index": "detoxify_index",
+                "_id": "ZZ3bxIcBRlEMH4oP1i5K",
+                "_score": 1.0,
+                "_source": {
+                    "counts": 372,
+                    "detoxify_score_range": "0.20-0.29"
+                }
+            },
+            {
+                "_index": "detoxify_index",
+                "_id": "Zp3bxIcBRlEMH4oP1i5X",
+                "_score": 1.0,
+                "_source": {
+                    "counts": 230,
+                    "detoxify_score_range": "0.30-0.39"
+                }
+            },
+            {
+                "_index": "detoxify_index",
+                "_id": "Z53bxIcBRlEMH4oP1i5p",
+                "_score": 1.0,
+                "_source": {
+                    "counts": 147,
+                    "detoxify_score_range": "0.40-0.49"
+                }
+            },
+            {
+                "_index": "detoxify_index",
+                "_id": "aJ3bxIcBRlEMH4oP1i55",
+                "_score": 1.0,
+                "_source": {
+                    "counts": 98,
+                    "detoxify_score_range": "0.50-0.59"
+                }
+            },
+            {
+                "_index": "detoxify_index",
+                "_id": "aZ3bxIcBRlEMH4oP1i6K",
+                "_score": 1.0,
+                "_source": {
+                    "counts": 74,
+                    "detoxify_score_range": "0.60-0.69"
+                }
+            },
+            {
+                "_index": "detoxify_index",
+                "_id": "ap3bxIcBRlEMH4oP1i6Y",
+                "_score": 1.0,
+                "_source": {
+                    "counts": 55,
+                    "detoxify_score_range": "0.70-0.79"
+                }
+            },
+            {
+                "_index": "detoxify_index",
+                "_id": "a53bxIcBRlEMH4oP1i6r",
+                "_score": 1.0,
+                "_source": {
+                    "counts": 77,
+                    "detoxify_score_range": "0.80-0.89"
+                }
+            },
+            {
+                "_index": "detoxify_index",
+                "_id": "bJ3bxIcBRlEMH4oP1i65",
+                "_score": 1.0,
+                "_source": {
+                    "counts": 97,
+                    "detoxify_score_range": "0.90-0.99"
+                }
+            }
+        ]
+    }
+}

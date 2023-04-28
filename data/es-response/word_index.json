@@ -1,0 +1,4019 @@
+{
+    "took": 6,
+    "timed_out": false,
+    "_shards": {
+        "total": 1,
+        "successful": 1,
+        "skipped": 0,
+        "failed": 0
+    },
+    "hits": {
+        "total": {
+            "value": 500,
+            "relation": "eq"
+        },
+        "max_score": 1.0,
+        "hits": [
+            {
+                "_index": "word_index",
+                "_id": "wJ3FxIcBRlEMH4oP3ywJ",
+                "_score": 1.0,
+                "_source": {
+                    "film": 19.745450220054718
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "wZ3FxIcBRlEMH4oP3yxT",
+                "_score": 1.0,
+                "_source": {
+                    "football": 19.528369216129416
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "wp3FxIcBRlEMH4oP3yyW",
+                "_score": 1.0,
+                "_source": {
+                    "play": 19.50457951706911
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "w53FxIcBRlEMH4oP3yzb",
+                "_score": 1.0,
+                "_source": {
+                    "president": 19.406447008445344
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "xJ3FxIcBRlEMH4oP4CwR",
+                "_score": 1.0,
+                "_source": {
+                    "news": 19.296419650291423
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "xZ3FxIcBRlEMH4oP4CxH",
+                "_score": 1.0,
+                "_source": {
+                    "food": 19.207208278815273
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "xp3FxIcBRlEMH4oP4CyR",
+                "_score": 1.0,
+                "_source": {
+                    "next": 19.094207208278817
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "x53FxIcBRlEMH4oP4CzU",
+                "_score": 1.0,
+                "_source": {
+                    "another": 19.082312358748663
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "yJ3FxIcBRlEMH4oP4SwV",
+                "_score": 1.0,
+                "_source": {
+                    "social": 19.0079695491852
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "yZ3FxIcBRlEMH4oP4SxG",
+                "_score": 1.0,
+                "_source": {
+                    "days": 18.957416438682053
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "yp3FxIcBRlEMH4oP4SyH",
+                "_score": 1.0,
+                "_source": {
+                    "need": 18.674913762340907
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "y53FxIcBRlEMH4oP4SzA",
+                "_score": 1.0,
+                "_source": {
+                    "player": 18.67194004995837
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "zJ3FxIcBRlEMH4oP4Sz1",
+                "_score": 1.0,
+                "_source": {
+                    "children": 18.660045200428215
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "zZ3FxIcBRlEMH4oP4iws",
+                "_score": 1.0,
+                "_source": {
+                    "players": 18.169382657309384
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "zp3FxIcBRlEMH4oP4ixl",
+                "_score": 1.0,
+                "_source": {
+                    "final": 18.089092422980848
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "z53FxIcBRlEMH4oP4iyg",
+                "_score": 1.0,
+                "_source": {
+                    "per": 17.839300582847628
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "0J3FxIcBRlEMH4oP4izj",
+                "_score": 1.0,
+                "_source": {
+                    "media": 17.809563459022243
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "453FxIcBRlEMH4oP5yxS",
+                "_score": 1.0,
+                "_source": {
+                    "without": 15.793386463661236
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "5J3FxIcBRlEMH4oP5yyS",
+                "_score": 1.0,
+                "_source": {
+                    "ukraine": 15.76662305221839
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "5Z3FxIcBRlEMH4oP5yzP",
+                "_score": 1.0,
+                "_source": {
+                    "never": 15.650648269299394
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "5p3FxIcBRlEMH4oP6CwL",
+                "_score": 1.0,
+                "_source": {
+                    "things": 15.573331747353397
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "553FxIcBRlEMH4oP6CxC",
+                "_score": 1.0,
+                "_source": {
+                    "let": 15.519804924467707
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "6J3FxIcBRlEMH4oP6Cx8",
+                "_score": 1.0,
+                "_source": {
+                    "four": 15.478172951112168
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "6Z3FxIcBRlEMH4oP6Cyw",
+                "_score": 1.0,
+                "_source": {
+                    "story": 15.466278101582015
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "6p3FxIcBRlEMH4oP6Czn",
+                "_score": 1.0,
+                "_source": {
+                    "name": 15.463304389199475
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "653FxIcBRlEMH4oP6Swk",
+                "_score": 1.0,
+                "_source": {
+                    "used": 15.385987867253478
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "7J3FxIcBRlEMH4oP6Sxd",
+                "_score": 1.0,
+                "_source": {
+                    "goal": 15.365171880575712
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "7Z3FxIcBRlEMH4oP6SyT",
+                "_score": 1.0,
+                "_source": {
+                    "think": 15.359224455810633
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "7p3FxIcBRlEMH4oP6Sza",
+                "_score": 1.0,
+                "_source": {
+                    "covid": 15.243249672891638
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "753FxIcBRlEMH4oP6iwi",
+                "_score": 1.0,
+                "_source": {
+                    "use": 15.183775425240869
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "8J3FxIcBRlEMH4oP6ixe",
+                "_score": 1.0,
+                "_source": {
+                    "times": 15.157012013798024
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "8Z3FxIcBRlEMH4oP6iyk",
+                "_score": 1.0,
+                "_source": {
+                    "show": 15.14809087665041
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "8p3FxIcBRlEMH4oP6izq",
+                "_score": 1.0,
+                "_source": {
+                    "better": 15.109432615677413
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "e53FxIcBRlEMH4oPyywH",
+                "_score": 1.0,
+                "_source": {
+                    "year": 49.03354347567503
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "fJ3FxIcBRlEMH4oPyyxX",
+                "_score": 1.0,
+                "_source": {
+                    "would": 44.6354228619008
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "fZ3FxIcBRlEMH4oPyyye",
+                "_score": 1.0,
+                "_source": {
+                    "years": 41.92042345664328
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "fp3FxIcBRlEMH4oPyyzo",
+                "_score": 1.0,
+                "_source": {
+                    "women": 40.50196265017247
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "f53FxIcBRlEMH4oPzCw7",
+                "_score": 1.0,
+                "_source": {
+                    "life": 40.07374806708695
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "gJ3FxIcBRlEMH4oPzCyF",
+                "_score": 1.0,
+                "_source": {
+                    "many": 39.621743784941124
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "gZ3FxIcBRlEMH4oPzCzQ",
+                "_score": 1.0,
+                "_source": {
+                    "us": 39.25895087427144
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "gp3FxIcBRlEMH4oPzSwW",
+                "_score": 1.0,
+                "_source": {
+                    "season": 38.521470203401925
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "g53FxIcBRlEMH4oPzSxc",
+                "_score": 1.0,
+                "_source": {
+                    "last": 37.2635898655882
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "hJ3FxIcBRlEMH4oPzSyf",
+                "_score": 1.0,
+                "_source": {
+                    "made": 36.279291066968
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "hZ3FxIcBRlEMH4oPzSzh",
+                "_score": 1.0,
+                "_source": {
+                    "team": 35.97894611633163
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "hp3FxIcBRlEMH4oPziwt",
+                "_score": 1.0,
+                "_source": {
+                    "even": 35.8064707981444
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "h53FxIcBRlEMH4oPzixf",
+                "_score": 1.0,
+                "_source": {
+                    "league": 35.547757820863566
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "iJ3FxIcBRlEMH4oPziyb",
+                "_score": 1.0,
+                "_source": {
+                    "make": 33.454264303556556
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "iZ3FxIcBRlEMH4oPzizd",
+                "_score": 1.0,
+                "_source": {
+                    "well": 32.53836088973475
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "ip3FxIcBRlEMH4oPzywi",
+                "_score": 1.0,
+                "_source": {
+                    "ltr": 32.13393600570953
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "i53FxIcBRlEMH4oPzyxp",
+                "_score": 1.0,
+                "_source": {
+                    "back": 32.06256690852861
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "jJ3FxIcBRlEMH4oPzyyq",
+                "_score": 1.0,
+                "_source": {
+                    "dir": 32.05959319614607
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "jZ3FxIcBRlEMH4oPzyzi",
+                "_score": 1.0,
+                "_source": {
+                    "game": 31.271559414773403
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "jp3FxIcBRlEMH4oP0Cwl",
+                "_score": 1.0,
+                "_source": {
+                    "good": 30.870108243130723
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "j53FxIcBRlEMH4oP0Cxi",
+                "_score": 1.0,
+                "_source": {
+                    "love": 30.15344355893898
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "kJ3FxIcBRlEMH4oP0Cyg",
+                "_score": 1.0,
+                "_source": {
+                    "best": 30.001784227429525
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "kZ3FxIcBRlEMH4oP0Czn",
+                "_score": 1.0,
+                "_source": {
+                    "health": 29.90067800642322
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "kp3FxIcBRlEMH4oP0Swz",
+                "_score": 1.0,
+                "_source": {
+                    "get": 29.558701082431305
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "k53FxIcBRlEMH4oP0Sxx",
+                "_score": 1.0,
+                "_source": {
+                    "could": 29.294040680385393
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "lJ3FxIcBRlEMH4oP0Syy",
+                "_score": 1.0,
+                "_source": {
+                    "https": 29.207803021291777
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "lZ3FxIcBRlEMH4oP0Szz",
+                "_score": 1.0,
+                "_source": {
+                    "united": 29.118591649815627
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "lp3FxIcBRlEMH4oP0iwv",
+                "_score": 1.0,
+                "_source": {
+                    "may": 28.29784703223504
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "l53FxIcBRlEMH4oP0ix1",
+                "_score": 1.0,
+                "_source": {
+                    "way": 26.442250505531106
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "mJ3FxIcBRlEMH4oP0iyx",
+                "_score": 1.0,
+                "_source": {
+                    "take": 26.430355656000952
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "pZ3FxIcBRlEMH4oP1ywo",
+                "_score": 1.0,
+                "_source": {
+                    "old": 23.2246937076246
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "pp3FxIcBRlEMH4oP1yxz",
+                "_score": 1.0,
+                "_source": {
+                    "today": 22.850005947424766
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "p53FxIcBRlEMH4oP1yy9",
+                "_score": 1.0,
+                "_source": {
+                    "much": 22.760794575948616
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "qJ3FxIcBRlEMH4oP2CwF",
+                "_score": 1.0,
+                "_source": {
+                    "government": 22.707267753062922
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "qZ3FxIcBRlEMH4oP2CxM",
+                "_score": 1.0,
+                "_source": {
+                    "know": 22.683478054002617
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "qp3FxIcBRlEMH4oP2CyV",
+                "_score": 1.0,
+                "_source": {
+                    "still": 22.615082669204234
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "q53FxIcBRlEMH4oP2CzZ",
+                "_score": 1.0,
+                "_source": {
+                    "place": 22.40097537766147
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "rJ3FxIcBRlEMH4oP2Swg",
+                "_score": 1.0,
+                "_source": {
+                    "games": 22.350422267158322
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "rZ3FxIcBRlEMH4oP2Sxs",
+                "_score": 1.0,
+                "_source": {
+                    "cup": 22.234447484239325
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "rp3FxIcBRlEMH4oP2Sy4",
+                "_score": 1.0,
+                "_source": {
+                    "according": 22.070893303199714
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "r53FxIcBRlEMH4oP2iwD",
+                "_score": 1.0,
+                "_source": {
+                    "com": 22.04115617937433
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "sJ3FxIcBRlEMH4oP2ixS",
+                "_score": 1.0,
+                "_source": {
+                    "home": 22.002497918401332
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "sZ3FxIcBRlEMH4oP2iyS",
+                "_score": 1.0,
+                "_source": {
+                    "second": 21.82110146306649
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "sp3FxIcBRlEMH4oP2izS",
+                "_score": 1.0,
+                "_source": {
+                    "minister": 21.294754371357204
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "_53FxIcBRlEMH4oP7ixr",
+                "_score": 1.0,
+                "_source": {
+                    "start": 14.276793148566671
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "AJ3FxIcBRlEMH4oP7y37",
+                "_score": 1.0,
+                "_source": {
+                    "seen": 14.270845723801596
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "AZ3FxIcBRlEMH4oP8C2_",
+                "_score": 1.0,
+                "_source": {
+                    "body": 14.267872011419055
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "Ap3FxIcBRlEMH4oP8S0Q",
+                "_score": 1.0,
+                "_source": {
+                    "played": 14.214345188533365
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "A53FxIcBRlEMH4oP8S1Y",
+                "_score": 1.0,
+                "_source": {
+                    "vs": 14.208397763768287
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "BJ3FxIcBRlEMH4oP8S2t",
+                "_score": 1.0,
+                "_source": {
+                    "history": 14.154870940882597
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "BZ3FxIcBRlEMH4oP8i0A",
+                "_score": 1.0,
+                "_source": {
+                    "lot": 14.125133817057215
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "Bp3FxIcBRlEMH4oP8i1M",
+                "_score": 1.0,
+                "_source": {
+                    "away": 14.119186392292137
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "B53FxIcBRlEMH4oP8i2U",
+                "_score": 1.0,
+                "_source": {
+                    "found": 14.092422980849292
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "CJ3FxIcBRlEMH4oP8i3d",
+                "_score": 1.0,
+                "_source": {
+                    "already": 13.87831568930653
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "CZ3FxIcBRlEMH4oP8y0c",
+                "_score": 1.0,
+                "_source": {
+                    "become": 13.824788866420839
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "Cp3FxIcBRlEMH4oP8y1f",
+                "_score": 1.0,
+                "_source": {
+                    "war": 13.738551207327227
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "C53FxIcBRlEMH4oP8y2h",
+                "_score": 1.0,
+                "_source": {
+                    "police": 13.708814083501844
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "s53FxIcBRlEMH4oP2ywN",
+                "_score": 1.0,
+                "_source": {
+                    "long": 21.220411561793743
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "tJ3FxIcBRlEMH4oP2yxW",
+                "_score": 1.0,
+                "_source": {
+                    "read": 20.92006661115737
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "tZ3FxIcBRlEMH4oP2yye",
+                "_score": 1.0,
+                "_source": {
+                    "top": 20.798144403473295
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "tp3FxIcBRlEMH4oP2yzt",
+                "_score": 1.0,
+                "_source": {
+                    "every": 20.777328416795527
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "t53FxIcBRlEMH4oP3Cw2",
+                "_score": 1.0,
+                "_source": {
+                    "right": 20.595931961460685
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "uJ3FxIcBRlEMH4oP3CzS",
+                "_score": 1.0,
+                "_source": {
+                    "state": 20.503746877601998
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "uZ3FxIcBRlEMH4oP3Sww",
+                "_score": 1.0,
+                "_source": {
+                    "always": 20.35208754609254
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "up3FxIcBRlEMH4oP3SyA",
+                "_score": 1.0,
+                "_source": {
+                    "however": 20.236112763173548
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "u53FxIcBRlEMH4oP3Sy6",
+                "_score": 1.0,
+                "_source": {
+                    "around": 20.15284881646247
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "vJ3FxIcBRlEMH4oP3Szv",
+                "_score": 1.0,
+                "_source": {
+                    "great": 20.060663732603782
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "vZ3FxIcBRlEMH4oP3iwo",
+                "_score": 1.0,
+                "_source": {
+                    "high": 19.947662662067327
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "vp3FxIcBRlEMH4oP3ixn",
+                "_score": 1.0,
+                "_source": {
+                    "help": 19.947662662067327
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "v53FxIcBRlEMH4oP3iy3",
+                "_score": 1.0,
+                "_source": {
+                    "end": 19.83168787914833
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "853FxIcBRlEMH4oP6ywo",
+                "_score": 1.0,
+                "_source": {
+                    "goals": 15.100511478529796
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "9J3FxIcBRlEMH4oP6yxr",
+                "_score": 1.0,
+                "_source": {
+                    "known": 15.023194956583799
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "9Z3FxIcBRlEMH4oP6yy-",
+                "_score": 1.0,
+                "_source": {
+                    "number": 14.815035089806114
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "9p3FxIcBRlEMH4oP7CwG",
+                "_score": 1.0,
+                "_source": {
+                    "series": 14.797192815510885
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "953FxIcBRlEMH4oP7CxP",
+                "_score": 1.0,
+                "_source": {
+                    "former": 14.690139169739503
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "-J3FxIcBRlEMH4oP7Cyc",
+                "_score": 1.0,
+                "_source": {
+                    "men": 14.490900440109433
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "-Z3FxIcBRlEMH4oP7Czd",
+                "_score": 1.0,
+                "_source": {
+                    "manchester": 14.490900440109433
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "-p3FxIcBRlEMH4oP7Swd",
+                "_score": 1.0,
+                "_source": {
+                    "movie": 14.443321041988819
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "-53FxIcBRlEMH4oP7Sxb",
+                "_score": 1.0,
+                "_source": {
+                    "water": 14.437373617223741
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "_J3FxIcBRlEMH4oP7SyS",
+                "_score": 1.0,
+                "_source": {
+                    "sports": 14.386820506720591
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "_Z3FxIcBRlEMH4oP7Szd",
+                "_score": 1.0,
+                "_source": {
+                    "party": 14.377899369572974
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "_p3FxIcBRlEMH4oP7iwh",
+                "_score": 1.0,
+                "_source": {
+                    "left": 14.321398834304746
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "mZ3FxIcBRlEMH4oP0izw",
+                "_score": 1.0,
+                "_source": {
+                    "part": 26.14785297965981
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "mp3FxIcBRlEMH4oP0yw-",
+                "_score": 1.0,
+                "_source": {
+                    "three": 25.475793981206134
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "m53FxIcBRlEMH4oP0yyu",
+                "_score": 1.0,
+                "_source": {
+                    "since": 24.76210300939693
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "nJ3FxIcBRlEMH4oP1Cw3",
+                "_score": 1.0,
+                "_source": {
+                    "club": 24.250624479600333
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "nZ3FxIcBRlEMH4oP1CyL",
+                "_score": 1.0,
+                "_source": {
+                    "go": 23.742119662186273
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "np3FxIcBRlEMH4oP1CzD",
+                "_score": 1.0,
+                "_source": {
+                    "match": 23.661829427857736
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "n53FxIcBRlEMH4oP1SwA",
+                "_score": 1.0,
+                "_source": {
+                    "city": 23.572618056381586
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "oJ3FxIcBRlEMH4oP1SxJ",
+                "_score": 1.0,
+                "_source": {
+                    "country": 23.56667063161651
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "oZ3FxIcBRlEMH4oP1SyZ",
+                "_score": 1.0,
+                "_source": {
+                    "indian": 23.533959795408588
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "op3FxIcBRlEMH4oP1Szj",
+                "_score": 1.0,
+                "_source": {
+                    "national": 23.498275246818128
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "o53FxIcBRlEMH4oP1iwg",
+                "_score": 1.0,
+                "_source": {
+                    "see": 23.307957654335674
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "pJ3FxIcBRlEMH4oP1ixk",
+                "_score": 1.0,
+                "_source": {
+                    "work": 23.269299393362676
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "b53FxIcBRlEMH4oPxyye",
+                "_score": 1.0,
+                "_source": {
+                    "one": 100.0
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "cJ3FxIcBRlEMH4oPxyzl",
+                "_score": 1.0,
+                "_source": {
+                    "also": 80.40918282383728
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "cZ3FxIcBRlEMH4oPyCw3",
+                "_score": 1.0,
+                "_source": {
+                    "time": 68.92767931485668
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "cp3FxIcBRlEMH4oPyCx_",
+                "_score": 1.0,
+                "_source": {
+                    "first": 65.50493636255501
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "c53FxIcBRlEMH4oPyCzJ",
+                "_score": 1.0,
+                "_source": {
+                    "people": 64.74961341739028
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "dJ3FxIcBRlEMH4oPySwc",
+                "_score": 1.0,
+                "_source": {
+                    "world": 62.697751873438804
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "dZ3FxIcBRlEMH4oPySxf",
+                "_score": 1.0,
+                "_source": {
+                    "new": 61.01165695253955
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "dp3FxIcBRlEMH4oPySyi",
+                "_score": 1.0,
+                "_source": {
+                    "said": 57.24991078862852
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "d53FxIcBRlEMH4oPySzt",
+                "_score": 1.0,
+                "_source": {
+                    "like": 53.88069465921256
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "eJ3FxIcBRlEMH4oPyiw2",
+                "_score": 1.0,
+                "_source": {
+                    "day": 52.96479124539074
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "eZ3FxIcBRlEMH4oPyix5",
+                "_score": 1.0,
+                "_source": {
+                    "india": 52.703104555727364
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "ep3FxIcBRlEMH4oPyiy3",
+                "_score": 1.0,
+                "_source": {
+                    "two": 49.40228381110979
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "A53GxIcBRlEMH4oPOC4h",
+                "_score": 1.0,
+                "_source": {
+                    "kashmir": 7.496728916379208
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "BJ3GxIcBRlEMH4oPOC7I",
+                "_score": 1.0,
+                "_source": {
+                    "assam": 7.487807779231592
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "BZ3GxIcBRlEMH4oPOS41",
+                "_score": 1.0,
+                "_source": {
+                    "juventus": 7.484834066849054
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "Bp3GxIcBRlEMH4oPOS6H",
+                "_score": 1.0,
+                "_source": {
+                    "events": 7.458070655406209
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "B53GxIcBRlEMH4oPOS7O",
+                "_score": 1.0,
+                "_source": {
+                    "members": 7.434280956345902
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "CJ3GxIcBRlEMH4oPOi4y",
+                "_score": 1.0,
+                "_source": {
+                    "using": 7.428333531580826
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "CZ3GxIcBRlEMH4oPOy4_",
+                "_score": 1.0,
+                "_source": {
+                    "society": 7.428333531580826
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "Cp3GxIcBRlEMH4oPOy7W",
+                "_score": 1.0,
+                "_source": {
+                    "cases": 7.422386106815749
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "C53GxIcBRlEMH4oPPC4x",
+                "_score": 1.0,
+                "_source": {
+                    "office": 7.413464969668134
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "DJ3GxIcBRlEMH4oPPC59",
+                "_score": 1.0,
+                "_source": {
+                    "whole": 7.410491257285595
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "DZ3GxIcBRlEMH4oPPC7b",
+                "_score": 1.0,
+                "_source": {
+                    "moment": 7.398596407755442
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "Dp3GxIcBRlEMH4oPPS40",
+                "_score": 1.0,
+                "_source": {
+                    "attack": 7.386701558225288
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "D53GxIcBRlEMH4oPPS6L",
+                "_score": 1.0,
+                "_source": {
+                    "meeting": 7.377780421077674
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "EJ3GxIcBRlEMH4oPPS7t",
+                "_score": 1.0,
+                "_source": {
+                    "data": 7.359938146782444
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "EZ3GxIcBRlEMH4oPPi7J",
+                "_score": 1.0,
+                "_source": {
+                    "instagram": 7.359938146782444
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "Ep3GxIcBRlEMH4oPPy4d",
+                "_score": 1.0,
+                "_source": {
+                    "european": 7.351017009634828
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "E53GxIcBRlEMH4oPPy5v",
+                "_score": 1.0,
+                "_source": {
+                    "energy": 7.339122160104675
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "FJ3GxIcBRlEMH4oPPy61",
+                "_score": 1.0,
+                "_source": {
+                    "light": 7.33020102295706
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "FZ3GxIcBRlEMH4oPPy78",
+                "_score": 1.0,
+                "_source": {
+                    "asked": 7.315332461044368
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "Fp3GxIcBRlEMH4oPQC5D",
+                "_score": 1.0,
+                "_source": {
+                    "italian": 7.306411323896753
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "F53GxIcBRlEMH4oPQC6A",
+                "_score": 1.0,
+                "_source": {
+                    "whether": 7.300463899131676
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "GJ3GxIcBRlEMH4oPQC7O",
+                "_score": 1.0,
+                "_source": {
+                    "june": 7.297490186749138
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "GZ3GxIcBRlEMH4oPQS4r",
+                "_score": 1.0,
+                "_source": {
+                    "girls": 7.297490186749138
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "Gp3GxIcBRlEMH4oPQS6L",
+                "_score": 1.0,
+                "_source": {
+                    "fc": 7.297490186749138
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "G53GxIcBRlEMH4oPQS7W",
+                "_score": 1.0,
+                "_source": {
+                    "actor": 7.279647912453907
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "HJ3GxIcBRlEMH4oPQi4U",
+                "_score": 1.0,
+                "_source": {
+                    "stage": 7.279647912453907
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "HZ3GxIcBRlEMH4oPQi5X",
+                "_score": 1.0,
+                "_source": {
+                    "nothing": 7.2647793505412155
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "Hp3GxIcBRlEMH4oPQi6l",
+                "_score": 1.0,
+                "_source": {
+                    "sky": 7.240989651480908
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "H53GxIcBRlEMH4oPQy4C",
+                "_score": 1.0,
+                "_source": {
+                    "pm": 7.240989651480908
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "IJ3GxIcBRlEMH4oPQy5Q",
+                "_score": 1.0,
+                "_source": {
+                    "release": 7.2380159390983705
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "IZ3GxIcBRlEMH4oPQy6b",
+                "_score": 1.0,
+                "_source": {
+                    "visit": 7.217199952420601
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "Ip3GxIcBRlEMH4oPQy7v",
+                "_score": 1.0,
+                "_source": {
+                    "pandemic": 7.214226240038063
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "I53GxIcBRlEMH4oPRC5U",
+                "_score": 1.0,
+                "_source": {
+                    "july": 7.205305102890448
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "JJ3GxIcBRlEMH4oPRC6r",
+                "_score": 1.0,
+                "_source": {
+                    "believe": 7.187462828595219
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "JZ3GxIcBRlEMH4oPRC7p",
+                "_score": 1.0,
+                "_source": {
+                    "stadium": 7.18448911621268
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "Jp3GxIcBRlEMH4oPRS4p",
+                "_score": 1.0,
+                "_source": {
+                    "soon": 7.133936005709527
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "J53GxIcBRlEMH4oPRS5y",
+                "_score": 1.0,
+                "_source": {
+                    "university": 7.127988580944451
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "KJ3GxIcBRlEMH4oPRS6_",
+                "_score": 1.0,
+                "_source": {
+                    "ago": 7.125014868561913
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "KZ3GxIcBRlEMH4oPRi4G",
+                "_score": 1.0,
+                "_source": {
+                    "tournament": 7.116093731414298
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "Kp3GxIcBRlEMH4oPRi5F",
+                "_score": 1.0,
+                "_source": {
+                    "saturday": 7.098251457119067
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "K53GxIcBRlEMH4oPRi6S",
+                "_score": 1.0,
+                "_source": {
+                    "race": 7.098251457119067
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "LJ3GxIcBRlEMH4oPRy4z",
+                "_score": 1.0,
+                "_source": {
+                    "performance": 7.09527774473653
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "LZ3GxIcBRlEMH4oPSC4K",
+                "_score": 1.0,
+                "_source": {
+                    "area": 7.062566908528607
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "Lp3GxIcBRlEMH4oPSC6M",
+                "_score": 1.0,
+                "_source": {
+                    "increase": 7.02093493517307
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "L53GxIcBRlEMH4oPSS4D",
+                "_score": 1.0,
+                "_source": {
+                    "cause": 6.9555132627572265
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "MJ3GxIcBRlEMH4oPSS57",
+                "_score": 1.0,
+                "_source": {
+                    "beauty": 6.94956583799215
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "MZ3GxIcBRlEMH4oPSS7s",
+                "_score": 1.0,
+                "_source": {
+                    "ahead": 6.9465921256096115
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "Mp3GxIcBRlEMH4oPSi5W",
+                "_score": 1.0,
+                "_source": {
+                    "needs": 6.937670988461996
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "M53GxIcBRlEMH4oPSi6y",
+                "_score": 1.0,
+                "_source": {
+                    "bring": 6.934697276079457
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "NJ3GxIcBRlEMH4oPSy4i",
+                "_score": 1.0,
+                "_source": {
+                    "trump": 6.928749851314381
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "NZ3GxIcBRlEMH4oPSy6u",
+                "_score": 1.0,
+                "_source": {
+                    "nations": 6.907933864636612
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "Np3GxIcBRlEMH4oPTC4-",
+                "_score": 1.0,
+                "_source": {
+                    "large": 6.893065302723921
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "N53GxIcBRlEMH4oPTC6V",
+                "_score": 1.0,
+                "_source": {
+                    "difficult": 6.878196740811229
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "OJ3GxIcBRlEMH4oPTC7w",
+                "_score": 1.0,
+                "_source": {
+                    "currently": 6.863328178898537
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "OZ3GxIcBRlEMH4oPTS5k",
+                "_score": 1.0,
+                "_source": {
+                    "bad": 6.851433329368383
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "Op3GxIcBRlEMH4oPTS7B",
+                "_score": 1.0,
+                "_source": {
+                    "main": 6.830617342690615
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "O53GxIcBRlEMH4oPTi4O",
+                "_score": 1.0,
+                "_source": {
+                    "climate": 6.824669917925538
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "PJ3GxIcBRlEMH4oPTi5U",
+                "_score": 1.0,
+                "_source": {
+                    "la": 6.818722493160462
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "PZ3GxIcBRlEMH4oPTi6c",
+                "_score": 1.0,
+                "_source": {
+                    "true": 6.815748780777923
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "Pp3GxIcBRlEMH4oPTi7m",
+                "_score": 1.0,
+                "_source": {
+                    "available": 6.809801356012847
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "P53GxIcBRlEMH4oPTy4x",
+                "_score": 1.0,
+                "_source": {
+                    "list": 6.7979065064826925
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "QJ3GxIcBRlEMH4oPTy6L",
+                "_score": 1.0,
+                "_source": {
+                    "england": 6.783037944570001
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "QZ3GxIcBRlEMH4oPTy7x",
+                "_score": 1.0,
+                "_source": {
+                    "image": 6.780064232187463
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "Qp3GxIcBRlEMH4oPUC5X",
+                "_score": 1.0,
+                "_source": {
+                    "period": 6.780064232187463
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "Q53GxIcBRlEMH4oPUC64",
+                "_score": 1.0,
+                "_source": {
+                    "photo": 6.777090519804925
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "RJ3GxIcBRlEMH4oPUS4Z",
+                "_score": 1.0,
+                "_source": {
+                    "culture": 6.765195670274771
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "RZ3GxIcBRlEMH4oPUS5y",
+                "_score": 1.0,
+                "_source": {
+                    "living": 6.7622219578922325
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "Rp3GxIcBRlEMH4oPUi4C",
+                "_score": 1.0,
+                "_source": {
+                    "coach": 6.759248245509694
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "R53GxIcBRlEMH4oPUi6e",
+                "_score": 1.0,
+                "_source": {
+                    "issues": 6.747353395979541
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "SJ3GxIcBRlEMH4oPUy4j",
+                "_score": 1.0,
+                "_source": {
+                    "round": 6.744379683597003
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "SZ3GxIcBRlEMH4oPUy6g",
+                "_score": 1.0,
+                "_source": {
+                    "manager": 6.72951112168431
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "Sp3GxIcBRlEMH4oPVC4R",
+                "_score": 1.0,
+                "_source": {
+                    "gender": 6.723563696919234
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "S53GxIcBRlEMH4oPVC6K",
+                "_score": 1.0,
+                "_source": {
+                    "championship": 6.720589984536696
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "TJ3GxIcBRlEMH4oPVC7z",
+                "_score": 1.0,
+                "_source": {
+                    "earlier": 6.7176162721541575
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "TZ3GxIcBRlEMH4oPVS5H",
+                "_score": 1.0,
+                "_source": {
+                    "victory": 6.699773997858927
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "Tp3GxIcBRlEMH4oPVS6i",
+                "_score": 1.0,
+                "_source": {
+                    "tell": 6.690852860711312
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "T53GxIcBRlEMH4oPVi5Y",
+                "_score": 1.0,
+                "_source": {
+                    "finally": 6.687879148328774
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "UJ3GxIcBRlEMH4oPVi69",
+                "_score": 1.0,
+                "_source": {
+                    "shows": 6.6730105864160825
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "UZ3GxIcBRlEMH4oPVy4R",
+                "_score": 1.0,
+                "_source": {
+                    "pradesh": 6.667063161651004
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "Up3GxIcBRlEMH4oPVy5W",
+                "_score": 1.0,
+                "_source": {
+                    "loss": 6.661115736885928
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "U53GxIcBRlEMH4oPVy7c",
+                "_score": 1.0,
+                "_source": {
+                    "local": 6.649220887355775
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "VJ3GxIcBRlEMH4oPWC6j",
+                "_score": 1.0,
+                "_source": {
+                    "air": 6.646247174973237
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "VZ3GxIcBRlEMH4oPWS4M",
+                "_score": 1.0,
+                "_source": {
+                    "class": 6.643273462590699
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "Vp3GxIcBRlEMH4oPWS6E",
+                "_score": 1.0,
+                "_source": {
+                    "friday": 6.628404900678006
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "V53GxIcBRlEMH4oPWi57",
+                "_score": 1.0,
+                "_source": {
+                    "thought": 6.619483763530392
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "WJ3GxIcBRlEMH4oPWy5F",
+                "_score": 1.0,
+                "_source": {
+                    "song": 6.610562626382777
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "WZ3GxIcBRlEMH4oPWy75",
+                "_score": 1.0,
+                "_source": {
+                    "development": 6.610562626382777
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "Wp3GxIcBRlEMH4oPXC6a",
+                "_score": 1.0,
+                "_source": {
+                    "positive": 6.6046152016177
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "W53GxIcBRlEMH4oPXS4Z",
+                "_score": 1.0,
+                "_source": {
+                    "district": 6.571904365409778
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "XJ3GxIcBRlEMH4oPXS6R",
+                "_score": 1.0,
+                "_source": {
+                    "current": 6.56893065302724
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "XZ3GxIcBRlEMH4oPXi4y",
+                "_score": 1.0,
+                "_source": {
+                    "psg": 6.548114666349471
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "Xp3GxIcBRlEMH4oPXi7G",
+                "_score": 1.0,
+                "_source": {
+                    "god": 6.539193529201856
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "X53GxIcBRlEMH4oPXy5X",
+                "_score": 1.0,
+                "_source": {
+                    "north": 6.527298679671702
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "YJ3GxIcBRlEMH4oPXy7m",
+                "_score": 1.0,
+                "_source": {
+                    "process": 6.5243249672891634
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "YZ3GxIcBRlEMH4oPYC5p",
+                "_score": 1.0,
+                "_source": {
+                    "clear": 6.521351254906625
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "Yp3GxIcBRlEMH4oPYS6O",
+                "_score": 1.0,
+                "_source": {
+                    "transfer": 6.521351254906625
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "o53GxIcBRlEMH4oPGy3n",
+                "_score": 1.0,
+                "_source": {
+                    "hours": 8.754609254192934
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "pJ3GxIcBRlEMH4oPHC1F",
+                "_score": 1.0,
+                "_source": {
+                    "system": 8.72784584275009
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "pZ3GxIcBRlEMH4oPHC2S",
+                "_score": 1.0,
+                "_source": {
+                    "getting": 8.718924705602474
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "pp3GxIcBRlEMH4oPHC3c",
+                "_score": 1.0,
+                "_source": {
+                    "milan": 8.712977280837396
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "p53GxIcBRlEMH4oPHS0W",
+                "_score": 1.0,
+                "_source": {
+                    "six": 8.686213869394551
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "qJ3GxIcBRlEMH4oPHS1M",
+                "_score": 1.0,
+                "_source": {
+                    "almost": 8.671345307481861
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "qZ3GxIcBRlEMH4oPHS19",
+                "_score": 1.0,
+                "_source": {
+                    "special": 8.641608183656476
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "qp3GxIcBRlEMH4oPHS25",
+                "_score": 1.0,
+                "_source": {
+                    "khan": 8.635660758891401
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "q53GxIcBRlEMH4oPHS3s",
+                "_score": 1.0,
+                "_source": {
+                    "source": 8.614844772213631
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "rJ3GxIcBRlEMH4oPHi0m",
+                "_score": 1.0,
+                "_source": {
+                    "record": 8.611871059831094
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "rZ3GxIcBRlEMH4oPHi1i",
+                "_score": 1.0,
+                "_source": {
+                    "de": 8.573212798858094
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "rp3GxIcBRlEMH4oPHi2d",
+                "_score": 1.0,
+                "_source": {
+                    "father": 8.552396812180325
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "r53GxIcBRlEMH4oPHi3T",
+                "_score": 1.0,
+                "_source": {
+                    "security": 8.52860711312002
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "sJ3GxIcBRlEMH4oPHy0Z",
+                "_score": 1.0,
+                "_source": {
+                    "held": 8.513738551207327
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "sZ3GxIcBRlEMH4oPHy1d",
+                "_score": 1.0,
+                "_source": {
+                    "healthy": 8.50779112644225
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "sp3GxIcBRlEMH4oPHy2T",
+                "_score": 1.0,
+                "_source": {
+                    "recently": 8.495896276912097
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "s53GxIcBRlEMH4oPHy3J",
+                "_score": 1.0,
+                "_source": {
+                    "working": 8.481027714999405
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "tJ3GxIcBRlEMH4oPIC0D",
+                "_score": 1.0,
+                "_source": {
+                    "political": 8.427500892113715
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "0J3GxIcBRlEMH4oPKC0e",
+                "_score": 1.0,
+                "_source": {
+                    "title": 8.061734269061496
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "0Z3GxIcBRlEMH4oPKC1f",
+                "_score": 1.0,
+                "_source": {
+                    "added": 8.05578684429642
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "0p3GxIcBRlEMH4oPKC2V",
+                "_score": 1.0,
+                "_source": {
+                    "field": 8.043891994766266
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "053GxIcBRlEMH4oPKC3R",
+                "_score": 1.0,
+                "_source": {
+                    "skin": 8.037944570001189
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "1J3GxIcBRlEMH4oPKS0P",
+                "_score": 1.0,
+                "_source": {
+                    "least": 8.034970857618651
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "1Z3GxIcBRlEMH4oPKS1K",
+                "_score": 1.0,
+                "_source": {
+                    "taliban": 8.031997145236112
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "1p3GxIcBRlEMH4oPKS2K",
+                "_score": 1.0,
+                "_source": {
+                    "stop": 8.026049720471036
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "153GxIcBRlEMH4oPKS3F",
+                "_score": 1.0,
+                "_source": {
+                    "leave": 8.011181158558344
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "2J3GxIcBRlEMH4oPKi0F",
+                "_score": 1.0,
+                "_source": {
+                    "global": 8.008207446175806
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "2Z3GxIcBRlEMH4oPKi1D",
+                "_score": 1.0,
+                "_source": {
+                    "community": 8.005233733793267
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "2p3GxIcBRlEMH4oPKi2R",
+                "_score": 1.0,
+                "_source": {
+                    "order": 7.99928630902819
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "253GxIcBRlEMH4oPKi3g",
+                "_score": 1.0,
+                "_source": {
+                    "peace": 7.993338884263114
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "3J3GxIcBRlEMH4oPKy0k",
+                "_score": 1.0,
+                "_source": {
+                    "mind": 7.990365171880576
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "3Z3GxIcBRlEMH4oPKy1g",
+                "_score": 1.0,
+                "_source": {
+                    "winning": 7.9873914594980375
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "3p3GxIcBRlEMH4oPKy2V",
+                "_score": 1.0,
+                "_source": {
+                    "small": 7.981444034732961
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "353GxIcBRlEMH4oPKy3I",
+                "_score": 1.0,
+                "_source": {
+                    "enough": 7.972522897585345
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "4J3GxIcBRlEMH4oPKy37",
+                "_score": 1.0,
+                "_source": {
+                    "pakistan": 7.969549185202807
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "4Z3GxIcBRlEMH4oPLC0-",
+                "_score": 1.0,
+                "_source": {
+                    "decision": 7.960628048055192
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "4p3GxIcBRlEMH4oPLC2M",
+                "_score": 1.0,
+                "_source": {
+                    "blood": 7.9517069109075775
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "453GxIcBRlEMH4oPLC3L",
+                "_score": 1.0,
+                "_source": {
+                    "sunday": 7.91007493755204
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "5J3GxIcBRlEMH4oPLS0I",
+                "_score": 1.0,
+                "_source": {
+                    "led": 7.865469251813964
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "5Z3GxIcBRlEMH4oPLS1N",
+                "_score": 1.0,
+                "_source": {
+                    "law": 7.853574402283811
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "5p3GxIcBRlEMH4oPLS2I",
+                "_score": 1.0,
+                "_source": {
+                    "october": 7.814916141310812
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "553GxIcBRlEMH4oPLS3F",
+                "_score": 1.0,
+                "_source": {
+                    "became": 7.808968716545736
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "6J3GxIcBRlEMH4oPLi0B",
+                "_score": 1.0,
+                "_source": {
+                    "deal": 7.80004757939812
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "6Z3GxIcBRlEMH4oPLi07",
+                "_score": 1.0,
+                "_source": {
+                    "matches": 7.7941001546330435
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "6p3GxIcBRlEMH4oPLi18",
+                "_score": 1.0,
+                "_source": {
+                    "contract": 7.788152729867967
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "653GxIcBRlEMH4oPLi3F",
+                "_score": 1.0,
+                "_source": {
+                    "company": 7.755441893660045
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "7J3GxIcBRlEMH4oPLy0H",
+                "_score": 1.0,
+                "_source": {
+                    "total": 7.719757345069585
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "7Z3GxIcBRlEMH4oPLy1A",
+                "_score": 1.0,
+                "_source": {
+                    "italy": 7.716783632687046
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "7p3GxIcBRlEMH4oPLy1-",
+                "_score": 1.0,
+                "_source": {
+                    "hope": 7.716783632687046
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "753GxIcBRlEMH4oPLy24",
+                "_score": 1.0,
+                "_source": {
+                    "campaign": 7.707862495539432
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "8J3GxIcBRlEMH4oPLy3z",
+                "_score": 1.0,
+                "_source": {
+                    "morning": 7.7048887831568935
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "wp3GxIcBRlEMH4oPJC0A",
+                "_score": 1.0,
+                "_source": {
+                    "position": 8.201498751040798
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "w53GxIcBRlEMH4oPJC1Z",
+                "_score": 1.0,
+                "_source": {
+                    "watch": 8.19852503865826
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "xJ3GxIcBRlEMH4oPJC2m",
+                "_score": 1.0,
+                "_source": {
+                    "space": 8.177709051980491
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "xZ3GxIcBRlEMH4oPJC3n",
+                "_score": 1.0,
+                "_source": {
+                    "mother": 8.165814202450338
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "xp3GxIcBRlEMH4oPJS0h",
+                "_score": 1.0,
+                "_source": {
+                    "strong": 8.133103366242416
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "x53GxIcBRlEMH4oPJS1g",
+                "_score": 1.0,
+                "_source": {
+                    "ball": 8.12715594147734
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "yJ3GxIcBRlEMH4oPJS2e",
+                "_score": 1.0,
+                "_source": {
+                    "self": 8.097418817651956
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "yZ3GxIcBRlEMH4oPJS3Z",
+                "_score": 1.0,
+                "_source": {
+                    "stay": 8.094445105269418
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "yp3GxIcBRlEMH4oPJi0c",
+                "_score": 1.0,
+                "_source": {
+                    "action": 8.094445105269418
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "y53GxIcBRlEMH4oPJi1b",
+                "_score": 1.0,
+                "_source": {
+                    "lives": 8.09147139288688
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "zJ3GxIcBRlEMH4oPJy0E",
+                "_score": 1.0,
+                "_source": {
+                    "hard": 8.09147139288688
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "zZ3GxIcBRlEMH4oPJy1M",
+                "_score": 1.0,
+                "_source": {
+                    "situation": 8.088497680504341
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "zp3GxIcBRlEMH4oPJy2K",
+                "_score": 1.0,
+                "_source": {
+                    "br": 8.076602830974188
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "z53GxIcBRlEMH4oPJy3P",
+                "_score": 1.0,
+                "_source": {
+                    "continued": 8.073629118591649
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "tZ3GxIcBRlEMH4oPIC0-",
+                "_score": 1.0,
+                "_source": {
+                    "try": 8.42155346734864
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "tp3GxIcBRlEMH4oPIC2N",
+                "_score": 1.0,
+                "_source": {
+                    "behind": 8.382895206375638
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "t53GxIcBRlEMH4oPIC3Q",
+                "_score": 1.0,
+                "_source": {
+                    "result": 8.382895206375638
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "uJ3GxIcBRlEMH4oPIS0V",
+                "_score": 1.0,
+                "_source": {
+                    "forward": 8.3799214939931
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "uZ3GxIcBRlEMH4oPIS1X",
+                "_score": 1.0,
+                "_source": {
+                    "announced": 8.373974069228025
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "up3GxIcBRlEMH4oPIS2b",
+                "_score": 1.0,
+                "_source": {
+                    "art": 8.356131794932795
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "u53GxIcBRlEMH4oPIS3q",
+                "_score": 1.0,
+                "_source": {
+                    "director": 8.332342095872487
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "vJ3GxIcBRlEMH4oPIi02",
+                "_score": 1.0,
+                "_source": {
+                    "thing": 8.266920423456643
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "vZ3GxIcBRlEMH4oPIi12",
+                "_score": 1.0,
+                "_source": {
+                    "gold": 8.257999286309028
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "vp3GxIcBRlEMH4oPIi2w",
+                "_score": 1.0,
+                "_source": {
+                    "run": 8.246104436778873
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "v53GxIcBRlEMH4oPIi3x",
+                "_score": 1.0,
+                "_source": {
+                    "possible": 8.243130724396336
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "wJ3GxIcBRlEMH4oPIy0v",
+                "_score": 1.0,
+                "_source": {
+                    "beat": 8.23718329963126
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "wZ3GxIcBRlEMH4oPIy2H",
+                "_score": 1.0,
+                "_source": {
+                    "research": 8.225288450101106
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "8Z3GxIcBRlEMH4oPMC0o",
+                "_score": 1.0,
+                "_source": {
+                    "released": 7.695967646009278
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "8p3GxIcBRlEMH4oPMC1m",
+                "_score": 1.0,
+                "_source": {
+                    "shared": 7.695967646009278
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "853GxIcBRlEMH4oPMC2l",
+                "_score": 1.0,
+                "_source": {
+                    "september": 7.660283097418817
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "9J3GxIcBRlEMH4oPMS0q",
+                "_score": 1.0,
+                "_source": {
+                    "especially": 7.627572261210895
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "9Z3GxIcBRlEMH4oPMS1q",
+                "_score": 1.0,
+                "_source": {
+                    "someone": 7.621624836445819
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "9p3GxIcBRlEMH4oPMS2m",
+                "_score": 1.0,
+                "_source": {
+                    "money": 7.585940287855358
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "953GxIcBRlEMH4oPMS3v",
+                "_score": 1.0,
+                "_source": {
+                    "line": 7.585940287855358
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "-J3GxIcBRlEMH4oPMi1H",
+                "_score": 1.0,
+                "_source": {
+                    "various": 7.58296657547282
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "-Z3GxIcBRlEMH4oPMi2Z",
+                "_score": 1.0,
+                "_source": {
+                    "front": 7.568098013560129
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "-p3GxIcBRlEMH4oPMi31",
+                "_score": 1.0,
+                "_source": {
+                    "education": 7.56512430117759
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "-53GxIcBRlEMH4oPMy1M",
+                "_score": 1.0,
+                "_source": {
+                    "means": 7.559176876412513
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "_J3GxIcBRlEMH4oPMy2o",
+                "_score": 1.0,
+                "_source": {
+                    "general": 7.550255739264898
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "l53GxIcBRlEMH4oPGC0C",
+                "_score": 1.0,
+                "_source": {
+                    "twitter": 8.941953134292852
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "mJ3GxIcBRlEMH4oPGC1L",
+                "_score": 1.0,
+                "_source": {
+                    "teams": 8.921137147615083
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "mZ3GxIcBRlEMH4oPGC2s",
+                "_score": 1.0,
+                "_source": {
+                    "liverpool": 8.915189722850005
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "mp3GxIcBRlEMH4oPGS0M",
+                "_score": 1.0,
+                "_source": {
+                    "taken": 8.894373736172238
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "m53GxIcBRlEMH4oPGS1b",
+                "_score": 1.0,
+                "_source": {
+                    "control": 8.891400023789698
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "nJ3GxIcBRlEMH4oPGS2u",
+                "_score": 1.0,
+                "_source": {
+                    "earth": 8.885452599024623
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "nZ3GxIcBRlEMH4oPGi0A",
+                "_score": 1.0,
+                "_source": {
+                    "major": 8.83489948852147
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "np3GxIcBRlEMH4oPGi1Y",
+                "_score": 1.0,
+                "_source": {
+                    "career": 8.81705721422624
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "n53GxIcBRlEMH4oPGi2c",
+                "_score": 1.0,
+                "_source": {
+                    "child": 8.79921493993101
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "oJ3GxIcBRlEMH4oPGi3Y",
+                "_score": 1.0,
+                "_source": {
+                    "coming": 8.796241227548471
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "oZ3GxIcBRlEMH4oPGy0b",
+                "_score": 1.0,
+                "_source": {
+                    "close": 8.790293802783394
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "op3GxIcBRlEMH4oPGy17",
+                "_score": 1.0,
+                "_source": {
+                    "barcelona": 8.775425240870703
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "_Z3GxIcBRlEMH4oPNC0a",
+                "_score": 1.0,
+                "_source": {
+                    "students": 7.544308314499822
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "_p3GxIcBRlEMH4oPNC2k",
+                "_score": 1.0,
+                "_source": {
+                    "within": 7.541334602117283
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "_53GxIcBRlEMH4oPNS0n",
+                "_score": 1.0,
+                "_source": {
+                    "leader": 7.52943975258713
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "AJ3GxIcBRlEMH4oPNS6W",
+                "_score": 1.0,
+                "_source": {
+                    "statement": 7.526466040204591
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "AZ3GxIcBRlEMH4oPNi6o",
+                "_score": 1.0,
+                "_source": {
+                    "continue": 7.5115974782918995
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "Ap3GxIcBRlEMH4oPNy5k",
+                "_score": 1.0,
+                "_source": {
+                    "march": 7.499702628761747
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "0Z3FxIcBRlEMH4oP4ywX",
+                "_score": 1.0,
+                "_source": {
+                    "win": 17.5657190436541
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "0p3FxIcBRlEMH4oP4yxY",
+                "_score": 1.0,
+                "_source": {
+                    "set": 17.54490305697633
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "053FxIcBRlEMH4oP4yyd",
+                "_score": 1.0,
+                "_source": {
+                    "real": 17.485428809325562
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "1J3FxIcBRlEMH4oP4yzd",
+                "_score": 1.0,
+                "_source": {
+                    "million": 17.464612822647794
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "1Z3FxIcBRlEMH4oP5CwV",
+                "_score": 1.0,
+                "_source": {
+                    "group": 17.333769477816105
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "1p3FxIcBRlEMH4oP5CxN",
+                "_score": 1.0,
+                "_source": {
+                    "going": 17.315927203520875
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "153FxIcBRlEMH4oP5CyP",
+                "_score": 1.0,
+                "_source": {
+                    "want": 17.205899845366957
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "2J3FxIcBRlEMH4oP5CzU",
+                "_score": 1.0,
+                "_source": {
+                    "look": 17.19697870821934
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "2Z3FxIcBRlEMH4oP5SwQ",
+                "_score": 1.0,
+                "_source": {
+                    "come": 17.155346734863805
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "2p3FxIcBRlEMH4oP5SxK",
+                "_score": 1.0,
+                "_source": {
+                    "family": 17.10776733674319
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "253FxIcBRlEMH4oP5Sx8",
+                "_score": 1.0,
+                "_source": {
+                    "international": 17.078030212917806
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "3J3FxIcBRlEMH4oP5Syz",
+                "_score": 1.0,
+                "_source": {
+                    "different": 16.560604258356133
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "3Z3FxIcBRlEMH4oP5iwE",
+                "_score": 1.0,
+                "_source": {
+                    "man": 16.426787201141906
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "3p3FxIcBRlEMH4oP5iw1",
+                "_score": 1.0,
+                "_source": {
+                    "important": 16.025336029499226
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "353FxIcBRlEMH4oP5ixs",
+                "_score": 1.0,
+                "_source": {
+                    "fans": 15.977756631378611
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "4J3FxIcBRlEMH4oP5iyj",
+                "_score": 1.0,
+                "_source": {
+                    "live": 15.977756631378611
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "4Z3FxIcBRlEMH4oP5izY",
+                "_score": 1.0,
+                "_source": {
+                    "delhi": 15.882597835137386
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "4p3FxIcBRlEMH4oP5ywZ",
+                "_score": 1.0,
+                "_source": {
+                    "including": 15.846913286546926
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "VJ3GxIcBRlEMH4oPCC0L",
+                "_score": 1.0,
+                "_source": {
+                    "chief": 10.8837873200904
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "VZ3GxIcBRlEMH4oPCC1Y",
+                "_score": 1.0,
+                "_source": {
+                    "comes": 10.86891875817771
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "Vp3GxIcBRlEMH4oPCC2a",
+                "_score": 1.0,
+                "_source": {
+                    "summer": 10.770786249553943
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "V53GxIcBRlEMH4oPCC3X",
+                "_score": 1.0,
+                "_source": {
+                    "others": 10.761865112406328
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "WJ3GxIcBRlEMH4oPCS0T",
+                "_score": 1.0,
+                "_source": {
+                    "music": 10.749970262876174
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "WZ3GxIcBRlEMH4oPCS1M",
+                "_score": 1.0,
+                "_source": {
+                    "prime": 10.741049125728559
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "Wp3GxIcBRlEMH4oPCS2G",
+                "_score": 1.0,
+                "_source": {
+                    "fact": 10.714285714285714
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "W53GxIcBRlEMH4oPCS26",
+                "_score": 1.0,
+                "_source": {
+                    "everyone": 10.70239086475556
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "XJ3GxIcBRlEMH4oPCS31",
+                "_score": 1.0,
+                "_source": {
+                    "later": 10.636969192339716
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "XZ3GxIcBRlEMH4oPCi0x",
+                "_score": 1.0,
+                "_source": {
+                    "following": 10.628048055192101
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "Xp3GxIcBRlEMH4oPCi1m",
+                "_score": 1.0,
+                "_source": {
+                    "case": 10.550731533246104
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "X53GxIcBRlEMH4oPCi2k",
+                "_score": 1.0,
+                "_source": {
+                    "went": 10.547757820863566
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "YJ3GxIcBRlEMH4oPCi3k",
+                "_score": 1.0,
+                "_source": {
+                    "post": 10.523968121803259
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "YZ3GxIcBRlEMH4oPCy0j",
+                "_score": 1.0,
+                "_source": {
+                    "mental": 10.479362436065184
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "Yp3GxIcBRlEMH4oPCy1k",
+                "_score": 1.0,
+                "_source": {
+                    "countries": 10.470441298917569
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "Y53GxIcBRlEMH4oPCy2e",
+                "_score": 1.0,
+                "_source": {
+                    "south": 10.41394076364934
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "ZJ3GxIcBRlEMH4oPCy3W",
+                "_score": 1.0,
+                "_source": {
+                    "role": 10.393124776971572
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "ZZ3GxIcBRlEMH4oPDC0J",
+                "_score": 1.0,
+                "_source": {
+                    "college": 10.372308790293802
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "Zp3GxIcBRlEMH4oPDC1O",
+                "_score": 1.0,
+                "_source": {
+                    "often": 10.318781967408112
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "Z53GxIcBRlEMH4oPDC2L",
+                "_score": 1.0,
+                "_source": {
+                    "told": 10.28607113120019
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "aJ3GxIcBRlEMH4oPDC3F",
+                "_score": 1.0,
+                "_source": {
+                    "given": 10.256334007374807
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "aZ3GxIcBRlEMH4oPDC37",
+                "_score": 1.0,
+                "_source": {
+                    "lead": 10.253360294992268
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "ap3GxIcBRlEMH4oPDS1c",
+                "_score": 1.0,
+                "_source": {
+                    "lost": 10.217675746401808
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "a53GxIcBRlEMH4oPDS2T",
+                "_score": 1.0,
+                "_source": {
+                    "makes": 10.137385512073273
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "bJ3GxIcBRlEMH4oPDS3E",
+                "_score": 1.0,
+                "_source": {
+                    "congress": 9.973831331033663
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "bZ3GxIcBRlEMH4oPDi0D",
+                "_score": 1.0,
+                "_source": {
+                    "months": 9.95896276912097
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "bp3GxIcBRlEMH4oPDi1M",
+                "_score": 1.0,
+                "_source": {
+                    "looking": 9.950041631973356
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "b53GxIcBRlEMH4oPDi2G",
+                "_score": 1.0,
+                "_source": {
+                    "recent": 9.938146782443201
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "cJ3GxIcBRlEMH4oPDi28",
+                "_score": 1.0,
+                "_source": {
+                    "rights": 9.926251932913049
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "cZ3GxIcBRlEMH4oPDi3y",
+                "_score": 1.0,
+                "_source": {
+                    "study": 9.911383371000356
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "cp3GxIcBRlEMH4oPDy0q",
+                "_score": 1.0,
+                "_source": {
+                    "woman": 9.878672534792434
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "c53GxIcBRlEMH4oPDy1p",
+                "_score": 1.0,
+                "_source": {
+                    "american": 9.83406684905436
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "dJ3GxIcBRlEMH4oPDy2p",
+                "_score": 1.0,
+                "_source": {
+                    "experience": 9.801356012846437
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "dZ3GxIcBRlEMH4oPDy3d",
+                "_score": 1.0,
+                "_source": {
+                    "taking": 9.78054002616867
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "dp3GxIcBRlEMH4oPEC0T",
+                "_score": 1.0,
+                "_source": {
+                    "open": 9.768645176638517
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "d53GxIcBRlEMH4oPEC1b",
+                "_score": 1.0,
+                "_source": {
+                    "point": 9.750802902343285
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "eJ3GxIcBRlEMH4oPEC2Y",
+                "_score": 1.0,
+                "_source": {
+                    "scored": 9.732960628048055
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "eZ3GxIcBRlEMH4oPEC3T",
+                "_score": 1.0,
+                "_source": {
+                    "care": 9.646722968954442
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "ep3GxIcBRlEMH4oPES0K",
+                "_score": 1.0,
+                "_source": {
+                    "everything": 9.593196146068752
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "e53GxIcBRlEMH4oPES07",
+                "_score": 1.0,
+                "_source": {
+                    "less": 9.554537885095755
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "fJ3GxIcBRlEMH4oPES1w",
+                "_score": 1.0,
+                "_source": {
+                    "chelsea": 9.545616747948138
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "fZ3GxIcBRlEMH4oPES2o",
+                "_score": 1.0,
+                "_source": {
+                    "head": 9.533721898417985
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "fp3GxIcBRlEMH4oPES3j",
+                "_score": 1.0,
+                "_source": {
+                    "despite": 9.530748186035447
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "f53GxIcBRlEMH4oPEi0h",
+                "_score": 1.0,
+                "_source": {
+                    "hand": 9.50695848697514
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "gJ3GxIcBRlEMH4oPEi1k",
+                "_score": 1.0,
+                "_source": {
+                    "month": 9.498037349827525
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "gZ3GxIcBRlEMH4oPEi2i",
+                "_score": 1.0,
+                "_source": {
+                    "risk": 9.498037349827525
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "gp3GxIcBRlEMH4oPEi3j",
+                "_score": 1.0,
+                "_source": {
+                    "report": 9.393957416438683
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "g53GxIcBRlEMH4oPEy0e",
+                "_score": 1.0,
+                "_source": {
+                    "return": 9.379088854525989
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "hJ3GxIcBRlEMH4oPEy1a",
+                "_score": 1.0,
+                "_source": {
+                    "bjp": 9.364220292613298
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "hZ3GxIcBRlEMH4oPEy2T",
+                "_score": 1.0,
+                "_source": {
+                    "along": 9.316640894492686
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "hp3GxIcBRlEMH4oPEy3H",
+                "_score": 1.0,
+                "_source": {
+                    "west": 9.304746044962531
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "h53GxIcBRlEMH4oPEy38",
+                "_score": 1.0,
+                "_source": {
+                    "move": 9.301772332579992
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "iJ3GxIcBRlEMH4oPFC03",
+                "_score": 1.0,
+                "_source": {
+                    "though": 9.301772332579992
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "iZ3GxIcBRlEMH4oPFC15",
+                "_score": 1.0,
+                "_source": {
+                    "august": 9.277982633519686
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "ip3GxIcBRlEMH4oPFC24",
+                "_score": 1.0,
+                "_source": {
+                    "early": 9.275008921137147
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "i53GxIcBRlEMH4oPFC3x",
+                "_score": 1.0,
+                "_source": {
+                    "official": 9.266087783989532
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "jJ3GxIcBRlEMH4oPFS0q",
+                "_score": 1.0,
+                "_source": {
+                    "russian": 9.236350660164149
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "jZ3GxIcBRlEMH4oPFS1m",
+                "_score": 1.0,
+                "_source": {
+                    "reported": 9.14416557630546
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "jp3GxIcBRlEMH4oPFS2p",
+                "_score": 1.0,
+                "_source": {
+                    "death": 9.141191863922922
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "j53GxIcBRlEMH4oPFS3n",
+                "_score": 1.0,
+                "_source": {
+                    "book": 9.132270726775307
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "kJ3GxIcBRlEMH4oPFi0j",
+                "_score": 1.0,
+                "_source": {
+                    "level": 9.031164505769002
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "kZ3GxIcBRlEMH4oPFi1l",
+                "_score": 1.0,
+                "_source": {
+                    "friends": 9.007374806708695
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "kp3GxIcBRlEMH4oPFi2l",
+                "_score": 1.0,
+                "_source": {
+                    "australia": 8.99547995717854
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "k53GxIcBRlEMH4oPFi3t",
+                "_score": 1.0,
+                "_source": {
+                    "form": 8.99547995717854
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "lJ3GxIcBRlEMH4oPFy1D",
+                "_score": 1.0,
+                "_source": {
+                    "minutes": 8.992506244796003
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "lZ3GxIcBRlEMH4oPFy2L",
+                "_score": 1.0,
+                "_source": {
+                    "china": 8.983585107648388
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "lp3GxIcBRlEMH4oPFy3J",
+                "_score": 1.0,
+                "_source": {
+                    "done": 8.965742833353158
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "Np3GxIcBRlEMH4oPAC0H",
+                "_score": 1.0,
+                "_source": {
+                    "premier": 11.891875817770906
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "N53GxIcBRlEMH4oPAC1H",
+                "_score": 1.0,
+                "_source": {
+                    "past": 11.835375282502676
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "OJ3GxIcBRlEMH4oPAC2K",
+                "_score": 1.0,
+                "_source": {
+                    "third": 11.820506720589986
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "OZ3GxIcBRlEMH4oPAC3N",
+                "_score": 1.0,
+                "_source": {
+                    "madrid": 11.769953610086832
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "Op3GxIcBRlEMH4oPAS0K",
+                "_score": 1.0,
+                "_source": {
+                    "night": 11.73724277387891
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "O53GxIcBRlEMH4oPAS1M",
+                "_score": 1.0,
+                "_source": {
+                    "happy": 11.73724277387891
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "PJ3GxIcBRlEMH4oPAS2N",
+                "_score": 1.0,
+                "_source": {
+                    "singh": 11.731295349113834
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "PZ3GxIcBRlEMH4oPAS3O",
+                "_score": 1.0,
+                "_source": {
+                    "put": 11.722374211966219
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "Pp3GxIcBRlEMH4oPAi0H",
+                "_score": 1.0,
+                "_source": {
+                    "little": 11.668847389080527
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "P53GxIcBRlEMH4oPAi1C",
+                "_score": 1.0,
+                "_source": {
+                    "white": 11.659926251932912
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "QJ3GxIcBRlEMH4oPAi2J",
+                "_score": 1.0,
+                "_source": {
+                    "heart": 11.651005114785299
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "QZ3GxIcBRlEMH4oPAi3V",
+                "_score": 1.0,
+                "_source": {
+                    "several": 11.609373141429762
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "Qp3GxIcBRlEMH4oPAy0Z",
+                "_score": 1.0,
+                "_source": {
+                    "future": 11.570714880456762
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "Q53GxIcBRlEMH4oPAy1b",
+                "_score": 1.0,
+                "_source": {
+                    "might": 11.526109194718687
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "RJ3GxIcBRlEMH4oPAy3d",
+                "_score": 1.0,
+                "_source": {
+                    "based": 11.433924110859998
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "J53FxIcBRlEMH4oP_C0N",
+                "_score": 1.0,
+                "_source": {
+                    "person": 12.557987391459498
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "KJ3FxIcBRlEMH4oP_C1w",
+                "_score": 1.0,
+                "_source": {
+                    "full": 12.525276555251578
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "KZ3FxIcBRlEMH4oP_C2x",
+                "_score": 1.0,
+                "_source": {
+                    "give": 12.516355418103961
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "Kp3FxIcBRlEMH4oP_C3w",
+                "_score": 1.0,
+                "_source": {
+                    "started": 12.471749732365886
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "K53FxIcBRlEMH4oP_S0z",
+                "_score": 1.0,
+                "_source": {
+                    "must": 12.453907458070654
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "LJ3FxIcBRlEMH4oP_S19",
+                "_score": 1.0,
+                "_source": {
+                    "states": 12.379564648507197
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "LZ3FxIcBRlEMH4oP_S2-",
+                "_score": 1.0,
+                "_source": {
+                    "black": 12.334958962769122
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "Lp3FxIcBRlEMH4oP_i0A",
+                "_score": 1.0,
+                "_source": {
+                    "face": 12.3022481265612
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "L53FxIcBRlEMH4oP_i1L",
+                "_score": 1.0,
+                "_source": {
+                    "week": 12.296300701796122
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "MJ3FxIcBRlEMH4oP_i2H",
+                "_score": 1.0,
+                "_source": {
+                    "public": 12.269537290353277
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "MZ3FxIcBRlEMH4oP_i25",
+                "_score": 1.0,
+                "_source": {
+                    "ever": 12.198168193172357
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "Mp3FxIcBRlEMH4oP_i3w",
+                "_score": 1.0,
+                "_source": {
+                    "beautiful": 12.186273343642203
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "M53FxIcBRlEMH4oP_y02",
+                "_score": 1.0,
+                "_source": {
+                    "keep": 12.17140478172951
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "NJ3FxIcBRlEMH4oP_y18",
+                "_score": 1.0,
+                "_source": {
+                    "five": 12.061377423575593
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "NZ3FxIcBRlEMH4oP_y3F",
+                "_score": 1.0,
+                "_source": {
+                    "event": 11.933507791126443
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "RZ3GxIcBRlEMH4oPBC0h",
+                "_score": 1.0,
+                "_source": {
+                    "together": 11.389318425121923
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "Rp3GxIcBRlEMH4oPBC1X",
+                "_score": 1.0,
+                "_source": {
+                    "says": 11.362555013679076
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "R53GxIcBRlEMH4oPBC2S",
+                "_score": 1.0,
+                "_source": {
+                    "star": 11.347686451766386
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "SJ3GxIcBRlEMH4oPBC3S",
+                "_score": 1.0,
+                "_source": {
+                    "playing": 11.344712739383848
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "SZ3GxIcBRlEMH4oPBS0S",
+                "_score": 1.0,
+                "_source": {
+                    "red": 11.314975615558463
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "Sp3GxIcBRlEMH4oPBS1Y",
+                "_score": 1.0,
+                "_source": {
+                    "half": 11.261448792672772
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "S53GxIcBRlEMH4oPBS2e",
+                "_score": 1.0,
+                "_source": {
+                    "far": 11.252527655525157
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "TJ3GxIcBRlEMH4oPBi0d",
+                "_score": 1.0,
+                "_source": {
+                    "really": 11.225764244082312
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "TZ3GxIcBRlEMH4oPBi1R",
+                "_score": 1.0,
+                "_source": {
+                    "able": 11.151421434518854
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "Tp3GxIcBRlEMH4oPBi2E",
+                "_score": 1.0,
+                "_source": {
+                    "human": 11.151421434518854
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "T53GxIcBRlEMH4oPBi3C",
+                "_score": 1.0,
+                "_source": {
+                    "www": 11.148447722136314
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "UJ3GxIcBRlEMH4oPBy0K",
+                "_score": 1.0,
+                "_source": {
+                    "power": 11.133579160223624
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "UZ3GxIcBRlEMH4oPBy1M",
+                "_score": 1.0,
+                "_source": {
+                    "court": 11.071131200190317
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "Up3GxIcBRlEMH4oPBy2J",
+                "_score": 1.0,
+                "_source": {
+                    "across": 11.020578089687165
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "U53GxIcBRlEMH4oPBy3I",
+                "_score": 1.0,
+                "_source": {
+                    "yet": 10.95813012965386
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "GZ3FxIcBRlEMH4oP9y29",
+                "_score": 1.0,
+                "_source": {
+                    "arsenal": 13.04270250981325
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "Gp3FxIcBRlEMH4oP-C0b",
+                "_score": 1.0,
+                "_source": {
+                    "among": 12.97133341263233
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "G53FxIcBRlEMH4oP-C2h",
+                "_score": 1.0,
+                "_source": {
+                    "afghanistan": 12.926727726894255
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "HJ3FxIcBRlEMH4oP-S0E",
+                "_score": 1.0,
+                "_source": {
+                    "russia": 12.92078030212918
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "HZ3FxIcBRlEMH4oP-S1E",
+                "_score": 1.0,
+                "_source": {
+                    "age": 12.891043178303793
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "Hp3FxIcBRlEMH4oP-S2E",
+                "_score": 1.0,
+                "_source": {
+                    "video": 12.876174616391104
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "H53FxIcBRlEMH4oP-S3V",
+                "_score": 1.0,
+                "_source": {
+                    "school": 12.870227191626027
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "IJ3FxIcBRlEMH4oP-i0j",
+                "_score": 1.0,
+                "_source": {
+                    "find": 12.804805519210182
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "IZ3FxIcBRlEMH4oP-i1b",
+                "_score": 1.0,
+                "_source": {
+                    "feel": 12.804805519210182
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "Ip3FxIcBRlEMH4oP-i2W",
+                "_score": 1.0,
+                "_source": {
+                    "house": 12.79291066968003
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "I53FxIcBRlEMH4oP-i3a",
+                "_score": 1.0,
+                "_source": {
+                    "free": 12.676935886761031
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "JJ3FxIcBRlEMH4oP-y0c",
+                "_score": 1.0,
+                "_source": {
+                    "something": 12.665041037230878
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "JZ3FxIcBRlEMH4oP-y1d",
+                "_score": 1.0,
+                "_source": {
+                    "champions": 12.62935648864042
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "Jp3FxIcBRlEMH4oP-y2q",
+                "_score": 1.0,
+                "_source": {
+                    "took": 12.59069822766742
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "DJ3FxIcBRlEMH4oP8y3Z",
+                "_score": 1.0,
+                "_source": {
+                    "change": 13.699892946354227
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "DZ3FxIcBRlEMH4oP9C0t",
+                "_score": 1.0,
+                "_source": {
+                    "say": 13.690971809206614
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "Dp3FxIcBRlEMH4oP9C2W",
+                "_score": 1.0,
+                "_source": {
+                    "nature": 13.667182110146307
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "D53FxIcBRlEMH4oP9C33",
+                "_score": 1.0,
+                "_source": {
+                    "making": 13.50065421672416
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "EJ3FxIcBRlEMH4oP9S1C",
+                "_score": 1.0,
+                "_source": {
+                    "support": 13.372784584275008
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "EZ3FxIcBRlEMH4oP9S1_",
+                "_score": 1.0,
+                "_source": {
+                    "big": 13.36981087189247
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "Ep3FxIcBRlEMH4oP9S2_",
+                "_score": 1.0,
+                "_source": {
+                    "due": 13.313310336624243
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "E53FxIcBRlEMH4oP9i0P",
+                "_score": 1.0,
+                "_source": {
+                    "got": 13.292494349946473
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "FJ3FxIcBRlEMH4oP9i1i",
+                "_score": 1.0,
+                "_source": {
+                    "points": 13.289520637563934
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "FZ3FxIcBRlEMH4oP9i2m",
+                "_score": 1.0,
+                "_source": {
+                    "came": 13.158677292732246
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "Fp3FxIcBRlEMH4oP9i3x",
+                "_score": 1.0,
+                "_source": {
+                    "called": 13.09920304508148
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "F53FxIcBRlEMH4oP9y09",
+                "_score": 1.0,
+                "_source": {
+                    "young": 13.075413346021172
+                }
+            },
+            {
+                "_index": "word_index",
+                "_id": "GJ3FxIcBRlEMH4oP9y1_",
+                "_score": 1.0,
+                "_source": {
+                    "side": 13.06351849649102
+                }
+            }
+        ]
+    }
+}

@@ -21,7 +21,7 @@ const ES_QUERY_JSON_FILES = {
     HATE: "hate_index.json",
     DETOXIFY: "detoxify_index.json",
     LANGUAGE: "language_index.json",
-    WORD_CLOUD: "word_cloud_index.json",
+    WORD_CLOUD: "word_index.json",
     INTEREST: "interest_index.json",
 }
 

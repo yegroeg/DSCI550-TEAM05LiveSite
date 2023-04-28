@@ -1,0 +1,535 @@
+{
+    "took": 2,
+    "timed_out": false,
+    "_shards": {
+        "total": 1,
+        "successful": 1,
+        "skipped": 0,
+        "failed": 0
+    },
+    "hits": {
+        "total": {
+            "value": 43,
+            "relation": "eq"
+        },
+        "max_score": 1.0,
+        "hits": [
+            {
+                "_index": "language_index",
+                "_id": "RJ3DxIcBRlEMH4oPZSwK",
+                "_score": 1.0,
+                "_source": {
+                    "begin_count_gln": 3.4554539687786283,
+                    "country_count_begin": 3.40705081480425,
+                    "country_count_end": 3.8788089323592057,
+                    "end_count_gln": 4.305480348653205,
+                    "google_lang_narrative": "en"
+                }
+            },
+            {
+                "_index": "language_index",
+                "_id": "RZ3DxIcBRlEMH4oPZSxT",
+                "_score": 1.0,
+                "_source": {
+                    "begin_count_gln": 2.66838591669,
+                    "country_count_begin": 2.4216039268698313,
+                    "country_count_end": 3.0576661039098294,
+                    "end_count_gln": 3.662001879389917,
+                    "google_lang_narrative": "it"
+                }
+            },
+            {
+                "_index": "language_index",
+                "_id": "Rp3DxIcBRlEMH4oPZSxg",
+                "_score": 1.0,
+                "_source": {
+                    "begin_count_gln": 1.0,
+                    "country_count_begin": 1.0,
+                    "country_count_end": 1.0791812460476249,
+                    "end_count_gln": 1.146128035678238,
+                    "google_lang_narrative": "sl"
+                }
+            },
+            {
+                "_index": "language_index",
+                "_id": "R53DxIcBRlEMH4oPZSxt",
+                "_score": 1.0,
+                "_source": {
+                    "begin_count_gln": 1.1760912590556813,
+                    "country_count_begin": 1.0413926851582251,
+                    "country_count_end": 1.8750612633917,
+                    "end_count_gln": 2.143014800254095,
+                    "google_lang_narrative": "fr"
+                }
+            },
+            {
+                "_index": "language_index",
+                "_id": "SJ3DxIcBRlEMH4oPZSx5",
+                "_score": 1.0,
+                "_source": {
+                    "begin_count_gln": 1.4471580313422192,
+                    "country_count_begin": 1.380211241711606,
+                    "country_count_end": 1.7558748556724915,
+                    "end_count_gln": 2.1271047983648077,
+                    "google_lang_narrative": "id"
+                }
+            },
+            {
+                "_index": "language_index",
+                "_id": "SZ3DxIcBRlEMH4oPZSyH",
+                "_score": 1.0,
+                "_source": {
+                    "begin_count_gln": 1.0413926851582251,
+                    "country_count_begin": 1.0413926851582251,
+                    "country_count_end": 1.3424226808222062,
+                    "end_count_gln": 1.4913616938342726,
+                    "google_lang_narrative": "nl"
+                }
+            },
+            {
+                "_index": "language_index",
+                "_id": "Sp3DxIcBRlEMH4oPZSyW",
+                "_score": 1.0,
+                "_source": {
+                    "begin_count_gln": 1.1139433523068367,
+                    "country_count_begin": 1.0791812460476249,
+                    "country_count_end": 1.1760912590556813,
+                    "end_count_gln": 1.414973347970818,
+                    "google_lang_narrative": "hi"
+                }
+            },
+            {
+                "_index": "language_index",
+                "_id": "S53DxIcBRlEMH4oPZSyj",
+                "_score": 1.0,
+                "_source": {
+                    "begin_count_gln": 1.4471580313422192,
+                    "country_count_begin": 1.4471580313422192,
+                    "country_count_end": 1.5185139398778875,
+                    "end_count_gln": 1.7403626894942439,
+                    "google_lang_narrative": "bn"
+                }
+            },
+            {
+                "_index": "language_index",
+                "_id": "TJ3DxIcBRlEMH4oPZSyx",
+                "_score": 1.0,
+                "_source": {
+                    "begin_count_gln": 1.0,
+                    "country_count_begin": 1.0,
+                    "country_count_end": 1.2304489213782739,
+                    "end_count_gln": 1.2304489213782739,
+                    "google_lang_narrative": "cy"
+                }
+            },
+            {
+                "_index": "language_index",
+                "_id": "TZ3DxIcBRlEMH4oPZSy_",
+                "_score": 1.0,
+                "_source": {
+                    "begin_count_gln": 1.0,
+                    "country_count_begin": 1.0791812460476249,
+                    "country_count_end": 1.9242792860618816,
+                    "end_count_gln": 2.0086001717619175,
+                    "google_lang_narrative": "af"
+                }
+            },
+            {
+                "_index": "language_index",
+                "_id": "Tp3DxIcBRlEMH4oPZSzN",
+                "_score": 1.0,
+                "_source": {
+                    "begin_count_gln": 1.0,
+                    "country_count_begin": 1.0,
+                    "country_count_end": 1.3222192947339193,
+                    "end_count_gln": 1.792391689498254,
+                    "google_lang_narrative": "ro"
+                }
+            },
+            {
+                "_index": "language_index",
+                "_id": "T53DxIcBRlEMH4oPZiwH",
+                "_score": 1.0,
+                "_source": {
+                    "begin_count_gln": 1.0,
+                    "country_count_begin": 1.0,
+                    "country_count_end": 1.0413926851582251,
+                    "end_count_gln": 1.0413926851582251,
+                    "google_lang_narrative": "da"
+                }
+            },
+            {
+                "_index": "language_index",
+                "_id": "UJ3DxIcBRlEMH4oPZiwb",
+                "_score": 1.0,
+                "_source": {
+                    "begin_count_gln": 1.0,
+                    "country_count_begin": 1.1139433523068367,
+                    "country_count_end": 1.5563025007672873,
+                    "end_count_gln": 1.6127838567197355,
+                    "google_lang_narrative": "no"
+                }
+            },
+            {
+                "_index": "language_index",
+                "_id": "UZ3DxIcBRlEMH4oPZiws",
+                "_score": 1.0,
+                "_source": {
+                    "begin_count_gln": 1.0,
+                    "country_count_begin": 1.0,
+                    "country_count_end": 1.1139433523068367,
+                    "end_count_gln": 1.3424226808222062,
+                    "google_lang_narrative": "tl"
+                }
+            },
+            {
+                "_index": "language_index",
+                "_id": "Up3DxIcBRlEMH4oPZiw9",
+                "_score": 1.0,
+                "_source": {
+                    "begin_count_gln": 1.0,
+                    "country_count_begin": 1.0,
+                    "country_count_end": 1.0413926851582251,
+                    "end_count_gln": 1.0791812460476249,
+                    "google_lang_narrative": "es"
+                }
+            },
+            {
+                "_index": "language_index",
+                "_id": "U53DxIcBRlEMH4oPZixM",
+                "_score": 1.0,
+                "_source": {
+                    "begin_count_gln": 1.1139433523068367,
+                    "country_count_begin": 1.0,
+                    "country_count_end": 1.2304489213782739,
+                    "end_count_gln": 1.724275869600789,
+                    "google_lang_narrative": "de"
+                }
+            },
+            {
+                "_index": "language_index",
+                "_id": "VJ3DxIcBRlEMH4oPZixY",
+                "_score": 1.0,
+                "_source": {
+                    "begin_count_gln": 1.0,
+                    "country_count_begin": 1.0,
+                    "country_count_end": 1.0413926851582251,
+                    "end_count_gln": 1.0413926851582251,
+                    "google_lang_narrative": "hr"
+                }
+            },
+            {
+                "_index": "language_index",
+                "_id": "VZ3DxIcBRlEMH4oPZixj",
+                "_score": 1.0,
+                "_source": {
+                    "begin_count_gln": 1.0,
+                    "country_count_begin": 1.0,
+                    "country_count_end": 1.0,
+                    "end_count_gln": 1.2041199826559248,
+                    "google_lang_narrative": "so"
+                }
+            },
+            {
+                "_index": "language_index",
+                "_id": "Vp3DxIcBRlEMH4oPZixu",
+                "_score": 1.0,
+                "_source": {
+                    "begin_count_gln": 1.0,
+                    "country_count_begin": 1.0,
+                    "country_count_end": 1.0413926851582251,
+                    "end_count_gln": 1.146128035678238,
+                    "google_lang_narrative": "sv"
+                }
+            },
+            {
+                "_index": "language_index",
+                "_id": "V53DxIcBRlEMH4oPZix5",
+                "_score": 1.0,
+                "_source": {
+                    "begin_count_gln": 1.0,
+                    "country_count_begin": 1.0,
+                    "country_count_end": 1.0,
+                    "end_count_gln": 1.0,
+                    "google_lang_narrative": "ne"
+                }
+            },
+            {
+                "_index": "language_index",
+                "_id": "WJ3DxIcBRlEMH4oPZiyD",
+                "_score": 1.0,
+                "_source": {
+                    "begin_count_gln": 1.0413926851582251,
+                    "country_count_begin": 1.0413926851582251,
+                    "country_count_end": 1.1139433523068367,
+                    "end_count_gln": 1.1760912590556813,
+                    "google_lang_narrative": "et"
+                }
+            },
+            {
+                "_index": "language_index",
+                "_id": "WZ3DxIcBRlEMH4oPZiyO",
+                "_score": 1.0,
+                "_source": {
+                    "begin_count_gln": 1.0,
+                    "country_count_begin": 1.0,
+                    "country_count_end": 1.0791812460476249,
+                    "end_count_gln": 1.146128035678238,
+                    "google_lang_narrative": "tr"
+                }
+            },
+            {
+                "_index": "language_index",
+                "_id": "Wp3DxIcBRlEMH4oPZiya",
+                "_score": 1.0,
+                "_source": {
+                    "begin_count_gln": 1.0,
+                    "country_count_begin": 1.0,
+                    "country_count_end": 1.0,
+                    "end_count_gln": 1.1139433523068367,
+                    "google_lang_narrative": "pl"
+                }
+            },
+            {
+                "_index": "language_index",
+                "_id": "W53DxIcBRlEMH4oPZiym",
+                "_score": 1.0,
+                "_source": {
+                    "begin_count_gln": 1.0,
+                    "country_count_begin": 1.0,
+                    "country_count_end": 1.0,
+                    "end_count_gln": 1.0,
+                    "google_lang_narrative": "mr"
+                }
+            },
+            {
+                "_index": "language_index",
+                "_id": "XJ3DxIcBRlEMH4oPZiyy",
+                "_score": 1.0,
+                "_source": {
+                    "begin_count_gln": 1.0,
+                    "country_count_begin": 1.0,
+                    "country_count_end": 1.0413926851582251,
+                    "end_count_gln": 1.1139433523068367,
+                    "google_lang_narrative": "pt"
+                }
+            },
+            {
+                "_index": "language_index",
+                "_id": "XZ3DxIcBRlEMH4oPZiy_",
+                "_score": 1.0,
+                "_source": {
+                    "begin_count_gln": 1.146128035678238,
+                    "country_count_begin": 1.1760912590556813,
+                    "country_count_end": 1.724275869600789,
+                    "end_count_gln": 1.9344984512435677,
+                    "google_lang_narrative": "ca"
+                }
+            },
+            {
+                "_index": "language_index",
+                "_id": "Xp3DxIcBRlEMH4oPZizN",
+                "_score": 1.0,
+                "_source": {
+                    "begin_count_gln": 1.0,
+                    "country_count_begin": 1.0,
+                    "country_count_end": 1.0,
+                    "end_count_gln": 1.0,
+                    "google_lang_narrative": "ru"
+                }
+            },
+            {
+                "_index": "language_index",
+                "_id": "X53DxIcBRlEMH4oPZizb",
+                "_score": 1.0,
+                "_source": {
+                    "begin_count_gln": 1.0,
+                    "country_count_begin": 1.0,
+                    "country_count_end": 1.0,
+                    "end_count_gln": 1.0,
+                    "google_lang_narrative": "vi"
+                }
+            },
+            {
+                "_index": "language_index",
+                "_id": "YJ3DxIcBRlEMH4oPZizp",
+                "_score": 1.0,
+                "_source": {
+                    "begin_count_gln": 1.0,
+                    "country_count_begin": 1.0,
+                    "country_count_end": 1.0,
+                    "end_count_gln": 1.0,
+                    "google_lang_narrative": "fa"
+                }
+            },
+            {
+                "_index": "language_index",
+                "_id": "YZ3DxIcBRlEMH4oPZiz3",
+                "_score": 1.0,
+                "_source": {
+                    "begin_count_gln": 1.0,
+                    "country_count_begin": 1.0,
+                    "country_count_end": 1.0,
+                    "end_count_gln": 1.146128035678238,
+                    "google_lang_narrative": "sw"
+                }
+            },
+            {
+                "_index": "language_index",
+                "_id": "Yp3DxIcBRlEMH4oPZywF",
+                "_score": 1.0,
+                "_source": {
+                    "begin_count_gln": 1.0,
+                    "country_count_begin": 1.0,
+                    "country_count_end": 1.0,
+                    "end_count_gln": 1.0413926851582251,
+                    "google_lang_narrative": "lv"
+                }
+            },
+            {
+                "_index": "language_index",
+                "_id": "Y53DxIcBRlEMH4oPZywT",
+                "_score": 1.0,
+                "_source": {
+                    "begin_count_gln": 1.0,
+                    "country_count_begin": 1.0,
+                    "country_count_end": 1.0,
+                    "end_count_gln": 1.1139433523068367,
+                    "google_lang_narrative": "sq"
+                }
+            },
+            {
+                "_index": "language_index",
+                "_id": "ZJ3DxIcBRlEMH4oPZywi",
+                "_score": 1.0,
+                "_source": {
+                    "begin_count_gln": 1.0,
+                    "country_count_begin": 1.0,
+                    "country_count_end": 1.0,
+                    "end_count_gln": 1.0,
+                    "google_lang_narrative": "hu"
+                }
+            },
+            {
+                "_index": "language_index",
+                "_id": "ZZ3DxIcBRlEMH4oPZywx",
+                "_score": 1.0,
+                "_source": {
+                    "begin_count_gln": 1.0,
+                    "country_count_begin": 1.0,
+                    "country_count_end": 1.0,
+                    "end_count_gln": 1.0,
+                    "google_lang_narrative": "te"
+                }
+            },
+            {
+                "_index": "language_index",
+                "_id": "Zp3DxIcBRlEMH4oPZyxA",
+                "_score": 1.0,
+                "_source": {
+                    "begin_count_gln": 1.0,
+                    "country_count_begin": 1.0,
+                    "country_count_end": 1.0413926851582251,
+                    "end_count_gln": 1.0791812460476249,
+                    "google_lang_narrative": "lt"
+                }
+            },
+            {
+                "_index": "language_index",
+                "_id": "Z53DxIcBRlEMH4oPZyxR",
+                "_score": 1.0,
+                "_source": {
+                    "begin_count_gln": 1.0,
+                    "country_count_begin": 1.0,
+                    "country_count_end": 1.0,
+                    "end_count_gln": 1.1139433523068367,
+                    "google_lang_narrative": "fi"
+                }
+            },
+            {
+                "_index": "language_index",
+                "_id": "aJ3DxIcBRlEMH4oPZyxj",
+                "_score": 1.0,
+                "_source": {
+                    "begin_count_gln": 1.0,
+                    "country_count_begin": 1.0,
+                    "country_count_end": 1.0,
+                    "end_count_gln": 1.0,
+                    "google_lang_narrative": "sk"
+                }
+            },
+            {
+                "_index": "language_index",
+                "_id": "aZ3DxIcBRlEMH4oPZyx1",
+                "_score": 1.0,
+                "_source": {
+                    "begin_count_gln": 1.0,
+                    "country_count_begin": 1.0,
+                    "country_count_end": 1.0413926851582251,
+                    "end_count_gln": 1.1760912590556813,
+                    "google_lang_narrative": "ml"
+                }
+            },
+            {
+                "_index": "language_index",
+                "_id": "ap3DxIcBRlEMH4oPZyys",
+                "_score": 1.0,
+                "_source": {
+                    "begin_count_gln": 1.0,
+                    "country_count_begin": 1.0,
+                    "country_count_end": 1.0,
+                    "end_count_gln": 1.0,
+                    "google_lang_narrative": "cs"
+                }
+            },
+            {
+                "_index": "language_index",
+                "_id": "a53DxIcBRlEMH4oPZyzA",
+                "_score": 1.0,
+                "_source": {
+                    "begin_count_gln": 1.0,
+                    "country_count_begin": 1.0,
+                    "country_count_end": 1.0,
+                    "end_count_gln": 1.0,
+                    "google_lang_narrative": "ja"
+                }
+            },
+            {
+                "_index": "language_index",
+                "_id": "bJ3DxIcBRlEMH4oPZyzc",
+                "_score": 1.0,
+                "_source": {
+                    "begin_count_gln": 1.0,
+                    "country_count_begin": 1.0,
+                    "country_count_end": 1.0,
+                    "end_count_gln": 1.0,
+                    "google_lang_narrative": "ta"
+                }
+            },
+            {
+                "_index": "language_index",
+                "_id": "bZ3DxIcBRlEMH4oPZyzs",
+                "_score": 1.0,
+                "_source": {
+                    "begin_count_gln": 1.0,
+                    "country_count_begin": 1.0,
+                    "country_count_end": 1.0,
+                    "end_count_gln": 1.0,
+                    "google_lang_narrative": "zh-cn"
+                }
+            },
+            {
+                "_index": "language_index",
+                "_id": "bp3DxIcBRlEMH4oPZyz6",
+                "_score": 1.0,
+                "_source": {
+                    "begin_count_gln": 1.0,
+                    "country_count_begin": 1.0,
+                    "country_count_end": 1.0,
+                    "end_count_gln": 1.0,
+                    "google_lang_narrative": "pa"
+                }
+            }
+        ]
+    }
+}
