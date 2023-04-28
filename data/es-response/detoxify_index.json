@@ -1,5 +1,5 @@
 {
-    "took": 2,
+    "took": 1,
     "timed_out": false,
     "_shards": {
         "total": 1,
@@ -16,7 +16,7 @@
         "hits": [
             {
                 "_index": "detoxify_index",
-                "_id": "ZJ3bxIcBRlEMH4oP1i4b",
+                "_id": "5btgxYcBe0HPuXpMZxNo",
                 "_score": 1.0,
                 "_source": {
                     "counts": 924,
@@ -25,7 +25,7 @@
             },
             {
                 "_index": "detoxify_index",
-                "_id": "ZZ3bxIcBRlEMH4oP1i5K",
+                "_id": "5rtgxYcBe0HPuXpMZxOc",
                 "_score": 1.0,
                 "_source": {
                     "counts": 372,
@@ -34,7 +34,7 @@
             },
             {
                 "_index": "detoxify_index",
-                "_id": "Zp3bxIcBRlEMH4oP1i5X",
+                "_id": "57tgxYcBe0HPuXpMZxPY",
                 "_score": 1.0,
                 "_source": {
                     "counts": 230,
@@ -43,7 +43,7 @@
             },
             {
                 "_index": "detoxify_index",
-                "_id": "Z53bxIcBRlEMH4oP1i5p",
+                "_id": "6LtgxYcBe0HPuXpMaBMV",
                 "_score": 1.0,
                 "_source": {
                     "counts": 147,
@@ -52,7 +52,7 @@
             },
             {
                 "_index": "detoxify_index",
-                "_id": "aJ3bxIcBRlEMH4oP1i55",
+                "_id": "6btgxYcBe0HPuXpMaBNS",
                 "_score": 1.0,
                 "_source": {
                     "counts": 98,
@@ -61,7 +61,7 @@
             },
             {
                 "_index": "detoxify_index",
-                "_id": "aZ3bxIcBRlEMH4oP1i6K",
+                "_id": "6rtgxYcBe0HPuXpMaBOW",
                 "_score": 1.0,
                 "_source": {
                     "counts": 74,
@@ -70,7 +70,7 @@
             },
             {
                 "_index": "detoxify_index",
-                "_id": "ap3bxIcBRlEMH4oP1i6Y",
+                "_id": "67tgxYcBe0HPuXpMaBPS",
                 "_score": 1.0,
                 "_source": {
                     "counts": 55,
@@ -79,7 +79,7 @@
             },
             {
                 "_index": "detoxify_index",
-                "_id": "a53bxIcBRlEMH4oP1i6r",
+                "_id": "7LtgxYcBe0HPuXpMaRMO",
                 "_score": 1.0,
                 "_source": {
                     "counts": 77,
@@ -88,7 +88,7 @@
             },
             {
                 "_index": "detoxify_index",
-                "_id": "bJ3bxIcBRlEMH4oP1i65",
+                "_id": "7btgxYcBe0HPuXpMaRNL",
                 "_score": 1.0,
                 "_source": {
                     "counts": 97,

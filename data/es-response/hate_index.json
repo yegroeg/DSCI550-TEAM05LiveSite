@@ -16,7 +16,7 @@
         "hits": [
             {
                 "_index": "hate_index",
-                "_id": "Y53bxIcBRlEMH4oPYC4v",
+                "_id": "5LtfxYcBe0HPuXpM_BM5",
                 "_score": 1.0,
                 "_source": {
                     "name": "hatewords",

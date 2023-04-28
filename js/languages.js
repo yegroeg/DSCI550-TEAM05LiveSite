@@ -1,5 +1,10 @@
 function generateChart(data, height, width, margin) {
 
+    // iterate through data and label data points that should have labels
+    data.forEach(function(d) {
+        d.highlight = 1;
+    });
+
     //Block 1   
     function chart() {
         const svg = d3.create("svg").attr("viewBox", [0, 0, width, height]);
@@ -7,8 +12,6 @@ function generateChart(data, height, width, margin) {
         const arrowId = uid("arrow");
         const gradientIds = data.map(() => uid("gradient"));
 
-        
-      
         svg.append("defs")
           .append("marker")
             .attr("id", arrowId.id)
@@ -33,10 +36,13 @@ function generateChart(data, height, width, margin) {
             .attr("y2", d => y(d.country_count_end))
             .call(g => g.append("stop").attr("stop-color", startColor).attr("stop-opacity", 0.5))
             .call(g => g.append("stop").attr("offset", "100%").attr("stop-color", endColor));
-      
+        
+
+        // creates the grid 
         svg.append("g")
             .call(grid);
-      
+        
+        // creates the x axis
         svg.append("g")
             .call(xAxis);
         
@@ -47,7 +53,7 @@ function generateChart(data, height, width, margin) {
             .attr("text-anchor", "end")
             .attr("x", width)
             .attr("y", height - 6)
-            .text("Logarithmic Growth over Year: 2020-21 → 2022 Total");
+            .text("Logarithmic Growth (count) over Year: 2020-21 → 2022 Total");
       
         svg.append("g")
             .call(yAxis);
@@ -59,8 +65,9 @@ function generateChart(data, height, width, margin) {
             .attr("y", 6)
             .attr("dy", ".50em")
             .attr("transform", "rotate(-90)")
-            .text("Logarithmic Growth in Language Amount");
-      
+            .text("Logarithmic Count - U.S. Presence");
+
+        // creates the arcs 
         svg.append("g")
             .attr("fill", "none")
           .selectAll("path")
@@ -69,7 +76,8 @@ function generateChart(data, height, width, margin) {
             .attr("stroke", (d, i) => gradientIds[i])
             .attr("marker-end", arrowId)
             .attr("d", d => arc(x(d.begin_count_gln), y(d.country_count_begin), x(d.end_count_gln), y(d.country_count_end)));
-      
+        
+        // creates the points at the start of the arc
         svg.append("g")
             .attr("fill", "currentColor")
           .selectAll("circle")
@@ -99,10 +107,11 @@ function generateChart(data, height, width, margin) {
         return svg.node();
     }
 
-    // //Block 2
-    // data = Object.assign(d3.csvParse(await FileAttachment("metros.csv").text(), d3.autoType), {
-    //    {x: "Population →", y: "↑ Inequality"}
-    // })
+    //Block 2
+    // data = Object.assign(data, d3.autoType), {
+    //    x: "Population →"
+    //    y: "↑ Inequality"
+    // });
 
     //Block 3
     x = d3.scaleLog()

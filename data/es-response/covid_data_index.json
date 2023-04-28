@@ -1,5 +1,5 @@
 {
-    "took": 3,
+    "took": 2,
     "timed_out": false,
     "_shards": {
         "total": 1,
@@ -16,487 +16,7 @@
         "hits": [
             {
                 "_index": "covid_data_index",
-                "_id": "bZ3cxIcBRlEMH4oPRy6_",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2020-11-22",
-                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
-                    "value": 0.0
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "bp3cxIcBRlEMH4oPRy72",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2020-12-06",
-                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
-                    "value": 0.0
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "b53cxIcBRlEMH4oPSC4B",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2020-12-20",
-                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
-                    "value": 0.0
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "cJ3cxIcBRlEMH4oPSC4L",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2021-01-03",
-                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
-                    "value": 0.0
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "cZ3cxIcBRlEMH4oPSC4V",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2021-01-17",
-                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
-                    "value": 96.30582995085028
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "cp3cxIcBRlEMH4oPSC4f",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2021-01-31",
-                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
-                    "value": 57.81848045341004
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "c53cxIcBRlEMH4oPSC4p",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2021-02-14",
-                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
-                    "value": 42.25161662382489
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "dJ3cxIcBRlEMH4oPSC4z",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2021-02-28",
-                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
-                    "value": 27.807034993705475
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "dZ3cxIcBRlEMH4oPSC48",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2021-03-14",
-                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
-                    "value": 25.547612714529013
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "dp3cxIcBRlEMH4oPSC5H",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2021-03-28",
-                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
-                    "value": 24.362935658487235
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "d53cxIcBRlEMH4oPSC5S",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2021-04-11",
-                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
-                    "value": 29.685473158077965
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "eJ3cxIcBRlEMH4oPSC5c",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2021-04-25",
-                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
-                    "value": 30.37887219225405
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "eZ3cxIcBRlEMH4oPSC5m",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2021-05-09",
-                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
-                    "value": 19.823249397845103
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "ep3cxIcBRlEMH4oPSC5x",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2021-05-23",
-                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
-                    "value": 13.919719040363177
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "e53cxIcBRlEMH4oPSC56",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2021-06-06",
-                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
-                    "value": 6.5221702117125515
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "fJ3cxIcBRlEMH4oPSC6D",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2021-06-20",
-                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
-                    "value": 6.112007046114977
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "fZ3cxIcBRlEMH4oPSC6M",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2021-07-04",
-                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
-                    "value": 8.190960085588069
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "fp3cxIcBRlEMH4oPSC6W",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2021-07-18",
-                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
-                    "value": 16.78002234133529
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "f53cxIcBRlEMH4oPSC6f",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2021-08-01",
-                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
-                    "value": 27.55201443744088
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "gJ3cxIcBRlEMH4oPSC6s",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2021-08-15",
-                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
-                    "value": 0.0
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "gZ3cxIcBRlEMH4oPSC64",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2021-08-29",
-                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
-                    "value": 49.224349726049226
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "gp3cxIcBRlEMH4oPSC7E",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2021-09-12",
-                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
-                    "value": 49.21732930166002
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "g53cxIcBRlEMH4oPSC7Q",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2021-09-26",
-                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
-                    "value": 36.89848294302825
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "hJ3cxIcBRlEMH4oPSC7f",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2021-10-10",
-                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
-                    "value": 31.798037955211207
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "hZ3cxIcBRlEMH4oPSC7r",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2021-10-24",
-                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
-                    "value": 20.831632667212613
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "hp3cxIcBRlEMH4oPSC74",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2021-11-07",
-                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
-                    "value": 21.16195504910343
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "h53cxIcBRlEMH4oPSS4D",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2021-11-21",
-                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
-                    "value": 25.20215988641284
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "iJ3cxIcBRlEMH4oPSS4Q",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2021-12-05",
-                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
-                    "value": 32.44719525122102
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "iZ3cxIcBRlEMH4oPSS4c",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2021-12-19",
-                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
-                    "value": 43.79248339769579
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "ip3cxIcBRlEMH4oPSS4n",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2022-01-02",
-                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
-                    "value": 109.44527520073306
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "i53cxIcBRlEMH4oPSS41",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2022-01-16",
-                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
-                    "value": 269.5161049140212
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "jJ3cxIcBRlEMH4oPSS5C",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2022-01-30",
-                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
-                    "value": 185.9583278551767
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "jZ3cxIcBRlEMH4oPSS5O",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2022-02-13",
-                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
-                    "value": 73.30513080948052
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "jp3cxIcBRlEMH4oPSS5Y",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2022-02-27",
-                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
-                    "value": 29.898789620282468
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "j53cxIcBRlEMH4oPSS5j",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2022-03-13",
-                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
-                    "value": 15.220543570157307
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "kJ3cxIcBRlEMH4oPSS5t",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2022-03-27",
-                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
-                    "value": 11.58067593983899
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "kZ3cxIcBRlEMH4oPSS52",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2022-04-10",
-                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
-                    "value": 11.548660999798605
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "kp3cxIcBRlEMH4oPSS5_",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2022-04-24",
-                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
-                    "value": 15.850534806670609
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "k53cxIcBRlEMH4oPSS6I",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2022-05-08",
-                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
-                    "value": 22.57760020995447
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "lJ3cxIcBRlEMH4oPSS6R",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2022-05-22",
-                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
-                    "value": 32.14648437645553
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "lZ3cxIcBRlEMH4oPSS6a",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2022-06-05",
-                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
-                    "value": 33.33733441811141
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "lp3cxIcBRlEMH4oPSS6l",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2022-06-19",
-                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
-                    "value": 29.572465510680708
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "l53cxIcBRlEMH4oPSS6u",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2022-07-03",
-                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
-                    "value": 31.48988562635764
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "mJ3cxIcBRlEMH4oPSS62",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2022-07-17",
-                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
-                    "value": 32.71700818536958
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "mZ3cxIcBRlEMH4oPSS7A",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2022-07-31",
-                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
-                    "value": 34.26157855171048
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "mp3cxIcBRlEMH4oPSS7K",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2022-08-14",
-                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
-                    "value": 28.59880264060289
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "m53cxIcBRlEMH4oPSS7S",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2022-08-28",
-                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
-                    "value": 22.81190606264556
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "nJ3cxIcBRlEMH4oPSS7a",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2022-09-11",
-                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
-                    "value": 21.115628515084982
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "nZ3cxIcBRlEMH4oPSS7i",
+                "_id": "HrtgxYcBe0HPuXpM4BQy",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2022-09-25",
@@ -506,7 +26,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "np3cxIcBRlEMH4oPSS7s",
+                "_id": "H7tgxYcBe0HPuXpM4BRu",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2022-10-09",
@@ -516,7 +36,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "n53cxIcBRlEMH4oPSS71",
+                "_id": "ILtgxYcBe0HPuXpM4BS1",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2022-10-23",
@@ -526,7 +46,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "oJ3cxIcBRlEMH4oPSS7_",
+                "_id": "IbtgxYcBe0HPuXpM4BT6",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2022-11-06",
@@ -536,7 +56,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "oZ3cxIcBRlEMH4oPSi4J",
+                "_id": "IrtgxYcBe0HPuXpM4RQ2",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2022-11-20",
@@ -546,7 +66,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "op3cxIcBRlEMH4oPSi4U",
+                "_id": "I7tgxYcBe0HPuXpM4RRy",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2022-12-04",
@@ -556,7 +76,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "o53cxIcBRlEMH4oPSi4e",
+                "_id": "JLtgxYcBe0HPuXpM4RSu",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2022-12-18",
@@ -566,7 +86,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "pJ3cxIcBRlEMH4oPSi4o",
+                "_id": "JbtgxYcBe0HPuXpM4RTr",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2020-11-22",
@@ -576,7 +96,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "pZ3cxIcBRlEMH4oPSi4x",
+                "_id": "JrtgxYcBe0HPuXpM4hQl",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2020-12-06",
@@ -586,7 +106,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "pp3cxIcBRlEMH4oPSi48",
+                "_id": "J7tgxYcBe0HPuXpM4hRi",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2020-12-20",
@@ -596,7 +116,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "p53cxIcBRlEMH4oPSi5I",
+                "_id": "KLtgxYcBe0HPuXpM4hSq",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2021-01-03",
@@ -606,7 +126,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "qJ3cxIcBRlEMH4oPSi5X",
+                "_id": "KbtgxYcBe0HPuXpM4hTj",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2021-01-17",
@@ -616,7 +136,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "qZ3cxIcBRlEMH4oPSi5j",
+                "_id": "KrtgxYcBe0HPuXpM4xQh",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2021-01-31",
@@ -626,7 +146,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "qp3cxIcBRlEMH4oPSi5y",
+                "_id": "K7tgxYcBe0HPuXpM4xRd",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2021-02-14",
@@ -636,7 +156,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "q53cxIcBRlEMH4oPSi6B",
+                "_id": "LLtgxYcBe0HPuXpM4xSk",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2021-02-28",
@@ -646,7 +166,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "rJ3cxIcBRlEMH4oPSi6P",
+                "_id": "LbtgxYcBe0HPuXpM4xTe",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2021-03-14",
@@ -656,347 +176,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "rZ3cxIcBRlEMH4oPSi6g",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2021-03-28",
-                    "type_of_covid_data": "covid_vaccine_first_dose_percentile",
-                    "value": 0.096
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "rp3cxIcBRlEMH4oPSi6s",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2021-04-11",
-                    "type_of_covid_data": "covid_vaccine_first_dose_percentile",
-                    "value": 0.187
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "r53cxIcBRlEMH4oPSi64",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2021-04-25",
-                    "type_of_covid_data": "covid_vaccine_first_dose_percentile",
-                    "value": 0.2578888888888889
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "sJ3cxIcBRlEMH4oPSi7D",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2021-05-09",
-                    "type_of_covid_data": "covid_vaccine_first_dose_percentile",
-                    "value": 0.392
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "sZ3cxIcBRlEMH4oPSi7P",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2021-05-23",
-                    "type_of_covid_data": "covid_vaccine_first_dose_percentile",
-                    "value": 0.424
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "sp3cxIcBRlEMH4oPSi7e",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2021-06-06",
-                    "type_of_covid_data": "covid_vaccine_first_dose_percentile",
-                    "value": 0.4571818181818182
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "s53cxIcBRlEMH4oPSi7p",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2021-06-20",
-                    "type_of_covid_data": "covid_vaccine_first_dose_percentile",
-                    "value": 0.4745
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "tJ3cxIcBRlEMH4oPSi7z",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2021-07-04",
-                    "type_of_covid_data": "covid_vaccine_first_dose_percentile",
-                    "value": 0.4999877750611247
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "tZ3cxIcBRlEMH4oPSi79",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2021-07-18",
-                    "type_of_covid_data": "covid_vaccine_first_dose_percentile",
-                    "value": 0.5140118343195266
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "tp3cxIcBRlEMH4oPSy4J",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2021-08-01",
-                    "type_of_covid_data": "covid_vaccine_first_dose_percentile",
-                    "value": 0.532
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "t53cxIcBRlEMH4oPSy4Z",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2021-08-15",
-                    "type_of_covid_data": "covid_vaccine_first_dose_percentile",
-                    "value": 0.0
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "uJ3cxIcBRlEMH4oPSy4j",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2021-08-29",
-                    "type_of_covid_data": "covid_vaccine_first_dose_percentile",
-                    "value": 0.5850732394366197
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "uZ3cxIcBRlEMH4oPSy4t",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2021-09-12",
-                    "type_of_covid_data": "covid_vaccine_first_dose_percentile",
-                    "value": 0.6110532687651332
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "up3cxIcBRlEMH4oPSy42",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2021-09-26",
-                    "type_of_covid_data": "covid_vaccine_first_dose_percentile",
-                    "value": 0.638
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "u53cxIcBRlEMH4oPSy5C",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2021-10-10",
-                    "type_of_covid_data": "covid_vaccine_first_dose_percentile",
-                    "value": 0.6444080061585835
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "vJ3cxIcBRlEMH4oPSy5L",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2021-10-24",
-                    "type_of_covid_data": "covid_vaccine_first_dose_percentile",
-                    "value": 0.660974025974026
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "vZ3cxIcBRlEMH4oPSy5U",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2021-11-07",
-                    "type_of_covid_data": "covid_vaccine_first_dose_percentile",
-                    "value": 0.6661911764705882
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "vp3cxIcBRlEMH4oPSy5e",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2021-11-21",
-                    "type_of_covid_data": "covid_vaccine_first_dose_percentile",
-                    "value": 0.681005993150685
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "v53cxIcBRlEMH4oPSy5t",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2021-12-05",
-                    "type_of_covid_data": "covid_vaccine_first_dose_percentile",
-                    "value": 0.6921258225848907
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "wJ3cxIcBRlEMH4oPSy56",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2021-12-19",
-                    "type_of_covid_data": "covid_vaccine_first_dose_percentile",
-                    "value": 0.7026404494382023
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "wZ3cxIcBRlEMH4oPSy6K",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2022-01-02",
-                    "type_of_covid_data": "covid_vaccine_first_dose_percentile",
-                    "value": 0.7175916334661354
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "wp3cxIcBRlEMH4oPSy6X",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2022-01-16",
-                    "type_of_covid_data": "covid_vaccine_first_dose_percentile",
-                    "value": 0.740224603914259
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "w53cxIcBRlEMH4oPSy6l",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2022-01-30",
-                    "type_of_covid_data": "covid_vaccine_first_dose_percentile",
-                    "value": 0.7504440951070938
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "xJ3cxIcBRlEMH4oPSy6v",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2022-02-13",
-                    "type_of_covid_data": "covid_vaccine_first_dose_percentile",
-                    "value": 0.761124269005848
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "xZ3cxIcBRlEMH4oPSy67",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2022-02-27",
-                    "type_of_covid_data": "covid_vaccine_first_dose_percentile",
-                    "value": 0.7674672811059908
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "xp3cxIcBRlEMH4oPSy7H",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2022-03-13",
-                    "type_of_covid_data": "covid_vaccine_first_dose_percentile",
-                    "value": 0.7715688468158347
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "x53cxIcBRlEMH4oPSy7W",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2022-03-27",
-                    "type_of_covid_data": "covid_vaccine_first_dose_percentile",
-                    "value": 0.7746572916666667
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "yJ3cxIcBRlEMH4oPSy7j",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2022-04-10",
-                    "type_of_covid_data": "covid_vaccine_first_dose_percentile",
-                    "value": 0.777907967032967
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "yZ3cxIcBRlEMH4oPSy7v",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2022-04-24",
-                    "type_of_covid_data": "covid_vaccine_first_dose_percentile",
-                    "value": 0.781117727897389
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "yp3cxIcBRlEMH4oPSy77",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2022-05-08",
-                    "type_of_covid_data": "covid_vaccine_first_dose_percentile",
-                    "value": 0.7826180124223603
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "y53cxIcBRlEMH4oPTC4H",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2022-05-22",
-                    "type_of_covid_data": "covid_vaccine_first_dose_percentile",
-                    "value": 0.7857188971082717
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "zJ3cxIcBRlEMH4oPTC4W",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2022-06-05",
-                    "type_of_covid_data": "covid_vaccine_first_dose_percentile",
-                    "value": 0.7876394686907021
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "zZ3cxIcBRlEMH4oPTC4j",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2022-06-19",
-                    "type_of_covid_data": "covid_vaccine_first_dose_percentile",
-                    "value": 0.7894373795761079
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "zp3cxIcBRlEMH4oPTC4x",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2022-07-03",
-                    "type_of_covid_data": "covid_vaccine_first_dose_percentile",
-                    "value": 0.7919348416289593
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "z53cxIcBRlEMH4oPTC5B",
+                "_id": "ULtgxYcBe0HPuXpM7BQ5",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2022-07-17",
@@ -1006,7 +186,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "0J3cxIcBRlEMH4oPTC5R",
+                "_id": "UbtgxYcBe0HPuXpM7BR2",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2022-07-31",
@@ -1016,7 +196,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "0Z3cxIcBRlEMH4oPTC5i",
+                "_id": "UrtgxYcBe0HPuXpM7BSy",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2022-08-14",
@@ -1026,7 +206,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "0p3cxIcBRlEMH4oPTC51",
+                "_id": "U7tgxYcBe0HPuXpM7BTu",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2022-08-28",
@@ -1036,7 +216,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "053cxIcBRlEMH4oPTC6M",
+                "_id": "VLtgxYcBe0HPuXpM7RQq",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2022-09-11",
@@ -1046,7 +226,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "1J3cxIcBRlEMH4oPTC6d",
+                "_id": "VbtgxYcBe0HPuXpM7RRm",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2022-09-25",
@@ -1056,7 +236,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "1Z3cxIcBRlEMH4oPTC6v",
+                "_id": "VrtgxYcBe0HPuXpM7RSi",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2022-10-09",
@@ -1066,7 +246,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "1p3cxIcBRlEMH4oPTC7A",
+                "_id": "V7tgxYcBe0HPuXpM7RTp",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2022-10-23",
@@ -1076,7 +256,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "153cxIcBRlEMH4oPTC7Q",
+                "_id": "WLtgxYcBe0HPuXpM7hQl",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2022-11-06",
@@ -1086,7 +266,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "2J3cxIcBRlEMH4oPTC7g",
+                "_id": "WbtgxYcBe0HPuXpM7hRf",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2022-11-20",
@@ -1096,7 +276,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "2Z3cxIcBRlEMH4oPTC7z",
+                "_id": "WrtgxYcBe0HPuXpM7hSb",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2022-12-04",
@@ -1106,7 +286,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "2p3cxIcBRlEMH4oPTS4C",
+                "_id": "W7tgxYcBe0HPuXpM7hTX",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2022-12-18",
@@ -1116,7 +296,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "253cxIcBRlEMH4oPTS4U",
+                "_id": "XLtgxYcBe0HPuXpM7xQI",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2020-11-22",
@@ -1126,7 +306,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "3J3cxIcBRlEMH4oPTS4l",
+                "_id": "XbtgxYcBe0HPuXpM7xRP",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2020-12-06",
@@ -1136,7 +316,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "3Z3cxIcBRlEMH4oPTS42",
+                "_id": "XrtgxYcBe0HPuXpM7xSM",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2020-12-20",
@@ -1146,7 +326,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "3p3cxIcBRlEMH4oPTS5G",
+                "_id": "X7tgxYcBe0HPuXpM7xTH",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2021-01-03",
@@ -1156,337 +336,177 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "353cxIcBRlEMH4oPTS5Z",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2021-01-17",
-                    "type_of_covid_data": "covid_vaccine_series_complete_percentile",
-                    "value": 0.001
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "4J3cxIcBRlEMH4oPTS5u",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2021-01-31",
-                    "type_of_covid_data": "covid_vaccine_series_complete_percentile",
-                    "value": 0.009
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "4Z3cxIcBRlEMH4oPTS5-",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2021-02-14",
-                    "type_of_covid_data": "covid_vaccine_series_complete_percentile",
-                    "value": 0.017986301369863015
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "4p3cxIcBRlEMH4oPTS6Q",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2021-02-28",
-                    "type_of_covid_data": "covid_vaccine_series_complete_percentile",
-                    "value": 0.02945388349514563
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "453cxIcBRlEMH4oPTS6g",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2021-03-14",
-                    "type_of_covid_data": "covid_vaccine_series_complete_percentile",
-                    "value": 0.038
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "5J3cxIcBRlEMH4oPTS6u",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2021-03-28",
-                    "type_of_covid_data": "covid_vaccine_series_complete_percentile",
-                    "value": 0.049
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "5Z3cxIcBRlEMH4oPTS6-",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2021-04-11",
-                    "type_of_covid_data": "covid_vaccine_series_complete_percentile",
-                    "value": 0.082
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "5p3cxIcBRlEMH4oPTS7N",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2021-04-25",
-                    "type_of_covid_data": "covid_vaccine_series_complete_percentile",
-                    "value": 0.11844444444444442
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "553cxIcBRlEMH4oPTS7a",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2021-05-09",
-                    "type_of_covid_data": "covid_vaccine_series_complete_percentile",
-                    "value": 0.259
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "6J3cxIcBRlEMH4oPTS7q",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2021-05-23",
-                    "type_of_covid_data": "covid_vaccine_series_complete_percentile",
-                    "value": 0.315
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "6Z3cxIcBRlEMH4oPTS73",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2021-06-06",
-                    "type_of_covid_data": "covid_vaccine_series_complete_percentile",
-                    "value": 0.36154545454545456
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "6p3cxIcBRlEMH4oPTi4G",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2021-06-20",
-                    "type_of_covid_data": "covid_vaccine_series_complete_percentile",
-                    "value": 0.39
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "653cxIcBRlEMH4oPTi4U",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2021-07-04",
-                    "type_of_covid_data": "covid_vaccine_series_complete_percentile",
-                    "value": 0.42398777506112467
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "7J3cxIcBRlEMH4oPTi4i",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2021-07-18",
-                    "type_of_covid_data": "covid_vaccine_series_complete_percentile",
-                    "value": 0.4390118343195266
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "7Z3cxIcBRlEMH4oPTi4y",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2021-08-01",
-                    "type_of_covid_data": "covid_vaccine_series_complete_percentile",
-                    "value": 0.452
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "7p3cxIcBRlEMH4oPTi4_",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2021-08-15",
-                    "type_of_covid_data": "covid_vaccine_series_complete_percentile",
-                    "value": 0.0
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "753cxIcBRlEMH4oPTi5N",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2021-08-29",
-                    "type_of_covid_data": "covid_vaccine_series_complete_percentile",
-                    "value": 0.48406197183098587
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "8J3cxIcBRlEMH4oPTi5Z",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2021-09-12",
-                    "type_of_covid_data": "covid_vaccine_series_complete_percentile",
-                    "value": 0.506048426150121
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "8Z3cxIcBRlEMH4oPTi5m",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2021-09-26",
-                    "type_of_covid_data": "covid_vaccine_series_complete_percentile",
-                    "value": 0.536
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "8p3cxIcBRlEMH4oPTi50",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2021-10-10",
-                    "type_of_covid_data": "covid_vaccine_series_complete_percentile",
-                    "value": 0.5430427251732102
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "853cxIcBRlEMH4oPTi5_",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2021-10-24",
-                    "type_of_covid_data": "covid_vaccine_series_complete_percentile",
-                    "value": 0.5647272727272726
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "9J3cxIcBRlEMH4oPTi6M",
-                "_score": 1.0,
-                "_source": {
-                    "post_date": "2021-11-07",
-                    "type_of_covid_data": "covid_vaccine_series_complete_percentile",
-                    "value": 0.5691985294117646
-                }
-            },
-            {
-                "_index": "covid_data_index",
-                "_id": "9Z3cxIcBRlEMH4oPTi6Y",
+                "_id": "P7tgxYcBe0HPuXpM6BQp",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2021-11-21",
-                    "type_of_covid_data": "covid_vaccine_series_complete_percentile",
-                    "value": 0.5820059931506848
+                    "type_of_covid_data": "covid_vaccine_first_dose_percentile",
+                    "value": 0.681005993150685
                 }
             },
             {
                 "_index": "covid_data_index",
-                "_id": "9p3cxIcBRlEMH4oPTi6l",
+                "_id": "QLtgxYcBe0HPuXpM6BRv",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2021-12-05",
-                    "type_of_covid_data": "covid_vaccine_series_complete_percentile",
-                    "value": 0.5884130034219531
+                    "type_of_covid_data": "covid_vaccine_first_dose_percentile",
+                    "value": 0.6921258225848907
                 }
             },
             {
                 "_index": "covid_data_index",
-                "_id": "953cxIcBRlEMH4oPTi6y",
+                "_id": "QbtgxYcBe0HPuXpM6BSt",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2021-12-19",
-                    "type_of_covid_data": "covid_vaccine_series_complete_percentile",
-                    "value": 0.5946573033707865
+                    "type_of_covid_data": "covid_vaccine_first_dose_percentile",
+                    "value": 0.7026404494382023
                 }
             },
             {
                 "_index": "covid_data_index",
-                "_id": "-J3cxIcBRlEMH4oPTi6-",
+                "_id": "QrtgxYcBe0HPuXpM6BTn",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2022-01-02",
-                    "type_of_covid_data": "covid_vaccine_series_complete_percentile",
-                    "value": 0.6009033864541833
+                    "type_of_covid_data": "covid_vaccine_first_dose_percentile",
+                    "value": 0.7175916334661354
                 }
             },
             {
                 "_index": "covid_data_index",
-                "_id": "-Z3cxIcBRlEMH4oPTi7M",
+                "_id": "Q7tgxYcBe0HPuXpM6RQj",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2022-01-16",
-                    "type_of_covid_data": "covid_vaccine_series_complete_percentile",
-                    "value": 0.6102531842187014
+                    "type_of_covid_data": "covid_vaccine_first_dose_percentile",
+                    "value": 0.740224603914259
                 }
             },
             {
                 "_index": "covid_data_index",
-                "_id": "-p3cxIcBRlEMH4oPTi7Y",
+                "_id": "RLtgxYcBe0HPuXpM6RRf",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2022-01-30",
-                    "type_of_covid_data": "covid_vaccine_series_complete_percentile",
-                    "value": 0.6148076242876793
+                    "type_of_covid_data": "covid_vaccine_first_dose_percentile",
+                    "value": 0.7504440951070938
                 }
             },
             {
                 "_index": "covid_data_index",
-                "_id": "-53cxIcBRlEMH4oPTi7k",
+                "_id": "RbtgxYcBe0HPuXpM6RSR",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2022-02-13",
-                    "type_of_covid_data": "covid_vaccine_series_complete_percentile",
-                    "value": 0.6217426900584795
+                    "type_of_covid_data": "covid_vaccine_first_dose_percentile",
+                    "value": 0.761124269005848
                 }
             },
             {
                 "_index": "covid_data_index",
-                "_id": "_J3cxIcBRlEMH4oPTi7x",
+                "_id": "RrtgxYcBe0HPuXpM6RTN",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2022-02-27",
-                    "type_of_covid_data": "covid_vaccine_series_complete_percentile",
-                    "value": 0.6276838709677419
+                    "type_of_covid_data": "covid_vaccine_first_dose_percentile",
+                    "value": 0.7674672811059908
                 }
             },
             {
                 "_index": "covid_data_index",
-                "_id": "_Z3cxIcBRlEMH4oPTi7-",
+                "_id": "R7tgxYcBe0HPuXpM6RT_",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2022-03-13",
-                    "type_of_covid_data": "covid_vaccine_series_complete_percentile",
-                    "value": 0.631185025817556
+                    "type_of_covid_data": "covid_vaccine_first_dose_percentile",
+                    "value": 0.7715688468158347
                 }
             },
             {
                 "_index": "covid_data_index",
-                "_id": "_p3cxIcBRlEMH4oPTy4N",
+                "_id": "SLtgxYcBe0HPuXpM6hQ7",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2022-03-27",
-                    "type_of_covid_data": "covid_vaccine_series_complete_percentile",
-                    "value": 0.6342697916666666
+                    "type_of_covid_data": "covid_vaccine_first_dose_percentile",
+                    "value": 0.7746572916666667
                 }
             },
             {
                 "_index": "covid_data_index",
-                "_id": "_53cxIcBRlEMH4oPTy4c",
+                "_id": "SbtgxYcBe0HPuXpM6hSC",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2022-04-10",
-                    "type_of_covid_data": "covid_vaccine_series_complete_percentile",
-                    "value": 0.6366195054945055
+                    "type_of_covid_data": "covid_vaccine_first_dose_percentile",
+                    "value": 0.777907967032967
                 }
             },
             {
                 "_index": "covid_data_index",
-                "_id": "AJ3cxIcBRlEMH4oPTy8q",
+                "_id": "SrtgxYcBe0HPuXpM6hS_",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2022-04-24",
+                    "type_of_covid_data": "covid_vaccine_first_dose_percentile",
+                    "value": 0.781117727897389
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "S7tgxYcBe0HPuXpM6xQE",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2022-05-08",
+                    "type_of_covid_data": "covid_vaccine_first_dose_percentile",
+                    "value": 0.7826180124223603
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "TLtgxYcBe0HPuXpM6xQ_",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2022-05-22",
+                    "type_of_covid_data": "covid_vaccine_first_dose_percentile",
+                    "value": 0.7857188971082717
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "TbtgxYcBe0HPuXpM6xR-",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2022-06-05",
+                    "type_of_covid_data": "covid_vaccine_first_dose_percentile",
+                    "value": 0.7876394686907021
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "TrtgxYcBe0HPuXpM6xTD",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2022-06-19",
+                    "type_of_covid_data": "covid_vaccine_first_dose_percentile",
+                    "value": 0.7894373795761079
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "T7tgxYcBe0HPuXpM6xT-",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2022-07-03",
+                    "type_of_covid_data": "covid_vaccine_first_dose_percentile",
+                    "value": 0.7919348416289593
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "gbtgxYcBe0HPuXpM-BQP",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2022-04-24",
@@ -1496,7 +516,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "AZ3cxIcBRlEMH4oPTy84",
+                "_id": "grtgxYcBe0HPuXpM-BRV",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2022-05-08",
@@ -1506,7 +526,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "Ap3cxIcBRlEMH4oPTy9I",
+                "_id": "g7tgxYcBe0HPuXpM-BSS",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2022-05-22",
@@ -1516,7 +536,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "A53cxIcBRlEMH4oPTy9Y",
+                "_id": "hLtgxYcBe0HPuXpM-BTO",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2022-06-05",
@@ -1526,7 +546,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "BJ3cxIcBRlEMH4oPTy9m",
+                "_id": "hbtgxYcBe0HPuXpM-RQL",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2022-06-19",
@@ -1536,7 +556,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "BZ3cxIcBRlEMH4oPTy91",
+                "_id": "hrtgxYcBe0HPuXpM-RRH",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2022-07-03",
@@ -1546,7 +566,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "Bp3cxIcBRlEMH4oPTy-H",
+                "_id": "h7tgxYcBe0HPuXpM-RSB",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2022-07-17",
@@ -1556,7 +576,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "B53cxIcBRlEMH4oPTy-Z",
+                "_id": "iLtgxYcBe0HPuXpM-RS9",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2022-07-31",
@@ -1566,7 +586,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "CJ3cxIcBRlEMH4oPTy-s",
+                "_id": "ibtgxYcBe0HPuXpM-RT6",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2022-08-14",
@@ -1576,7 +596,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "CZ3cxIcBRlEMH4oPTy-_",
+                "_id": "irtgxYcBe0HPuXpM-hQ3",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2022-08-28",
@@ -1586,7 +606,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "Cp3cxIcBRlEMH4oPTy_Q",
+                "_id": "i7tgxYcBe0HPuXpM-hRy",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2022-09-11",
@@ -1596,7 +616,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "C53cxIcBRlEMH4oPTy_g",
+                "_id": "jLtgxYcBe0HPuXpM-hSt",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2022-09-25",
@@ -1606,7 +626,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "DJ3cxIcBRlEMH4oPTy_t",
+                "_id": "jbtgxYcBe0HPuXpM-hTq",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2022-10-09",
@@ -1616,7 +636,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "DZ3cxIcBRlEMH4oPTy_-",
+                "_id": "jrtgxYcBe0HPuXpM-xQm",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2022-10-23",
@@ -1626,7 +646,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "Dp3cxIcBRlEMH4oPUC8M",
+                "_id": "j7tgxYcBe0HPuXpM-xRi",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2022-11-06",
@@ -1636,7 +656,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "D53cxIcBRlEMH4oPUC8b",
+                "_id": "kLtgxYcBe0HPuXpM-xSe",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2022-11-20",
@@ -1646,7 +666,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "EJ3cxIcBRlEMH4oPUC8p",
+                "_id": "kbtgxYcBe0HPuXpM-xTa",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2022-12-04",
@@ -1656,7 +676,987 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "EZ3cxIcBRlEMH4oPUC80",
+                "_id": "cbtgxYcBe0HPuXpM9BQe",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2021-09-12",
+                    "type_of_covid_data": "covid_vaccine_series_complete_percentile",
+                    "value": 0.506048426150121
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "crtgxYcBe0HPuXpM9BRk",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2021-09-26",
+                    "type_of_covid_data": "covid_vaccine_series_complete_percentile",
+                    "value": 0.536
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "c7tgxYcBe0HPuXpM9BSh",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2021-10-10",
+                    "type_of_covid_data": "covid_vaccine_series_complete_percentile",
+                    "value": 0.5430427251732102
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "dLtgxYcBe0HPuXpM9BTn",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2021-10-24",
+                    "type_of_covid_data": "covid_vaccine_series_complete_percentile",
+                    "value": 0.5647272727272726
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "dbtgxYcBe0HPuXpM9RQr",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2021-11-07",
+                    "type_of_covid_data": "covid_vaccine_series_complete_percentile",
+                    "value": 0.5691985294117646
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "drtgxYcBe0HPuXpM9RRn",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2021-11-21",
+                    "type_of_covid_data": "covid_vaccine_series_complete_percentile",
+                    "value": 0.5820059931506848
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "d7tgxYcBe0HPuXpM9RSk",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2021-12-05",
+                    "type_of_covid_data": "covid_vaccine_series_complete_percentile",
+                    "value": 0.5884130034219531
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "eLtgxYcBe0HPuXpM9RTg",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2021-12-19",
+                    "type_of_covid_data": "covid_vaccine_series_complete_percentile",
+                    "value": 0.5946573033707865
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "ebtgxYcBe0HPuXpM9hQb",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2022-01-02",
+                    "type_of_covid_data": "covid_vaccine_series_complete_percentile",
+                    "value": 0.6009033864541833
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "ertgxYcBe0HPuXpM9hRh",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2022-01-16",
+                    "type_of_covid_data": "covid_vaccine_series_complete_percentile",
+                    "value": 0.6102531842187014
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "e7tgxYcBe0HPuXpM9hST",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2022-01-30",
+                    "type_of_covid_data": "covid_vaccine_series_complete_percentile",
+                    "value": 0.6148076242876793
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "fLtgxYcBe0HPuXpM9hTF",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2022-02-13",
+                    "type_of_covid_data": "covid_vaccine_series_complete_percentile",
+                    "value": 0.6217426900584795
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "fbtgxYcBe0HPuXpM9xQD",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2022-02-27",
+                    "type_of_covid_data": "covid_vaccine_series_complete_percentile",
+                    "value": 0.6276838709677419
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "frtgxYcBe0HPuXpM9xQ-",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2022-03-13",
+                    "type_of_covid_data": "covid_vaccine_series_complete_percentile",
+                    "value": 0.631185025817556
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "f7tgxYcBe0HPuXpM9xSE",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2022-03-27",
+                    "type_of_covid_data": "covid_vaccine_series_complete_percentile",
+                    "value": 0.6342697916666666
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "gLtgxYcBe0HPuXpM9xTK",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2022-04-10",
+                    "type_of_covid_data": "covid_vaccine_series_complete_percentile",
+                    "value": 0.6366195054945055
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "YLtgxYcBe0HPuXpM8BQD",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2021-01-17",
+                    "type_of_covid_data": "covid_vaccine_series_complete_percentile",
+                    "value": 0.001
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "YbtgxYcBe0HPuXpM8BRA",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2021-01-31",
+                    "type_of_covid_data": "covid_vaccine_series_complete_percentile",
+                    "value": 0.009
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "YrtgxYcBe0HPuXpM8BR9",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2021-02-14",
+                    "type_of_covid_data": "covid_vaccine_series_complete_percentile",
+                    "value": 0.017986301369863015
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "Y7tgxYcBe0HPuXpM8BS3",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2021-02-28",
+                    "type_of_covid_data": "covid_vaccine_series_complete_percentile",
+                    "value": 0.02945388349514563
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "ZLtgxYcBe0HPuXpM8BTz",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2021-03-14",
+                    "type_of_covid_data": "covid_vaccine_series_complete_percentile",
+                    "value": 0.038
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "ZbtgxYcBe0HPuXpM8RQv",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2021-03-28",
+                    "type_of_covid_data": "covid_vaccine_series_complete_percentile",
+                    "value": 0.049
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "ZrtgxYcBe0HPuXpM8RRs",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2021-04-11",
+                    "type_of_covid_data": "covid_vaccine_series_complete_percentile",
+                    "value": 0.082
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "Z7tgxYcBe0HPuXpM8RSn",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2021-04-25",
+                    "type_of_covid_data": "covid_vaccine_series_complete_percentile",
+                    "value": 0.11844444444444442
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "aLtgxYcBe0HPuXpM8RTm",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2021-05-09",
+                    "type_of_covid_data": "covid_vaccine_series_complete_percentile",
+                    "value": 0.259
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "abtgxYcBe0HPuXpM8hQs",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2021-05-23",
+                    "type_of_covid_data": "covid_vaccine_series_complete_percentile",
+                    "value": 0.315
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "artgxYcBe0HPuXpM8hRx",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2021-06-06",
+                    "type_of_covid_data": "covid_vaccine_series_complete_percentile",
+                    "value": 0.36154545454545456
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "a7tgxYcBe0HPuXpM8hSt",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2021-06-20",
+                    "type_of_covid_data": "covid_vaccine_series_complete_percentile",
+                    "value": 0.39
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "bLtgxYcBe0HPuXpM8hTp",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2021-07-04",
+                    "type_of_covid_data": "covid_vaccine_series_complete_percentile",
+                    "value": 0.42398777506112467
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "bbtgxYcBe0HPuXpM8xQv",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2021-07-18",
+                    "type_of_covid_data": "covid_vaccine_series_complete_percentile",
+                    "value": 0.4390118343195266
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "brtgxYcBe0HPuXpM8xRq",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2021-08-01",
+                    "type_of_covid_data": "covid_vaccine_series_complete_percentile",
+                    "value": 0.452
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "b7tgxYcBe0HPuXpM8xSm",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2021-08-15",
+                    "type_of_covid_data": "covid_vaccine_series_complete_percentile",
+                    "value": 0.0
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "cLtgxYcBe0HPuXpM8xTi",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2021-08-29",
+                    "type_of_covid_data": "covid_vaccine_series_complete_percentile",
+                    "value": 0.48406197183098587
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "_btgxYcBe0HPuXpM2BMv",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2021-06-20",
+                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
+                    "value": 6.112007046114977
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "_rtgxYcBe0HPuXpM2BNt",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2021-07-04",
+                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
+                    "value": 8.190960085588069
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "_7tgxYcBe0HPuXpM2BOn",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2021-07-18",
+                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
+                    "value": 16.78002234133529
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "ALtgxYcBe0HPuXpM2BTl",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2021-08-01",
+                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
+                    "value": 27.55201443744088
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "AbtgxYcBe0HPuXpM2RQi",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2021-08-15",
+                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
+                    "value": 0.0
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "ArtgxYcBe0HPuXpM2RRl",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2021-08-29",
+                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
+                    "value": 49.224349726049226
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "A7tgxYcBe0HPuXpM2RSk",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2021-09-12",
+                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
+                    "value": 49.21732930166002
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "BLtgxYcBe0HPuXpM2RTn",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2021-09-26",
+                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
+                    "value": 36.89848294302825
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "BbtgxYcBe0HPuXpM2hQk",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2021-10-10",
+                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
+                    "value": 31.798037955211207
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "BrtgxYcBe0HPuXpM2hRs",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2021-10-24",
+                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
+                    "value": 20.831632667212613
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "B7tgxYcBe0HPuXpM2hSx",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2021-11-07",
+                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
+                    "value": 21.16195504910343
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "CLtgxYcBe0HPuXpM2hTr",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2021-11-21",
+                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
+                    "value": 25.20215988641284
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "CbtgxYcBe0HPuXpM2xQn",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2021-12-05",
+                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
+                    "value": 32.44719525122102
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "CrtgxYcBe0HPuXpM2xRj",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2021-12-19",
+                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
+                    "value": 43.79248339769579
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "C7tgxYcBe0HPuXpM2xSf",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2022-01-02",
+                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
+                    "value": 109.44527520073306
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "DLtgxYcBe0HPuXpM2xTR",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2022-01-16",
+                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
+                    "value": 269.5161049140212
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "DbtgxYcBe0HPuXpM3BQX",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2022-01-30",
+                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
+                    "value": 185.9583278551767
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "LrtgxYcBe0HPuXpM5BQb",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2021-03-28",
+                    "type_of_covid_data": "covid_vaccine_first_dose_percentile",
+                    "value": 0.096
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "L7tgxYcBe0HPuXpM5BRq",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2021-04-11",
+                    "type_of_covid_data": "covid_vaccine_first_dose_percentile",
+                    "value": 0.187
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "MLtgxYcBe0HPuXpM5BSm",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2021-04-25",
+                    "type_of_covid_data": "covid_vaccine_first_dose_percentile",
+                    "value": 0.2578888888888889
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "MbtgxYcBe0HPuXpM5BTh",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2021-05-09",
+                    "type_of_covid_data": "covid_vaccine_first_dose_percentile",
+                    "value": 0.392
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "MrtgxYcBe0HPuXpM5RQe",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2021-05-23",
+                    "type_of_covid_data": "covid_vaccine_first_dose_percentile",
+                    "value": 0.424
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "M7tgxYcBe0HPuXpM5RRa",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2021-06-06",
+                    "type_of_covid_data": "covid_vaccine_first_dose_percentile",
+                    "value": 0.4571818181818182
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "NLtgxYcBe0HPuXpM5RSM",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2021-06-20",
+                    "type_of_covid_data": "covid_vaccine_first_dose_percentile",
+                    "value": 0.4745
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "NbtgxYcBe0HPuXpM5RTS",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2021-07-04",
+                    "type_of_covid_data": "covid_vaccine_first_dose_percentile",
+                    "value": 0.4999877750611247
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "NrtgxYcBe0HPuXpM5hQO",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2021-07-18",
+                    "type_of_covid_data": "covid_vaccine_first_dose_percentile",
+                    "value": 0.5140118343195266
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "N7tgxYcBe0HPuXpM5hRJ",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2021-08-01",
+                    "type_of_covid_data": "covid_vaccine_first_dose_percentile",
+                    "value": 0.532
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "OLtgxYcBe0HPuXpM5hSG",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2021-08-15",
+                    "type_of_covid_data": "covid_vaccine_first_dose_percentile",
+                    "value": 0.0
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "ObtgxYcBe0HPuXpM5hTB",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2021-08-29",
+                    "type_of_covid_data": "covid_vaccine_first_dose_percentile",
+                    "value": 0.5850732394366197
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "OrtgxYcBe0HPuXpM5hT9",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2021-09-12",
+                    "type_of_covid_data": "covid_vaccine_first_dose_percentile",
+                    "value": 0.6110532687651332
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "O7tgxYcBe0HPuXpM5xQ6",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2021-09-26",
+                    "type_of_covid_data": "covid_vaccine_first_dose_percentile",
+                    "value": 0.638
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "PLtgxYcBe0HPuXpM5xR2",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2021-10-10",
+                    "type_of_covid_data": "covid_vaccine_first_dose_percentile",
+                    "value": 0.6444080061585835
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "PbtgxYcBe0HPuXpM5xSz",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2021-10-24",
+                    "type_of_covid_data": "covid_vaccine_first_dose_percentile",
+                    "value": 0.660974025974026
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "PrtgxYcBe0HPuXpM5xTu",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2021-11-07",
+                    "type_of_covid_data": "covid_vaccine_first_dose_percentile",
+                    "value": 0.6661911764705882
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "DrtgxYcBe0HPuXpM3BRT",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2022-02-13",
+                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
+                    "value": 73.30513080948052
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "D7tgxYcBe0HPuXpM3BSR",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2022-02-27",
+                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
+                    "value": 29.898789620282468
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "ELtgxYcBe0HPuXpM3BTM",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2022-03-13",
+                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
+                    "value": 15.220543570157307
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "EbtgxYcBe0HPuXpM3RQI",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2022-03-27",
+                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
+                    "value": 11.58067593983899
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "ErtgxYcBe0HPuXpM3RRE",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2022-04-10",
+                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
+                    "value": 11.548660999798605
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "E7tgxYcBe0HPuXpM3RSL",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2022-04-24",
+                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
+                    "value": 15.850534806670609
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "FLtgxYcBe0HPuXpM3RTG",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2022-05-08",
+                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
+                    "value": 22.57760020995447
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "FbtgxYcBe0HPuXpM3hQB",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2022-05-22",
+                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
+                    "value": 32.14648437645553
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "FrtgxYcBe0HPuXpM3hQ9",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2022-06-05",
+                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
+                    "value": 33.33733441811141
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "F7tgxYcBe0HPuXpM3hR5",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2022-06-19",
+                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
+                    "value": 29.572465510680708
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "GLtgxYcBe0HPuXpM3hS5",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2022-07-03",
+                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
+                    "value": 31.48988562635764
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "GbtgxYcBe0HPuXpM3hT8",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2022-07-17",
+                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
+                    "value": 32.71700818536958
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "GrtgxYcBe0HPuXpM3xQ3",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2022-07-31",
+                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
+                    "value": 34.26157855171048
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "G7tgxYcBe0HPuXpM3xRz",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2022-08-14",
+                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
+                    "value": 28.59880264060289
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "HLtgxYcBe0HPuXpM3xSw",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2022-08-28",
+                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
+                    "value": 22.81190606264556
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "HbtgxYcBe0HPuXpM3xTs",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2022-09-11",
+                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
+                    "value": 21.115628515084982
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "7rtgxYcBe0HPuXpM1BO1",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2020-11-22",
+                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
+                    "value": 0.0
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "77tgxYcBe0HPuXpM1BPs",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2020-12-06",
+                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
+                    "value": 0.0
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "8LtgxYcBe0HPuXpM1RMk",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2020-12-20",
+                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
+                    "value": 0.0
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "8btgxYcBe0HPuXpM1RNf",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2021-01-03",
+                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
+                    "value": 0.0
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "8rtgxYcBe0HPuXpM1ROb",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2021-01-17",
+                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
+                    "value": 96.30582995085028
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "87tgxYcBe0HPuXpM1RPX",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2021-01-31",
+                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
+                    "value": 57.81848045341004
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "9LtgxYcBe0HPuXpM1hMT",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2021-02-14",
+                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
+                    "value": 42.25161662382489
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "9btgxYcBe0HPuXpM1hNP",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2021-02-28",
+                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
+                    "value": 27.807034993705475
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "9rtgxYcBe0HPuXpM1hOL",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2021-03-14",
+                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
+                    "value": 25.547612714529013
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "97tgxYcBe0HPuXpM1hPH",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2021-03-28",
+                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
+                    "value": 24.362935658487235
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "-LtgxYcBe0HPuXpM1xMD",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2021-04-11",
+                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
+                    "value": 29.685473158077965
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "-btgxYcBe0HPuXpM1xNA",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2021-04-25",
+                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
+                    "value": 30.37887219225405
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "-rtgxYcBe0HPuXpM1xN-",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2021-05-09",
+                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
+                    "value": 19.823249397845103
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "-7tgxYcBe0HPuXpM1xO4",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2021-05-23",
+                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
+                    "value": 13.919719040363177
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "_LtgxYcBe0HPuXpM1xP1",
+                "_score": 1.0,
+                "_source": {
+                    "post_date": "2021-06-06",
+                    "type_of_covid_data": "covid_7-day_avg_cases_weekly",
+                    "value": 6.5221702117125515
+                }
+            },
+            {
+                "_index": "covid_data_index",
+                "_id": "krtgxYcBe0HPuXpM_BQW",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2022-12-18",
@@ -1666,7 +1666,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "Ep3cxIcBRlEMH4oPUC8_",
+                "_id": "k7tgxYcBe0HPuXpM_BRa",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2020-11-22",
@@ -1676,7 +1676,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "E53cxIcBRlEMH4oPUC9K",
+                "_id": "lLtgxYcBe0HPuXpM_BSW",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2020-12-06",
@@ -1686,7 +1686,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "FJ3cxIcBRlEMH4oPUC9W",
+                "_id": "lbtgxYcBe0HPuXpM_BTT",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2020-12-20",
@@ -1696,7 +1696,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "FZ3cxIcBRlEMH4oPUC9g",
+                "_id": "lrtgxYcBe0HPuXpM_RQF",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2021-01-03",
@@ -1706,7 +1706,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "Fp3cxIcBRlEMH4oPUC9q",
+                "_id": "l7tgxYcBe0HPuXpM_RRA",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2021-01-17",
@@ -1716,7 +1716,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "F53cxIcBRlEMH4oPUC90",
+                "_id": "mLtgxYcBe0HPuXpM_RR8",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2021-01-31",
@@ -1726,7 +1726,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "GJ3cxIcBRlEMH4oPUC99",
+                "_id": "mbtgxYcBe0HPuXpM_RS4",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2021-02-14",
@@ -1736,7 +1736,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "GZ3cxIcBRlEMH4oPUC-H",
+                "_id": "mrtgxYcBe0HPuXpM_RTr",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2021-02-28",
@@ -1746,7 +1746,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "Gp3cxIcBRlEMH4oPUC-R",
+                "_id": "m7tgxYcBe0HPuXpM_hQp",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2021-03-14",
@@ -1756,7 +1756,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "G53cxIcBRlEMH4oPUC-Z",
+                "_id": "nLtgxYcBe0HPuXpM_hRw",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2021-03-28",
@@ -1766,7 +1766,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "HJ3cxIcBRlEMH4oPUC-i",
+                "_id": "nbtgxYcBe0HPuXpM_hS0",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2021-04-11",
@@ -1776,7 +1776,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "HZ3cxIcBRlEMH4oPUC-r",
+                "_id": "nrtgxYcBe0HPuXpM_hTw",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2021-04-25",
@@ -1786,7 +1786,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "Hp3cxIcBRlEMH4oPUC-0",
+                "_id": "n7tgxYcBe0HPuXpM_xQt",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2021-05-09",
@@ -1796,7 +1796,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "H53cxIcBRlEMH4oPUC-_",
+                "_id": "oLtgxYcBe0HPuXpM_xRy",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2021-05-23",
@@ -1806,7 +1806,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "IJ3cxIcBRlEMH4oPUC_I",
+                "_id": "obtgxYcBe0HPuXpM_xSv",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2021-06-06",
@@ -1816,7 +1816,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "IZ3cxIcBRlEMH4oPUC_R",
+                "_id": "ortgxYcBe0HPuXpM_xTy",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2021-06-20",
@@ -1826,7 +1826,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "Ip3cxIcBRlEMH4oPUC_a",
+                "_id": "o7thxYcBe0HPuXpMABQ5",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2021-07-04",
@@ -1836,7 +1836,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "I53cxIcBRlEMH4oPUC_j",
+                "_id": "pLthxYcBe0HPuXpMABR2",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2021-07-18",
@@ -1846,7 +1846,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "JJ3cxIcBRlEMH4oPUC_u",
+                "_id": "pbthxYcBe0HPuXpMABSy",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2021-08-01",
@@ -1856,7 +1856,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "JZ3cxIcBRlEMH4oPUC_4",
+                "_id": "prthxYcBe0HPuXpMABTu",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2021-08-15",
@@ -1866,7 +1866,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "Jp3cxIcBRlEMH4oPUS8D",
+                "_id": "p7thxYcBe0HPuXpMARQp",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2021-08-29",
@@ -1876,7 +1876,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "J53cxIcBRlEMH4oPUS8O",
+                "_id": "qLthxYcBe0HPuXpMARRn",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2021-09-12",
@@ -1886,7 +1886,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "KJ3cxIcBRlEMH4oPUS8Z",
+                "_id": "qbthxYcBe0HPuXpMARSt",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2021-09-26",
@@ -1896,7 +1896,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "KZ3cxIcBRlEMH4oPUS8j",
+                "_id": "qrthxYcBe0HPuXpMARTn",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2021-10-10",
@@ -1906,7 +1906,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "Kp3cxIcBRlEMH4oPUS8t",
+                "_id": "q7thxYcBe0HPuXpMAhQi",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2021-10-24",
@@ -1916,7 +1916,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "K53cxIcBRlEMH4oPUS83",
+                "_id": "rLthxYcBe0HPuXpMAhRV",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2021-11-07",
@@ -1926,7 +1926,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "LJ3cxIcBRlEMH4oPUS9A",
+                "_id": "rbthxYcBe0HPuXpMAhSQ",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2021-11-21",
@@ -1936,7 +1936,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "LZ3cxIcBRlEMH4oPUS9K",
+                "_id": "rrthxYcBe0HPuXpMAhTY",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2021-12-05",
@@ -1946,7 +1946,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "Lp3cxIcBRlEMH4oPUS9U",
+                "_id": "r7thxYcBe0HPuXpMAxQe",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2021-12-19",
@@ -1956,7 +1956,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "L53cxIcBRlEMH4oPUS9e",
+                "_id": "sLthxYcBe0HPuXpMAxRa",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2022-01-02",
@@ -1966,7 +1966,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "MJ3cxIcBRlEMH4oPUS9o",
+                "_id": "sbthxYcBe0HPuXpMAxSX",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2022-01-16",
@@ -1976,7 +1976,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "MZ3cxIcBRlEMH4oPUS9y",
+                "_id": "srthxYcBe0HPuXpMAxTa",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2022-01-30",
@@ -1986,7 +1986,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "Mp3cxIcBRlEMH4oPUS9-",
+                "_id": "s7thxYcBe0HPuXpMBBQi",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2022-02-13",
@@ -1996,7 +1996,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "M53cxIcBRlEMH4oPUS-H",
+                "_id": "tLthxYcBe0HPuXpMBBRo",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2022-02-27",
@@ -2006,7 +2006,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "NJ3cxIcBRlEMH4oPUS-Q",
+                "_id": "tbthxYcBe0HPuXpMBBSi",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2022-03-13",
@@ -2016,7 +2016,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "NZ3cxIcBRlEMH4oPUS-a",
+                "_id": "trthxYcBe0HPuXpMBBTe",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2022-03-27",
@@ -2026,7 +2026,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "Np3cxIcBRlEMH4oPUS-o",
+                "_id": "t7thxYcBe0HPuXpMBRQR",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2022-04-10",
@@ -2036,7 +2036,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "N53cxIcBRlEMH4oPUS-2",
+                "_id": "uLthxYcBe0HPuXpMBRRE",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2022-04-24",
@@ -2046,7 +2046,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "OJ3cxIcBRlEMH4oPUS_A",
+                "_id": "ubthxYcBe0HPuXpMBRSA",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2022-05-08",
@@ -2056,7 +2056,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "OZ3cxIcBRlEMH4oPUS_K",
+                "_id": "urthxYcBe0HPuXpMBRS8",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2022-05-22",
@@ -2066,7 +2066,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "Op3cxIcBRlEMH4oPUS_X",
+                "_id": "u7thxYcBe0HPuXpMBRT4",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2022-06-05",
@@ -2076,7 +2076,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "O53cxIcBRlEMH4oPUS_j",
+                "_id": "vLthxYcBe0HPuXpMBhQ0",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2022-06-19",
@@ -2086,7 +2086,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "PJ3cxIcBRlEMH4oPUS_u",
+                "_id": "vbthxYcBe0HPuXpMBhRy",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2022-07-03",
@@ -2096,7 +2096,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "PZ3cxIcBRlEMH4oPUS_5",
+                "_id": "vrthxYcBe0HPuXpMBhSr",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2022-07-17",
@@ -2106,7 +2106,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "Pp3cxIcBRlEMH4oPUi8F",
+                "_id": "v7thxYcBe0HPuXpMBhTo",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2022-07-31",
@@ -2116,7 +2116,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "P53cxIcBRlEMH4oPUi8Q",
+                "_id": "wLthxYcBe0HPuXpMBxQl",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2022-08-14",
@@ -2126,7 +2126,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "QJ3cxIcBRlEMH4oPUi8b",
+                "_id": "wbthxYcBe0HPuXpMBxRg",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2022-08-28",
@@ -2136,7 +2136,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "QZ3cxIcBRlEMH4oPUi8m",
+                "_id": "wrthxYcBe0HPuXpMBxSc",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2022-09-11",
@@ -2146,7 +2146,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "Qp3cxIcBRlEMH4oPUi8y",
+                "_id": "w7thxYcBe0HPuXpMBxTW",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2022-09-25",
@@ -2156,7 +2156,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "Q53cxIcBRlEMH4oPUi8-",
+                "_id": "xLthxYcBe0HPuXpMCBQT",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2022-10-09",
@@ -2166,7 +2166,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "RJ3cxIcBRlEMH4oPUi9J",
+                "_id": "xbthxYcBe0HPuXpMCBRQ",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2022-10-23",
@@ -2176,7 +2176,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "RZ3cxIcBRlEMH4oPUi9W",
+                "_id": "xrthxYcBe0HPuXpMCBSN",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2022-11-06",
@@ -2186,7 +2186,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "Rp3cxIcBRlEMH4oPUi9k",
+                "_id": "x7thxYcBe0HPuXpMCBTR",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2022-11-20",
@@ -2196,7 +2196,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "R53cxIcBRlEMH4oPUi9y",
+                "_id": "yLthxYcBe0HPuXpMCRQN",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2022-12-04",
@@ -2206,7 +2206,7 @@
             },
             {
                 "_index": "covid_data_index",
-                "_id": "SJ3cxIcBRlEMH4oPUi-Z",
+                "_id": "ybthxYcBe0HPuXpMCRRL",
                 "_score": 1.0,
                 "_source": {
                     "post_date": "2022-12-18",
